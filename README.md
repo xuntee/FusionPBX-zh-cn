@@ -12,9 +12,14 @@ FusionPBX简体中文语言包
 使用方法  4.4 版本
 
 cd /var/www/fusionpbx
+
 git clone -b 4.4 https://github.com/xuntee/FusionPBX-zh-cn tmp
+
 cp -r tmp/* .
+
 rm -rf tmp
+
 git reset --hard HEAD
+
 
 
