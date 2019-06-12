@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-pin_numbers']['en-us'] = "PIN Numbers";
-$text['title-pin_numbers']['zh-cn'] = "引脚数";
+$text['title-pin_numbers']['zh-cn'] = "PIN Numbers";
+$text['title-pin_numbers']['en-us'] = "引脚数";
 $text['title-pin_numbers']['ar-eg'] = "";
 $text['title-pin_numbers']['de-at'] = "PIN Nummern"; //copied from de-de
 $text['title-pin_numbers']['de-ch'] = "PIN Nummern"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-pin_numbers']['ru-ru'] = "PIN Номеров";
 $text['title-pin_numbers']['sv-se'] = "PIN Nummer";
 $text['title-pin_numbers']['uk-ua'] = "";
 
-$text['title-pin_number']['en-us'] = "PIN Number";
-$text['title-pin_number']['zh-cn'] = "PIN码";
+$text['title-pin_number']['zh-cn'] = "PIN Number";
+$text['title-pin_number']['en-us'] = "PIN码";
 $text['title-pin_number']['ar-eg'] = "";
 $text['title-pin_number']['de-at'] = "PIN Nummer"; //copied from de-de
 $text['title-pin_number']['de-ch'] = "PIN Nummer"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title-pin_number']['ru-ru'] = "PIN Номер";
 $text['title-pin_number']['sv-se'] = "PIN Nummer";
 $text['title-pin_number']['uk-ua'] = "";
 
-$text['title_description-pin_number']['en-us'] = "List of PIN Numbers and account codes.";
-$text['title_description-pin_number']['zh-cn'] = "密码和帐户代码列表。";
+$text['title_description-pin_number']['zh-cn'] = "List of PIN Numbers and account codes.";
+$text['title_description-pin_number']['en-us'] = "密码和帐户代码列表。";
 $text['title_description-pin_number']['ar-eg'] = "";
 $text['title_description-pin_number']['de-at'] = "Liste von PIN Nummern und Kontoschlüssel."; //copied from de-de
 $text['title_description-pin_number']['de-ch'] = "Liste von PIN Nummern und Kontoschlüssel."; //copied from de-de
@@ -64,8 +64,8 @@ $text['title_description-pin_number']['ru-ru'] = "Список PIN Номеро�
 $text['title_description-pin_number']['sv-se'] = "Lista med PIN Nummer och account codes.";
 $text['title_description-pin_number']['uk-ua'] = "";
 
-$text['label-pin_number']['en-us'] = "PIN Number";
-$text['label-pin_number']['zh-cn'] = "PIN码";
+$text['label-pin_number']['zh-cn'] = "PIN Number";
+$text['label-pin_number']['en-us'] = "PIN码";
 $text['label-pin_number']['ar-eg'] = "";
 $text['label-pin_number']['de-at'] = "PIN Nummer"; //copied from de-de
 $text['label-pin_number']['de-ch'] = "PIN Nummer"; //copied from de-de
@@ -85,8 +85,8 @@ $text['label-pin_number']['ru-ru'] = "PIN Номер";
 $text['label-pin_number']['sv-se'] = "PIN Nummer";
 $text['label-pin_number']['uk-ua'] = "";
 
-$text['description-pin_number']['en-us'] = "Enter the PIN number.";
-$text['description-pin_number']['zh-cn'] = "输入密码。";
+$text['description-pin_number']['zh-cn'] = "Enter the PIN number.";
+$text['description-pin_number']['en-us'] = "输入密码。";
 $text['description-pin_number']['ar-eg'] = "";
 $text['description-pin_number']['de-at'] = "Geben Sie die PIN Nummer ein."; //copied from de-de
 $text['description-pin_number']['de-ch'] = "Geben Sie die PIN Nummer ein."; //copied from de-de
@@ -106,8 +106,8 @@ $text['description-pin_number']['ru-ru'] = "Введите PIN номер.";
 $text['description-pin_number']['sv-se'] = "Ange PIN NUmret.";
 $text['description-pin_number']['uk-ua'] = "";
 
-$text['label-accountcode']['en-us'] = "Accountcode";
-$text['label-accountcode']['zh-cn'] = "账户代码";
+$text['label-accountcode']['zh-cn'] = "Accountcode";
+$text['label-accountcode']['en-us'] = "账户代码";
 $text['label-accountcode']['ar-eg'] = "";
 $text['label-accountcode']['de-at'] = "Kontoschlüssel"; //copied from de-de
 $text['label-accountcode']['de-ch'] = "Kontoschlüssel"; //copied from de-de
@@ -127,8 +127,8 @@ $text['label-accountcode']['ru-ru'] = "Код Аккаунта";
 $text['label-accountcode']['sv-se'] = "Accountcode";
 $text['label-accountcode']['uk-ua'] = "";
 
-$text['description-accountcode']['en-us'] = "Enter the accountcode.";
-$text['description-accountcode']['zh-cn'] = "输入帐户代码。";
+$text['description-accountcode']['zh-cn'] = "Enter the accountcode.";
+$text['description-accountcode']['en-us'] = "输入帐户代码。";
 $text['description-accountcode']['ar-eg'] = "";
 $text['description-accountcode']['de-at'] = "Geben Sie den Kontoschlüssel ein."; //copied from de-de
 $text['description-accountcode']['de-ch'] = "Geben Sie den Kontoschlüssel ein."; //copied from de-de
@@ -148,8 +148,8 @@ $text['description-accountcode']['ru-ru'] = "Введите код Аккаун�
 $text['description-accountcode']['sv-se'] = "Ange Accountcode";
 $text['description-accountcode']['uk-ua'] = "";
 
-$text['label-enabled']['en-us'] = "Enabled";
-$text['label-enabled']['zh-cn'] = "启用";
+$text['label-enabled']['zh-cn'] = "Enabled";
+$text['label-enabled']['en-us'] = "启用";
 $text['label-enabled']['ar-eg'] = "";
 $text['label-enabled']['de-at'] = "Aktiviert"; //copied from de-de
 $text['label-enabled']['de-ch'] = "Aktiviert"; //copied from de-de
@@ -169,8 +169,8 @@ $text['label-enabled']['ru-ru'] = "Включено";
 $text['label-enabled']['sv-se'] = "Aktiverad";
 $text['label-enabled']['uk-ua'] = "";
 
-$text['description-enabled']['en-us'] = "Enable or Disable the PIN Number.";
-$text['description-enabled']['zh-cn'] = "启用或禁用密码。";
+$text['description-enabled']['zh-cn'] = "Enable or Disable the PIN Number.";
+$text['description-enabled']['en-us'] = "启用或禁用密码。";
 $text['description-enabled']['ar-eg'] = "";
 $text['description-enabled']['de-at'] = "Die PIN Nummer aktivieren und deaktivieren."; //copied from de-de
 $text['description-enabled']['de-ch'] = "Die PIN Nummer aktivieren und deaktivieren."; //copied from de-de
@@ -190,8 +190,8 @@ $text['description-enabled']['ru-ru'] = "Включение и отключен�
 $text['description-enabled']['sv-se'] = "Aktivera eller inaktivera PIN Nummer.";
 $text['description-enabled']['uk-ua'] = "";
 
-$text['label-description']['en-us'] = "Description";
-$text['label-description']['zh-cn'] = "说明";
+$text['label-description']['zh-cn'] = "Description";
+$text['label-description']['en-us'] = "说明";
 $text['label-description']['ar-eg'] = "";
 $text['label-description']['de-at'] = "Beschreibung"; //copied from de-de
 $text['label-description']['de-ch'] = "Beschreibung"; //copied from de-de
@@ -211,8 +211,8 @@ $text['label-description']['ru-ru'] = "Описание";
 $text['label-description']['sv-se'] = "Beskrivning";
 $text['label-description']['uk-ua'] = "";
 
-$text['description-description']['en-us'] = "Enter the description.";
-$text['description-description']['zh-cn'] = "输入说明。";
+$text['description-description']['zh-cn'] = "Enter the description.";
+$text['description-description']['en-us'] = "输入说明。";
 $text['description-description']['ar-eg'] = "";
 $text['description-description']['de-at'] = "Geben Sie die Beschreibung ein."; //copied from de-de
 $text['description-description']['de-ch'] = "Geben Sie die Beschreibung ein."; //copied from de-de
@@ -232,8 +232,8 @@ $text['description-description']['ru-ru'] = "Введите описание.";
 $text['description-description']['sv-se'] = "Ange beskrivningen.";
 $text['description-description']['uk-ua'] = "";
 
-$text['label-true']['en-us'] = "true";
-$text['label-真']['zh-cn'] = "真";
+$text['label-true']['zh-cn'] = "true";
+$text['label-真']['en-us'] = "真";
 $text['label-true']['ar-eg'] = "";
 $text['label-true']['de-at'] = "ein"; //copied from de-de
 $text['label-true']['de-ch'] = "ein"; //copied from de-de
@@ -253,8 +253,8 @@ $text['label-true']['ru-ru'] = "Да";
 $text['label-true']['sv-se'] = "sann";
 $text['label-true']['uk-ua'] = "";
 
-$text['label-false']['en-us'] = "false";
-$text['label-假']['zh-cn'] = "假";
+$text['label-false']['zh-cn'] = "false";
+$text['label-假']['en-us'] = "假";
 $text['label-false']['ar-eg'] = "";
 $text['label-false']['de-at'] = "aus"; //copied from de-de
 $text['label-false']['de-ch'] = "aus"; //copied from de-de
@@ -274,8 +274,8 @@ $text['label-false']['ru-ru'] = "";
 $text['label-false']['sv-se'] = "falsk";
 $text['label-false']['uk-ua'] = "";
 
-$text['button-add']['en-us'] = "Add";
-$text['button-add']['zh-cn'] = "添加";
+$text['button-add']['zh-cn'] = "Add";
+$text['button-add']['en-us'] = "添加";
 $text['button-add']['ar-eg'] = "";
 $text['button-add']['de-at'] = "Hinzufügen"; //copied from de-de
 $text['button-add']['de-ch'] = "Hinzufügen"; //copied from de-de
@@ -295,8 +295,8 @@ $text['button-add']['ru-ru'] = "Добавить";
 $text['button-add']['sv-se'] = "Lägg Till";
 $text['button-add']['uk-ua'] = "";
 
-$text['button-edit']['en-us'] = "Edit";
-$text['button-edit']['zh-cn'] = "编辑";
+$text['button-edit']['zh-cn'] = "Edit";
+$text['button-edit']['en-us'] = "编辑";
 $text['button-edit']['ar-eg'] = "";
 $text['button-edit']['de-at'] = "Bearbeiten"; //copied from de-de
 $text['button-edit']['de-ch'] = "Bearbeiten"; //copied from de-de
@@ -316,8 +316,8 @@ $text['button-edit']['ru-ru'] = "Редактировать";
 $text['button-edit']['sv-se'] = "Ändra";
 $text['button-edit']['uk-ua'] = "";
 
-$text['button-delete']['en-us'] = "Delete";
-$text['button-delete']['zh-cn'] = "删除";
+$text['button-delete']['zh-cn'] = "Delete";
+$text['button-delete']['en-us'] = "删除";
 $text['button-delete']['ar-eg'] = "";
 $text['button-delete']['de-at'] = "Löschen"; //copied from de-de
 $text['button-delete']['de-ch'] = "Löschen"; //copied from de-de
@@ -337,8 +337,8 @@ $text['button-delete']['ru-ru'] = "Удалить";
 $text['button-delete']['sv-se'] = "Ta Bort";
 $text['button-delete']['uk-ua'] = "";
 
-$text['button-save']['en-us'] = "Save";
-$text['button-save']['zh-cn'] = "保存";
+$text['button-save']['zh-cn'] = "Save";
+$text['button-save']['en-us'] = "保存";
 $text['button-save']['ar-eg'] = "";
 $text['button-save']['de-at'] = "Speichern"; //copied from de-de
 $text['button-save']['de-ch'] = "Speichern"; //copied from de-de
@@ -358,8 +358,8 @@ $text['button-save']['ru-ru'] = "Сохранить";
 $text['button-save']['sv-se'] = "Spara";
 $text['button-save']['uk-ua'] = "";
 
-$text['button-view']['en-us'] = "View";
-$text['button-view']['zh-cn'] = "视图";
+$text['button-view']['zh-cn'] = "View";
+$text['button-view']['en-us'] = "视图";
 $text['button-view']['ar-eg'] = "";
 $text['button-view']['de-at'] = "Anzeigen"; //copied from de-de
 $text['button-view']['de-ch'] = "Anzeigen"; //copied from de-de
@@ -379,8 +379,8 @@ $text['button-view']['ru-ru'] = "";
 $text['button-view']['sv-se'] = "Visa";
 $text['button-view']['uk-ua'] = "";
 
-$text['button-back']['en-us'] = "Back";
-$text['button-back']['zh-cn'] = "背部";
+$text['button-back']['zh-cn'] = "Back";
+$text['button-back']['en-us'] = "背部";
 $text['button-back']['ar-eg'] = "";
 $text['button-back']['de-at'] = "Zurück"; //copied from de-de
 $text['button-back']['de-ch'] = "Zurück"; //copied from de-de
@@ -400,8 +400,8 @@ $text['button-back']['ru-ru'] = "Назад";
 $text['button-back']['sv-se'] = "Tillbaka";
 $text['button-back']['uk-ua'] = "";
 
-$text['confirm-delete']['en-us'] = "Do you really want to delete this?";
-$text['confirm-delete']['zh-cn'] = "是否确实要删除此？";
+$text['confirm-delete']['zh-cn'] = "Do you really want to delete this?";
+$text['confirm-delete']['en-us'] = "是否确实要删除此？";
 $text['confirm-delete']['ar-eg'] = "";
 $text['confirm-delete']['de-at'] = "Möchten Sie dieses wirklich löschen?"; //copied from de-de
 $text['confirm-delete']['de-ch'] = "Möchten Sie dieses wirklich löschen?"; //copied from de-de
@@ -421,8 +421,8 @@ $text['confirm-delete']['ru-ru'] = "Вы действительно хотите
 $text['confirm-delete']['sv-se'] = "Vill du verkligen ta bort detta?";
 $text['confirm-delete']['uk-ua'] = "";
 
-$text['message-add']['en-us'] = "Add Completed";
-$text['message-add']['zh-cn'] = "添加完成";
+$text['message-add']['zh-cn'] = "Add Completed";
+$text['message-add']['en-us'] = "添加完成";
 $text['message-add']['ar-eg'] = "";
 $text['message-add']['de-at'] = "Erfolgreich hinzugefügt"; //copied from de-de
 $text['message-add']['de-ch'] = "Erfolgreich hinzugefügt"; //copied from de-de
@@ -442,8 +442,8 @@ $text['message-add']['ru-ru'] = "Добавление выполнено";
 $text['message-add']['sv-se'] = "Tillagd";
 $text['message-add']['uk-ua'] = "";
 
-$text['message-update']['en-us'] = "Update Completed";
-$text['message-update']['zh-cn'] = "更新已完成";
+$text['message-update']['zh-cn'] = "Update Completed";
+$text['message-update']['en-us'] = "更新已完成";
 $text['message-update']['ar-eg'] = "";
 $text['message-update']['de-at'] = "Aktualisierung durchgeführt"; //copied from de-de
 $text['message-update']['de-ch'] = "Aktualisierung durchgeführt"; //copied from de-de
@@ -463,8 +463,8 @@ $text['message-update']['ru-ru'] = "Обновление завершено";
 $text['message-update']['sv-se'] = "Ändring Utförd";
 $text['message-update']['uk-ua'] = "";
 
-$text['message-delete']['en-us'] = "Delete Completed";
-$text['message-delete']['zh-cn'] = "删除已完成";
+$text['message-delete']['zh-cn'] = "Delete Completed";
+$text['message-delete']['en-us'] = "删除已完成";
 $text['message-delete']['ar-eg'] = "";
 $text['message-delete']['de-at'] = "Erfolgreich gelöscht"; //copied from de-de
 $text['message-delete']['de-ch'] = "Erfolgreich gelöscht"; //copied from de-de
@@ -484,8 +484,8 @@ $text['message-delete']['ru-ru'] = "Удаление завершено";
 $text['message-delete']['sv-se'] = "Borttagen";
 $text['message-delete']['uk-ua'] = "";
 
-$text['message-required']['en-us'] = "Please provide: ";
-$text['message-required']['zh-cn'] = "请提供：";
+$text['message-required']['zh-cn'] = "Please provide: ";
+$text['message-required']['en-us'] = "请提供：";
 $text['message-required']['ar-eg'] = "";
 $text['message-required']['de-at'] = "Bitte geben Sie folgendes an:"; //copied from de-de
 $text['message-required']['de-ch'] = "Bitte geben Sie folgendes an:"; //copied from de-de

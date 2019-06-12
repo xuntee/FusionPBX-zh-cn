@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-tones']['en-us'] = "Tones";
-$text['title-tones']['zh-cn'] = "声调";
+$text['title-tones']['zh-cn'] = "Tones";
+$text['title-tones']['en-us'] = "声调";
 $text['title-tones']['ar-eg'] = "";
 $text['title-tones']['de-at'] = "Töne"; //copied from de-de
 $text['title-tones']['de-ch'] = "Töne"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-tones']['ru-ru'] = "Тон";
 $text['title-tones']['sv-se'] = "Toner";
 $text['title-tones']['uk-ua'] = "Тон";
 
-$text['label-tone']['en-us'] = "Tone";
-$text['label-tone']['zh-cn'] = "音调";
+$text['label-tone']['zh-cn'] = "Tone";
+$text['label-tone']['en-us'] = "音调";
 $text['label-tone']['ar-eg'] = "";
 $text['label-tone']['de-at'] = "Ton"; //copied from de-de
 $text['label-tone']['de-ch'] = "Ton"; //copied from de-de
@@ -43,8 +43,8 @@ $text['label-tone']['ru-ru'] = "Тон";
 $text['label-tone']['sv-se'] = "Ton";
 $text['label-tone']['uk-ua'] = "Тон";
 
-$text['label-tones']['en-us'] = "Tones";
-$text['label-tones']['zh-cn'] = "声调";
+$text['label-tones']['zh-cn'] = "Tones";
+$text['label-tones']['en-us'] = "声调";
 $text['label-tones']['ar-eg'] = "";
 $text['label-tones']['de-at'] = "Töne"; //copied from de-de
 $text['label-tones']['de-ch'] = "Töne"; //copied from de-de

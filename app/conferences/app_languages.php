@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-conferences']['en-us'] = "Conferences";
-$text['title-conferences']['zh-cn'] = "会议";
+$text['title-conferences']['zh-cn'] = "Conferences";
+$text['title-conferences']['en-us'] = "会议";
 $text['title-conferences']['ar-eg'] = "";
 $text['title-conferences']['de-at'] = "Konferenzen"; //copied from de-de
 $text['title-conferences']['de-ch'] = "Konferenzen"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-conferences']['ru-ru'] = "Конференции";
 $text['title-conferences']['sv-se'] = "Konferenser";
 $text['title-conferences']['uk-ua'] = "";
 
-$text['description']['en-us'] = "Conferences is used to setup conference rooms with a name, description, and optional pin number.";
-$text['description']['zh-cn'] = "会议用于设置具有名称、说明和可选PIN号的会议室。";
+$text['description']['zh-cn'] = "Conferences is used to setup conference rooms with a name, description, and optional pin number.";
+$text['description']['en-us'] = "会议用于设置具有名称、说明和可选PIN号的会议室。";
 $text['description']['ar-eg'] = "";
 $text['description']['de-at'] = "Konferenzen wird verwendet, um KOnferenzräume mit einem Namen, Beschreibung und optionaler PIN zu erstellen."; //copied from de-de
 $text['description']['de-ch'] = "Konferenzen wird verwendet, um KOnferenzräume mit einem Namen, Beschreibung und optionaler PIN zu erstellen."; //copied from de-de
@@ -43,8 +43,8 @@ $text['description']['ru-ru'] = "Конференции используются
 $text['description']['sv-se'] = "Konferenser används för att konfigurera konferensrum med namn, beskrivning och valfritt PIN-nummer.";
 $text['description']['uk-ua'] = "";
 
-$text['label-active_conferences']['en-us'] = "Active Conferences";
-$text['label-active_conferences']['zh-cn'] = "活动会议";
+$text['label-active_conferences']['zh-cn'] = "Active Conferences";
+$text['label-active_conferences']['en-us'] = "活动会议";
 $text['label-active_conferences']['ar-eg'] = "";
 $text['label-active_conferences']['de-at'] = "Aktive Konferenzen"; //copied from de-de
 $text['label-active_conferences']['de-ch'] = "Aktive Konferenzen"; //copied from de-de
@@ -64,8 +64,8 @@ $text['label-active_conferences']['ru-ru'] = "Активные Конферен�
 $text['label-active_conferences']['sv-se'] = "Aktiva Konferenser";
 $text['label-active_conferences']['uk-ua'] = "";
 
-$text['button-view_active']['en-us'] = "View Active";
-$text['button-view_active']['zh-cn'] = "活动视图";
+$text['button-view_active']['zh-cn'] = "View Active";
+$text['button-view_active']['en-us'] = "活动视图";
 $text['button-view_active']['ar-eg'] = "";
 $text['button-view_active']['de-at'] = "Aktive anzeigen"; //copied from de-de
 $text['button-view_active']['de-ch'] = "Aktive anzeigen"; //copied from de-de
@@ -85,8 +85,8 @@ $text['button-view_active']['ru-ru'] = "Просмотр Активных";
 $text['button-view_active']['sv-se'] = "Visa Aktiva";
 $text['button-view_active']['uk-ua'] = "";
 
-$text['table-name']['en-us'] = "Name";
-$text['table-name']['zh-cn'] = "名字";
+$text['table-name']['zh-cn'] = "Name";
+$text['table-name']['en-us'] = "名字";
 $text['table-name']['ar-eg'] = "";
 $text['table-name']['de-at'] = "Name"; //copied from de-de
 $text['table-name']['de-ch'] = "Name"; //copied from de-de
@@ -106,8 +106,8 @@ $text['table-name']['ru-ru'] = "Имя";
 $text['table-name']['sv-se'] = "Namn";
 $text['table-name']['uk-ua'] = "";
 
-$text['table-extension']['en-us'] = "Extension";
-$text['table-extension']['zh-cn'] = "扩展";
+$text['table-extension']['zh-cn'] = "Extension";
+$text['table-extension']['en-us'] = "扩展";
 $text['table-extension']['ar-eg'] = "";
 $text['table-extension']['de-at'] = "Nebenstelle"; //copied from de-de
 $text['table-extension']['de-ch'] = "Nebenstelle"; //copied from de-de
@@ -127,8 +127,8 @@ $text['table-extension']['ru-ru'] = "Внутренний Номер";
 $text['table-extension']['sv-se'] = "Anknytning";
 $text['table-extension']['uk-ua'] = "";
 
-$text['table-profile']['en-us'] = "Profile";
-$text['table-profile']['zh-cn'] = "简况";
+$text['table-profile']['zh-cn'] = "Profile";
+$text['table-profile']['en-us'] = "简况";
 $text['table-profile']['ar-eg'] = "";
 $text['table-profile']['de-at'] = "Profile"; //copied from de-de
 $text['table-profile']['de-ch'] = "Profile"; //copied from de-de
@@ -148,8 +148,8 @@ $text['table-profile']['ru-ru'] = "Профиль";
 $text['table-profile']['sv-se'] = "Profil";
 $text['table-profile']['uk-ua'] = "";
 
-$text['table-order']['en-us'] = "Order";
-$text['table-order']['zh-cn'] = "秩序";
+$text['table-order']['zh-cn'] = "Order";
+$text['table-order']['en-us'] = "秩序";
 $text['table-order']['ar-eg'] = "";
 $text['table-order']['de-at'] = "Reihenfolge"; //copied from de-de
 $text['table-order']['de-ch'] = "Reihenfolge"; //copied from de-de
@@ -169,8 +169,8 @@ $text['table-order']['ru-ru'] = "Приоритет";
 $text['table-order']['sv-se'] = "Ordning";
 $text['table-order']['uk-ua'] = "";
 
-$text['table-enabled']['en-us'] = "Enabled";
-$text['table-enabled']['zh-cn'] = "启用";
+$text['table-enabled']['zh-cn'] = "Enabled";
+$text['table-enabled']['en-us'] = "启用";
 $text['table-enabled']['ar-eg'] = "";
 $text['table-enabled']['de-at'] = "Aktiviert"; //copied from de-de
 $text['table-enabled']['de-ch'] = "Aktiviert"; //copied from de-de
@@ -190,8 +190,8 @@ $text['table-enabled']['ru-ru'] = "Включено";
 $text['table-enabled']['sv-se'] = "Aktiverad";
 $text['table-enabled']['uk-ua'] = "";
 
-$text['table-description']['en-us'] = "Description";
-$text['table-description']['zh-cn'] = "说明";
+$text['table-description']['zh-cn'] = "Description";
+$text['table-description']['en-us'] = "说明";
 $text['table-description']['ar-eg'] = "";
 $text['table-description']['de-at'] = "Beschreibung"; //copied from de-de
 $text['table-description']['de-ch'] = "Beschreibung"; //copied from de-de
@@ -211,8 +211,8 @@ $text['table-description']['ru-ru'] = "Описание";
 $text['table-description']['sv-se'] = "Beskrivning";
 $text['table-description']['uk-ua'] = "";
 
-$text['confirm-add']['en-us'] = "Add Complete";
-$text['confirm-add']['zh-cn'] = "添加完成";
+$text['confirm-add']['zh-cn'] = "Add Complete";
+$text['confirm-add']['en-us'] = "添加完成";
 $text['confirm-add']['ar-eg'] = "";
 $text['confirm-add']['de-at'] = "Erfolgreich hinzugefügt"; //copied from de-de
 $text['confirm-add']['de-ch'] = "Erfolgreich hinzugefügt"; //copied from de-de
@@ -232,8 +232,8 @@ $text['confirm-add']['ru-ru'] = "Добавление Выполнено";
 $text['confirm-add']['sv-se'] = "Tillagd";
 $text['confirm-add']['uk-ua'] = "";
 
-$text['confirm-update']['en-us'] = "Update Complete";
-$text['confirm-update']['zh-cn'] = "更新完成";
+$text['confirm-update']['zh-cn'] = "Update Complete";
+$text['confirm-update']['en-us'] = "更新完成";
 $text['confirm-update']['ar-eg'] = "";
 $text['confirm-update']['de-at'] = "Aktualisierung durchgeführt"; //copied from de-de
 $text['confirm-update']['de-ch'] = "Aktualisierung durchgeführt"; //copied from de-de
@@ -253,8 +253,8 @@ $text['confirm-update']['ru-ru'] = "Обновление Выполнено";
 $text['confirm-update']['sv-se'] = "Ändring Utförd";
 $text['confirm-update']['uk-ua'] = "";
 
-$text['confirm-name']['en-us'] = "Please provide: Name";
-$text['confirm-name']['zh-cn'] = "请提供：姓名";
+$text['confirm-name']['zh-cn'] = "Please provide: Name";
+$text['confirm-name']['en-us'] = "请提供：姓名";
 $text['confirm-name']['ar-eg'] = "";
 $text['confirm-name']['de-at'] = "Bitte angeben: Name"; //copied from de-de
 $text['confirm-name']['de-ch'] = "Bitte angeben: Name"; //copied from de-de
@@ -274,8 +274,8 @@ $text['confirm-name']['ru-ru'] = "Просьба указать: ФИО";
 $text['confirm-name']['sv-se'] = "Var god ange: Namn";
 $text['confirm-name']['uk-ua'] = "";
 
-$text['confirm-extension']['en-us'] = "Please provide: Extension";
-$text['confirm-extension']['zh-cn'] = "请提供：延期";
+$text['confirm-extension']['zh-cn'] = "Please provide: Extension";
+$text['confirm-extension']['en-us'] = "请提供：延期";
 $text['confirm-extension']['ar-eg'] = "";
 $text['confirm-extension']['de-at'] = "Bitte angeben: Nebenstelle"; //copied from de-de
 $text['confirm-extension']['de-ch'] = "Bitte angeben: Nebenstelle"; //copied from de-de
@@ -295,8 +295,8 @@ $text['confirm-extension']['ru-ru'] = "Просьба указать: Внутр
 $text['confirm-extension']['sv-se'] = "Var god ange: Anknytning";
 $text['confirm-extension']['uk-ua'] = "";
 
-$text['confirm-profile']['en-us'] = "Please provide: Profile";
-$text['confirm-profile']['zh-cn'] = "请提供：简介";
+$text['confirm-profile']['zh-cn'] = "Please provide: Profile";
+$text['confirm-profile']['en-us'] = "请提供：简介";
 $text['confirm-profile']['ar-eg'] = "";
 $text['confirm-profile']['de-at'] = "Bitte angeben: Profil"; //copied from de-de
 $text['confirm-profile']['de-ch'] = "Bitte angeben: Profil"; //copied from de-de
@@ -316,8 +316,8 @@ $text['confirm-profile']['ru-ru'] = "Просьба указать: Профил
 $text['confirm-profile']['sv-se'] = "Var god ange: Profil";
 $text['confirm-profile']['uk-ua'] = "";
 
-$text['confirm-enabled']['en-us'] = "Please provide: Enabled";
-$text['confirm-enabled']['zh-cn'] = "请提供：已启用";
+$text['confirm-enabled']['zh-cn'] = "Please provide: Enabled";
+$text['confirm-enabled']['en-us'] = "请提供：已启用";
 $text['confirm-enabled']['ar-eg'] = "";
 $text['confirm-enabled']['de-at'] = "Bitte angeben: Aktiviert"; //copied from de-de
 $text['confirm-enabled']['de-ch'] = "Bitte angeben: Aktiviert"; //copied from de-de
@@ -337,8 +337,8 @@ $text['confirm-enabled']['ru-ru'] = "Просьба указать: Включе
 $text['confirm-enabled']['sv-se'] = "Var god ange: Aktiverad";
 $text['confirm-enabled']['uk-ua'] = "";
 
-$text['label-conference-add']['en-us'] = "Conferences Add";
-$text['label-conference-add']['zh-cn'] = "会议添加";
+$text['label-conference-add']['zh-cn'] = "Conferences Add";
+$text['label-conference-add']['en-us'] = "会议添加";
 $text['label-conference-add']['ar-eg'] = "";
 $text['label-conference-add']['de-at'] = "Konferenz hinzufügen"; //copied from de-de
 $text['label-conference-add']['de-ch'] = "Konferenz hinzufügen"; //copied from de-de
@@ -358,8 +358,8 @@ $text['label-conference-add']['ru-ru'] = "Добавить Конференци�
 $text['label-conference-add']['sv-se'] = "Lägg Till Konferens";
 $text['label-conference-add']['uk-ua'] = "";
 
-$text['label-conference-edit']['en-us'] = "Conferences Edit";
-$text['label-conference-edit']['zh-cn'] = "会议编辑";
+$text['label-conference-edit']['zh-cn'] = "Conferences Edit";
+$text['label-conference-edit']['en-us'] = "会议编辑";
 $text['label-conference-edit']['ar-eg'] = "";
 $text['label-conference-edit']['de-at'] = "Konferenz bearbeiten"; //copied from de-de
 $text['label-conference-edit']['de-ch'] = "Konferenz bearbeiten"; //copied from de-de
@@ -379,8 +379,8 @@ $text['label-conference-edit']['ru-ru'] = "Редактировать Конфе
 $text['label-conference-edit']['sv-se'] = "Ändra Konferens";
 $text['label-conference-edit']['uk-ua'] = "";
 
-$text['label-extension']['en-us'] = "Extension";
-$text['label-extension']['zh-cn'] = "扩展";
+$text['label-extension']['zh-cn'] = "Extension";
+$text['label-extension']['en-us'] = "扩展";
 $text['label-extension']['ar-eg'] = "";
 $text['label-extension']['de-at'] = "Nebenstelle"; //copied from de-de
 $text['label-extension']['de-ch'] = "Nebenstelle"; //copied from de-de
@@ -400,8 +400,8 @@ $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "";
 
-$text['description-name']['en-us'] = "Enter the conference name.";
-$text['description-name']['zh-cn'] = "输入会议名称。";
+$text['description-name']['zh-cn'] = "Enter the conference name.";
+$text['description-name']['en-us'] = "输入会议名称。";
 $text['description-name']['ar-eg'] = "";
 $text['description-name']['de-at'] = "Geben Sie einen Namen für die Konferenz ein."; //copied from de-de
 $text['description-name']['de-ch'] = "Geben Sie einen Namen für die Konferenz ein."; //copied from de-de
@@ -421,8 +421,8 @@ $text['description-name']['ru-ru'] = "Введите Имя Конференци
 $text['description-name']['sv-se'] = "Ange konferensens namn.";
 $text['description-name']['uk-ua'] = "";
 
-$text['description-extension']['en-us'] = "Enter the conference extension number.";
-$text['description-extension']['zh-cn'] = "输入会议分机号。";
+$text['description-extension']['zh-cn'] = "Enter the conference extension number.";
+$text['description-extension']['en-us'] = "输入会议分机号。";
 $text['description-extension']['ar-eg'] = "";
 $text['description-extension']['de-at'] = "Geben Sie die Nebenstelle der Konferenz an."; //copied from de-de
 $text['description-extension']['de-ch'] = "Geben Sie die Nebenstelle der Konferenz an."; //copied from de-de
@@ -442,8 +442,8 @@ $text['description-extension']['ru-ru'] = "Введите добавочный �
 $text['description-extension']['sv-se'] = "Ange konferensens anknytnings nummer.";
 $text['description-extension']['uk-ua'] = "";
 
-$text['description-3']['en-us'] = "to monitor and interact with the conference room.";
-$text['description-3']['zh-cn'] = "监控会议室并与之互动。";
+$text['description-3']['zh-cn'] = "to monitor and interact with the conference room.";
+$text['description-3']['en-us'] = "监控会议室并与之互动。";
 $text['description-3']['ar-eg'] = "";
 $text['description-3']['de-at'] = "um eine Konferenz zu überwachen und zu steuern."; //copied from de-de
 $text['description-3']['de-ch'] = "um eine Konferenz zu überwachen und zu steuern."; //copied from de-de
@@ -463,8 +463,8 @@ $text['description-3']['ru-ru'] = "Контролировать и взаимо�
 $text['description-3']['sv-se'] = "för att interagera med konferens rum.";
 $text['description-3']['uk-ua'] = "";
 
-$text['label-pin']['en-us'] = "Pin Number";
-$text['label-pin']['zh-cn'] = "PIN码";
+$text['label-pin']['zh-cn'] = "Pin Number";
+$text['label-pin']['en-us'] = "PIN码";
 $text['label-pin']['ar-eg'] = "";
 $text['label-pin']['de-at'] = "PIN Nummer"; //copied from de-de
 $text['label-pin']['de-ch'] = "PIN Nummer"; //copied from de-de
@@ -484,8 +484,8 @@ $text['label-pin']['ru-ru'] = "PIN Номер";
 $text['label-pin']['sv-se'] = "Pin Nummer";
 $text['label-pin']['uk-ua'] = "";
 
-$text['description-pin']['en-us'] = "Optional pin number to secure access to the conference.";
-$text['description-pin']['zh-cn'] = "用于安全访问会议的可选密码。";
+$text['description-pin']['zh-cn'] = "Optional pin number to secure access to the conference.";
+$text['description-pin']['en-us'] = "用于安全访问会议的可选密码。";
 $text['description-pin']['ar-eg'] = "";
 $text['description-pin']['de-at'] = "Optionale PIN Nummer um den Zugriff auf die Konferenz ab zu sichern.)"; //copied from de-de
 $text['description-pin']['de-ch'] = "Optionale PIN Nummer um den Zugriff auf die Konferenz ab zu sichern.)"; //copied from de-de
@@ -505,8 +505,8 @@ $text['description-pin']['ru-ru'] = "Дополнительный PIN номер
 $text['description-pin']['sv-se'] = "Frivilligt pin nummer för att säkra tillgången till konferensen.";
 $text['description-pin']['uk-ua'] = "";
 
-$text['confirm-delete-2']['en-us'] = "Do you really want to delete this?";
-$text['confirm-delete-2']['zh-cn'] = "是否确实要删除此？";
+$text['confirm-delete-2']['zh-cn'] = "Do you really want to delete this?";
+$text['confirm-delete-2']['en-us'] = "是否确实要删除此？";
 $text['confirm-delete-2']['ar-eg'] = "";
 $text['confirm-delete-2']['de-at'] = "Wollen Sie das wirklich löschen?"; //copied from de-de
 $text['confirm-delete-2']['de-ch'] = "Wollen Sie das wirklich löschen?"; //copied from de-de
@@ -526,8 +526,8 @@ $text['confirm-delete-2']['ru-ru'] = "Вы действительно хотит
 $text['confirm-delete-2']['sv-se'] = "Vill du verkligen ta bort detta?";
 $text['confirm-delete-2']['uk-ua'] = "";
 
-$text['description-info']['en-us'] = "Enter the description.";
-$text['description-info']['zh-cn'] = "输入说明。";
+$text['description-info']['zh-cn'] = "Enter the description.";
+$text['description-info']['en-us'] = "输入说明。";
 $text['description-info']['ar-eg'] = "";
 $text['description-info']['de-at'] = "Geben Sie die Beschreibung ein."; //copied from de-de
 $text['description-info']['de-ch'] = "Geben Sie die Beschreibung ein."; //copied from de-de
@@ -547,8 +547,8 @@ $text['description-info']['ru-ru'] = "Введите описание.";
 $text['description-info']['sv-se'] = "Ange beskrivningen.";
 $text['description-info']['uk-ua'] = "";
 
-$text['description-conference-enable']['en-us'] = "Select whether to enable or disable the conference.";
-$text['description-conference-enable']['zh-cn'] = "选择是启用还是禁用会议。";
+$text['description-conference-enable']['zh-cn'] = "Select whether to enable or disable the conference.";
+$text['description-conference-enable']['en-us'] = "选择是启用还是禁用会议。";
 $text['description-conference-enable']['ar-eg'] = "";
 $text['description-conference-enable']['de-at'] = "Wählen Sie, ob die Konferenz ein- oder ausgeschaltet werden soll."; //copied from de-de
 $text['description-conference-enable']['de-ch'] = "Wählen Sie, ob die Konferenz ein- oder ausgeschaltet werden soll."; //copied from de-de
@@ -568,8 +568,8 @@ $text['description-conference-enable']['ru-ru'] = "Выберите, включ�
 $text['description-conference-enable']['sv-se'] = "Välj om konferensen skall vara aktiverad eller ej.";
 $text['description-conference-enable']['uk-ua'] = "";
 
-$text['description-order']['en-us'] = "Enter the order number.";
-$text['description-order']['zh-cn'] = "输入订单号。";
+$text['description-order']['zh-cn'] = "Enter the order number.";
+$text['description-order']['en-us'] = "输入订单号。";
 $text['description-order']['ar-eg'] = "";
 $text['description-order']['de-at'] = "Geben Sie die Nummer für die Reihenfolge an."; //copied from de-de
 $text['description-order']['de-ch'] = "Geben Sie die Nummer für die Reihenfolge an."; //copied from de-de
@@ -589,8 +589,8 @@ $text['description-order']['ru-ru'] = "Введите номер заказа.";
 $text['description-order']['sv-se'] = "Ange ordnings numret.";
 $text['description-order']['uk-ua'] = "";
 
-$text['description-user-add']['en-us'] = "Assign the users that are can manage this conference extension.";
-$text['description-user-add']['zh-cn'] = "分配可以管理此会议扩展的用户。";
+$text['description-user-add']['zh-cn'] = "Assign the users that are can manage this conference extension.";
+$text['description-user-add']['en-us'] = "分配可以管理此会议扩展的用户。";
 $text['description-user-add']['ar-eg'] = "";
 $text['description-user-add']['de-at'] = "Wählen Sie die Benutzer aus, welche die Konferenz administrieren können."; //copied from de-de
 $text['description-user-add']['de-ch'] = "Wählen Sie die Benutzer aus, welche die Konferenz administrieren können."; //copied from de-de
@@ -610,8 +610,8 @@ $text['description-user-add']['ru-ru'] = "Назначьте пользоват�
 $text['description-user-add']['sv-se'] = "Lägg till användarna som kan managera denna konferens anknytning.";
 $text['description-user-add']['uk-ua'] = "";
 
-$text['description-profile']['en-us'] = "Conference Profile is a collection of settings for the conference.";
-$text['description-profile']['zh-cn'] = "会议配置文件是会议设置的集合。";
+$text['description-profile']['zh-cn'] = "Conference Profile is a collection of settings for the conference.";
+$text['description-profile']['en-us'] = "会议配置文件是会议设置的集合。";
 $text['description-profile']['ar-eg'] = "";
 $text['description-profile']['de-at'] = "Ein Profil ist eine Zusammenfassung von Parametern für die Konferenz."; //copied from de-de
 $text['description-profile']['de-ch'] = "Ein Profil ist eine Zusammenfassung von Parametern für die Konferenz."; //copied from de-de
@@ -631,8 +631,8 @@ $text['description-profile']['ru-ru'] = "Профиль конференции -
 $text['description-profile']['sv-se'] = "Konferensprofil är en samling inställningar för konferensen.";
 $text['description-profile']['uk-ua'] = "";
 
-$text['description-flags']['en-us'] = "Optional conference flags. examples: mute|deaf|waste|moderator";
-$text['description-flags']['zh-cn'] = "可选会议标志。示例：静音聋浪费调节器";
+$text['description-flags']['zh-cn'] = "Optional conference flags. examples: mute|deaf|waste|moderator";
+$text['description-flags']['en-us'] = "可选会议标志。示例：静音聋浪费调节器";
 $text['description-flags']['ar-eg'] = "";
 $text['description-flags']['de-at'] = "Optionale Attribute für die Konferenz. Beispiele: mute|deaf|waste|moderator"; //copied from de-de
 $text['description-flags']['de-ch'] = "Optionale Attribute für die Konferenz. Beispiele: mute|deaf|waste|moderator"; //copied from de-de
@@ -652,8 +652,8 @@ $text['description-flags']['ru-ru'] = "Дополнительные флаги �
 $text['description-flags']['sv-se'] = "Valfria konferensflaggor. Exempel: mute|deaf|waste|moderator";
 $text['description-flags']['uk-ua'] = "";
 
-$text['label-user_list']['en-us'] = "User List";
-$text['label-user_list']['zh-cn'] = "用户列表";
+$text['label-user_list']['zh-cn'] = "User List";
+$text['label-user_list']['en-us'] = "用户列表";
 $text['label-user_list']['ar-eg'] = "";
 $text['label-user_list']['de-at'] = "Benutzerliste"; //copied from de-de
 $text['label-user_list']['de-ch'] = "Benutzerliste"; //copied from de-de
@@ -673,8 +673,8 @@ $text['label-user_list']['ru-ru'] = "Список Пользователей";
 $text['label-user_list']['sv-se'] = "Användarlista";
 $text['label-user_list']['uk-ua'] = "";
 
-$text['label-flags']['en-us'] = "Flags";
-$text['label-flags']['zh-cn'] = "旗帜";
+$text['label-flags']['zh-cn'] = "Flags";
+$text['label-flags']['en-us'] = "旗帜";
 $text['label-flags']['ar-eg'] = "";
 $text['label-flags']['de-at'] = "Attribute"; //copied from de-de
 $text['label-flags']['de-ch'] = "Attribute"; //copied from de-de

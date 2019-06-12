@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-modules']['en-us'] = "Modules";
-$text['title-modules']['zh-cn'] = "模块";
+$text['title-modules']['zh-cn'] = "Modules";
+$text['title-modules']['en-us'] = "模块";
 $text['title-modules']['ar-eg'] = "";
 $text['title-modules']['de-at'] = "Module"; //copied from de-de
 $text['title-modules']['de-ch'] = "Module"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-modules']['ru-ru'] = "Модули";
 $text['title-modules']['sv-se'] = "Moduler";
 $text['title-modules']['uk-ua'] = "Модулі";
 
-$text['title-module_edit']['en-us'] = "Module Edit";
-$text['title-module_edit']['zh-cn'] = "模块编辑";
+$text['title-module_edit']['zh-cn'] = "Module Edit";
+$text['title-module_edit']['en-us'] = "模块编辑";
 $text['title-module_edit']['ar-eg'] = "";
 $text['title-module_edit']['de-at'] = "Module bearbeiten"; //copied from de-de
 $text['title-module_edit']['de-ch'] = "Module bearbeiten"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title-module_edit']['ru-ru'] = "Редавктор Модулей";
 $text['title-module_edit']['sv-se'] = "Editera Modul";
 $text['title-module_edit']['uk-ua'] = "Редагування модуля";
 
-$text['title-module_add']['en-us'] = "Module Add";
-$text['title-module_add']['zh-cn'] = "模块添加";
+$text['title-module_add']['zh-cn'] = "Module Add";
+$text['title-module_add']['en-us'] = "模块添加";
 $text['title-module_add']['ar-eg'] = "";
 $text['title-module_add']['de-at'] = "Module hinzufügen"; //copied from de-de
 $text['title-module_add']['de-ch'] = "Module hinzufügen"; //copied from de-de
@@ -64,8 +64,8 @@ $text['title-module_add']['ru-ru'] = "Добавить Модуль";
 $text['title-module_add']['sv-se'] = "Lägg Till Modul";
 $text['title-module_add']['uk-ua'] = "Додавання модуля";
 
-$text['label-unload_module']['en-us'] = "Unload Module";
-$text['label-unload_module']['zh-cn'] = "卸载模块";
+$text['label-unload_module']['zh-cn'] = "Unload Module";
+$text['label-unload_module']['en-us'] = "卸载模块";
 $text['label-unload_module']['ar-eg'] = "";
 $text['label-unload_module']['de-at'] = "Modul deaktivieren"; //copied from de-de
 $text['label-unload_module']['de-ch'] = "Modul deaktivieren"; //copied from de-de
@@ -85,8 +85,8 @@ $text['label-unload_module']['ru-ru'] = "Выгрузка Модулей";
 $text['label-unload_module']['sv-se'] = "Ladda av Modul";
 $text['label-unload_module']['uk-ua'] = "Вивантажити модуль";
 
-$text['label-unknown']['en-us'] = "Unknown";
-$text['label-unknown']['zh-cn'] = "未知";
+$text['label-unknown']['zh-cn'] = "Unknown";
+$text['label-unknown']['en-us'] = "未知";
 $text['label-unknown']['ar-eg'] = "";
 $text['label-unknown']['de-at'] = "Unbekannt"; //copied from de-de
 $text['label-unknown']['de-ch'] = "Unbekannt"; //copied from de-de
@@ -106,8 +106,8 @@ $text['label-unknown']['ru-ru'] = "Неизвестный";
 $text['label-unknown']['sv-se'] = "Okänd";
 $text['label-unknown']['uk-ua'] = "";
 
-$text['label-none']['en-us'] = "None";
-$text['label-none']['zh-cn'] = "没有";
+$text['label-none']['zh-cn'] = "None";
+$text['label-none']['en-us'] = "没有";
 $text['label-none']['ar-eg'] = "";
 $text['label-none']['de-at'] = "Keine"; //copied from de-de
 $text['label-none']['de-ch'] = "Keine"; //copied from de-de
@@ -127,8 +127,8 @@ $text['label-none']['ru-ru'] = "Никто";
 $text['label-none']['sv-se'] = "Ingen";
 $text['label-none']['uk-ua'] = "";
 
-$text['label-stopped']['en-us'] = "Stopped";
-$text['label-stopped']['zh-cn'] = "停止";
+$text['label-stopped']['zh-cn'] = "Stopped";
+$text['label-stopped']['en-us'] = "停止";
 $text['label-stopped']['ar-eg'] = "";
 $text['label-stopped']['de-at'] = "beendet"; //copied from de-de
 $text['label-stopped']['de-ch'] = "beendet"; //copied from de-de
@@ -148,8 +148,8 @@ $text['label-stopped']['ru-ru'] = "Остановлено";
 $text['label-stopped']['sv-se'] = "Stoppad";
 $text['label-stopped']['uk-ua'] = "Зупинено";
 
-$text['label-stop']['en-us'] = "Stop";
-$text['label-stop']['zh-cn'] = "停止";
+$text['label-stop']['zh-cn'] = "Stop";
+$text['label-stop']['en-us'] = "停止";
 $text['label-stop']['ar-eg'] = "";
 $text['label-stop']['de-at'] = "Beenden"; //copied from de-de
 $text['label-stop']['de-ch'] = "Beenden"; //copied from de-de
@@ -169,8 +169,8 @@ $text['label-stop']['ru-ru'] = "Стоп";
 $text['label-stop']['sv-se'] = "Stoppa";
 $text['label-stop']['uk-ua'] = "Зупинити";
 
-$text['label-status']['en-us'] = "Status";
-$text['label-status']['zh-cn'] = "状态";
+$text['label-status']['zh-cn'] = "Status";
+$text['label-status']['en-us'] = "状态";
 $text['label-status']['ar-eg'] = "";
 $text['label-status']['de-at'] = "Status"; //copied from de-de
 $text['label-status']['de-ch'] = "Status"; //copied from de-de
@@ -190,8 +190,8 @@ $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Стан";
 
-$text['label-start']['en-us'] = "Start";
-$text['label-start']['zh-cn'] = "起点";
+$text['label-start']['zh-cn'] = "Start";
+$text['label-start']['en-us'] = "起点";
 $text['label-start']['ar-eg'] = "";
 $text['label-start']['de-at'] = "Start"; //copied from de-de
 $text['label-start']['de-ch'] = "Start"; //copied from de-de
@@ -211,8 +211,8 @@ $text['label-start']['ru-ru'] = "Старт";
 $text['label-start']['sv-se'] = "Starta";
 $text['label-start']['uk-ua'] = "Запустити";
 
-$text['label-running']['en-us'] = "Running";
-$text['label-running']['zh-cn'] = "正在运行";
+$text['label-running']['zh-cn'] = "Running";
+$text['label-running']['en-us'] = "正在运行";
 $text['label-running']['ar-eg'] = "";
 $text['label-running']['de-at'] = "läuft"; //copied from de-de
 $text['label-running']['de-ch'] = "läuft"; //copied from de-de
@@ -232,8 +232,8 @@ $text['label-running']['ru-ru'] = "Запущено";
 $text['label-running']['sv-se'] = "I Drift";
 $text['label-running']['uk-ua'] = "Запущено";
 
-$text['label-module_name']['en-us'] = "Module Name";
-$text['label-module_name']['zh-cn'] = "模块名称";
+$text['label-module_name']['zh-cn'] = "Module Name";
+$text['label-module_name']['en-us'] = "模块名称";
 $text['label-module_name']['ar-eg'] = "";
 $text['label-module_name']['de-at'] = "Modul Name"; //copied from de-de
 $text['label-module_name']['de-ch'] = "Modul Name"; //copied from de-de
@@ -253,8 +253,8 @@ $text['label-module_name']['ru-ru'] = "Имена Модулейe";
 $text['label-module_name']['sv-se'] = "Modul Namn";
 $text['label-module_name']['uk-ua'] = "Назва модуля";
 
-$text['label-module_category']['en-us'] = "Module Category";
-$text['label-module_category']['zh-cn'] = "模块类别";
+$text['label-module_category']['zh-cn'] = "Module Category";
+$text['label-module_category']['en-us'] = "模块类别";
 $text['label-module_category']['ar-eg'] = "";
 $text['label-module_category']['de-at'] = "Modul Kategorie"; //copied from de-de
 $text['label-module_category']['de-ch'] = "Modul Kategorie"; //copied from de-de
@@ -274,8 +274,8 @@ $text['label-module_category']['ru-ru'] = "Категория модуля";
 $text['label-module_category']['sv-se'] = "Modul Kategori";
 $text['label-module_category']['uk-ua'] = "Категорія модуля";
 
-$text['label-message']['en-us'] = "Message";
-$text['label-message']['zh-cn'] = "消息";
+$text['label-message']['zh-cn'] = "Message";
+$text['label-message']['en-us'] = "消息";
 $text['label-message']['ar-eg'] = "";
 $text['label-message']['de-at'] = "Nachricht"; //copied from de-de
 $text['label-message']['de-ch'] = "Nachricht"; //copied from de-de
@@ -295,8 +295,8 @@ $text['label-message']['ru-ru'] = "Уведомление";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "Повідомлення";
 
-$text['label-load_module']['en-us'] = "Load Module";
-$text['label-load_module']['zh-cn'] = "加载模块";
+$text['label-load_module']['zh-cn'] = "Load Module";
+$text['label-load_module']['en-us'] = "加载模块";
 $text['label-load_module']['ar-eg'] = "";
 $text['label-load_module']['de-at'] = "Modul laden"; //copied from de-de
 $text['label-load_module']['de-ch'] = "Modul laden"; //copied from de-de
@@ -316,8 +316,8 @@ $text['label-load_module']['ru-ru'] = "Загрузка Модулей";
 $text['label-load_module']['sv-se'] = "Ladda Modul";
 $text['label-load_module']['uk-ua'] = "Завантажити модуль";
 
-$text['label-label']['en-us'] = "Label";
-$text['label-label']['zh-cn'] = "标签";
+$text['label-label']['zh-cn'] = "Label";
+$text['label-label']['en-us'] = "标签";
 $text['label-label']['ar-eg'] = "";
 $text['label-label']['de-at'] = "Kennzeichnung"; //copied from de-de
 $text['label-label']['de-ch'] = "Kennzeichnung"; //copied from de-de
@@ -337,8 +337,8 @@ $text['label-label']['ru-ru'] = "Метка";
 $text['label-label']['sv-se'] = "Etikett";
 $text['label-label']['uk-ua'] = "Назва";
 
-$text['label-default_enabled']['en-us'] = "Default Enabled";
-$text['label-default_enabled']['zh-cn'] = "默认已启用";
+$text['label-default_enabled']['zh-cn'] = "Default Enabled";
+$text['label-default_enabled']['en-us'] = "默认已启用";
 $text['label-default_enabled']['ar-eg'] = "";
 $text['label-default_enabled']['de-at'] = "Standard aktiv"; //copied from de-de
 $text['label-default_enabled']['de-ch'] = "Standard aktiv"; //copied from de-de
@@ -358,8 +358,8 @@ $text['label-default_enabled']['ru-ru'] = "Включены параметры �
 $text['label-default_enabled']['sv-se'] = "Aktiverad som Standard";
 $text['label-default_enabled']['uk-ua'] = "Включено типові значення";
 
-$text['label-action']['en-us'] = "Action";
-$text['label-action']['zh-cn'] = "行动";
+$text['label-action']['zh-cn'] = "Action";
+$text['label-action']['en-us'] = "行动";
 $text['label-action']['ar-eg'] = "";
 $text['label-action']['de-at'] = "Aktion"; //copied from de-de
 $text['label-action']['de-ch'] = "Aktion"; //copied from de-de
@@ -379,8 +379,8 @@ $text['label-action']['ru-ru'] = "Действие";
 $text['label-action']['sv-se'] = "Åtgärd";
 $text['label-action']['uk-ua'] = "Дія";
 
-$text['header-modules']['en-us'] = "Modules";
-$text['header-modules']['zh-cn'] = "模块";
+$text['header-modules']['zh-cn'] = "Modules";
+$text['header-modules']['en-us'] = "模块";
 $text['header-modules']['ar-eg'] = "";
 $text['header-modules']['de-at'] = "Module"; //copied from de-de
 $text['header-modules']['de-ch'] = "Module"; //copied from de-de
@@ -400,8 +400,8 @@ $text['header-modules']['ru-ru'] = "Модули";
 $text['header-modules']['sv-se'] = "Moduler";
 $text['header-modules']['uk-ua'] = "Модулі";
 
-$text['header-module_edit']['en-us'] = "Module Edit";
-$text['header-module_edit']['zh-cn'] = "模块编辑";
+$text['header-module_edit']['zh-cn'] = "Module Edit";
+$text['header-module_edit']['en-us'] = "模块编辑";
 $text['header-module_edit']['ar-eg'] = "";
 $text['header-module_edit']['de-at'] = "Module bearbeiten"; //copied from de-de
 $text['header-module_edit']['de-ch'] = "Module bearbeiten"; //copied from de-de
@@ -421,8 +421,8 @@ $text['header-module_edit']['ru-ru'] = "Редактировать Модуль"
 $text['header-module_edit']['sv-se'] = "Editera Modul";
 $text['header-module_edit']['uk-ua'] = "Редагування модуля";
 
-$text['header-module_add']['en-us'] = "Module Add";
-$text['header-module_add']['zh-cn'] = "模块添加";
+$text['header-module_add']['zh-cn'] = "Module Add";
+$text['header-module_add']['en-us'] = "模块添加";
 $text['header-module_add']['ar-eg'] = "";
 $text['header-module_add']['de-at'] = "Module hinzufügen"; //copied from de-de
 $text['header-module_add']['de-ch'] = "Module hinzufügen"; //copied from de-de
@@ -442,8 +442,8 @@ $text['header-module_add']['ru-ru'] = "Добавить Модуль";
 $text['header-module_add']['sv-se'] = "Lägg Till Modul";
 $text['header-module_add']['uk-ua'] = "Додавання модуля";
 
-$text['description-modules']['en-us'] = "Modules extend the features of the system. Use this page to enable or disable modules.";
-$text['description-modules']['zh-cn'] = "模块扩展了系统的功能。使用此页面可启用或禁用模块。";
+$text['description-modules']['zh-cn'] = "Modules extend the features of the system. Use this page to enable or disable modules.";
+$text['description-modules']['en-us'] = "模块扩展了系统的功能。使用此页面可启用或禁用模块。";
 $text['description-modules']['ar-eg'] = "";
 $text['description-modules']['de-at'] = "Module erweitern die Funktionalität des Systems. Benutzen Sie diese Seite um Module zu aktivieren oder zu deaktivieren."; //copied from de-de
 $text['description-modules']['de-ch'] = "Module erweitern die Funktionalität des Systems. Benutzen Sie diese Seite um Module zu aktivieren oder zu deaktivieren."; //copied from de-de
@@ -463,8 +463,8 @@ $text['description-modules']['ru-ru'] = "Модули расширяют воз�
 $text['description-modules']['sv-se'] = "Moduler utökar funktionerna i systemet. Använd den här sidan för att aktivera eller inaktivera moduler.";
 $text['description-modules']['uk-ua'] = "Модулі розширюють можливості системи. Використовуйте цю сторінку, щоб включити або відключити модулі.";
 
-$text['error-event-socket']['en-us'] = "Connection to Event Socket failed.";
-$text['error-event-socket']['zh-cn'] = "连接到事件套接字失败。";
+$text['error-event-socket']['zh-cn'] = "Connection to Event Socket failed.";
+$text['error-event-socket']['en-us'] = "连接到事件套接字失败。";
 $text['error-event-socket']['ar-eg'] = "";
 $text['error-event-socket']['de-at'] = "Verbindung zum Event Socket fehlgeschlagen."; //copied from de-de
 $text['error-event-socket']['de-ch'] = "Verbindung zum Event Socket fehlgeschlagen."; //copied from de-de

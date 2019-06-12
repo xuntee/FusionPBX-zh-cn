@@ -1,7 +1,7 @@
 <?php
 
 	//Email Templates
-		$text['title-email_templates']['en-us'] = 'Email Templates';
+		$text['title-email_templates']['zh-cn'] = 'Email Templates';
 		$text['title-email_templates']['ar-eg'] = '';
 		$text['title-email_templates']['de-at'] = '';
 		$text['title-email_templates']['de-ch'] = '';
@@ -21,7 +21,7 @@
 		$text['title-email_templates']['sv-se'] = '';
 		$text['title-email_templates']['uk-ua'] = '';
 
-		$text['title-email_template']['en-us'] = 'Email Template';
+		$text['title-email_template']['zh-cn'] = 'Email Template';
 		$text['title-email_template']['ar-eg'] = '';
 		$text['title-email_template']['de-at'] = '';
 		$text['title-email_template']['de-ch'] = '';
@@ -41,7 +41,7 @@
 		$text['title-email_template']['sv-se'] = '';
 		$text['title-email_template']['uk-ua'] = '';
 
-		$text['title_description-email_template']['en-us'] = '';
+		$text['title_description-email_template']['zh-cn'] = '';
 		$text['title_description-email_template']['ar-eg'] = '';
 		$text['title_description-email_template']['de-at'] = '';
 		$text['title_description-email_template']['de-ch'] = '';
@@ -61,7 +61,7 @@
 		$text['title_description-email_template']['sv-se'] = '';
 		$text['title_description-email_template']['uk-ua'] = '';
 
-		$text['label-template_language']['en-us'] = 'Language';
+		$text['label-template_language']['zh-cn'] = 'Language';
 		$text['label-template_language']['ar-eg'] = '';
 		$text['label-template_language']['de-at'] = '';
 		$text['label-template_language']['de-ch'] = '';
@@ -81,7 +81,7 @@
 		$text['label-template_language']['sv-se'] = '';
 		$text['label-template_language']['uk-ua'] = '';
 
-		$text['description-template_language']['en-us'] = 'Enter the language.';
+		$text['description-template_language']['zh-cn'] = 'Enter the language.';
 		$text['description-template_language']['ar-eg'] = '';
 		$text['description-template_language']['de-at'] = '';
 		$text['description-template_language']['de-ch'] = '';
@@ -101,7 +101,7 @@
 		$text['description-template_language']['sv-se'] = '';
 		$text['description-template_language']['uk-ua'] = '';
 
-		$text['label-template_category']['en-us'] = 'Category';
+		$text['label-template_category']['zh-cn'] = 'Category';
 		$text['label-template_category']['ar-eg'] = '';
 		$text['label-template_category']['de-at'] = '';
 		$text['label-template_category']['de-ch'] = '';
@@ -121,7 +121,7 @@
 		$text['label-template_category']['sv-se'] = '';
 		$text['label-template_category']['uk-ua'] = '';
 
-		$text['description-template_category']['en-us'] = 'Select the category.';
+		$text['description-template_category']['zh-cn'] = 'Select the category.';
 		$text['description-template_category']['ar-eg'] = '';
 		$text['description-template_category']['de-at'] = '';
 		$text['description-template_category']['de-ch'] = '';
@@ -141,7 +141,7 @@
 		$text['description-template_category']['sv-se'] = '';
 		$text['description-template_category']['uk-ua'] = '';
 
-		$text['label-template_subcategory']['en-us'] = 'Subcategory';
+		$text['label-template_subcategory']['zh-cn'] = 'Subcategory';
 		$text['label-template_subcategory']['ar-eg'] = '';
 		$text['label-template_subcategory']['de-at'] = '';
 		$text['label-template_subcategory']['de-ch'] = '';
@@ -161,7 +161,7 @@
 		$text['label-template_subcategory']['sv-se'] = '';
 		$text['label-template_subcategory']['uk-ua'] = '';
 
-		$text['description-template_subcategory']['en-us'] = 'Enter the subcategory.';
+		$text['description-template_subcategory']['zh-cn'] = 'Enter the subcategory.';
 		$text['description-template_subcategory']['ar-eg'] = '';
 		$text['description-template_subcategory']['de-at'] = '';
 		$text['description-template_subcategory']['de-ch'] = '';
@@ -181,7 +181,7 @@
 		$text['description-template_subcategory']['sv-se'] = '';
 		$text['description-template_subcategory']['uk-ua'] = '';
 
-		$text['label-template_subject']['en-us'] = 'Subject';
+		$text['label-template_subject']['zh-cn'] = 'Subject';
 		$text['label-template_subject']['ar-eg'] = '';
 		$text['label-template_subject']['de-at'] = '';
 		$text['label-template_subject']['de-ch'] = '';
@@ -201,7 +201,7 @@
 		$text['label-template_subject']['sv-se'] = '';
 		$text['label-template_subject']['uk-ua'] = '';
 
-		$text['description-template_subject']['en-us'] = 'Enter the template subject.';
+		$text['description-template_subject']['zh-cn'] = 'Enter the template subject.';
 		$text['description-template_subject']['ar-eg'] = '';
 		$text['description-template_subject']['de-at'] = '';
 		$text['description-template_subject']['de-ch'] = '';
@@ -221,7 +221,7 @@
 		$text['description-template_subject']['sv-se'] = '';
 		$text['description-template_subject']['uk-ua'] = '';
 
-		$text['label-template_body']['en-us'] = 'Body';
+		$text['label-template_body']['zh-cn'] = 'Body';
 		$text['label-template_body']['ar-eg'] = '';
 		$text['label-template_body']['de-at'] = '';
 		$text['label-template_body']['de-ch'] = '';
@@ -241,7 +241,7 @@
 		$text['label-template_body']['sv-se'] = '';
 		$text['label-template_body']['uk-ua'] = '';
 
-		$text['description-template_body']['en-us'] = 'Enter the template body.';
+		$text['description-template_body']['zh-cn'] = 'Enter the template body.';
 		$text['description-template_body']['ar-eg'] = '';
 		$text['description-template_body']['de-at'] = '';
 		$text['description-template_body']['de-ch'] = '';
@@ -261,7 +261,7 @@
 		$text['description-template_body']['sv-se'] = '';
 		$text['description-template_body']['uk-ua'] = '';
 
-		$text['label-template_type']['en-us'] = 'Type';
+		$text['label-template_type']['zh-cn'] = 'Type';
 		$text['label-template_type']['ar-eg'] = '';
 		$text['label-template_type']['de-at'] = '';
 		$text['label-template_type']['de-ch'] = '';
@@ -281,7 +281,7 @@
 		$text['label-template_type']['sv-se'] = '';
 		$text['label-template_type']['uk-ua'] = '';
 
-		$text['description-template_type']['en-us'] = 'Set the type as html or text.';
+		$text['description-template_type']['zh-cn'] = 'Set the type as html or text.';
 		$text['description-template_type']['ar-eg'] = '';
 		$text['description-template_type']['de-at'] = '';
 		$text['description-template_type']['de-ch'] = '';
@@ -301,7 +301,7 @@
 		$text['description-template_type']['sv-se'] = '';
 		$text['description-template_type']['uk-ua'] = '';
 
-		$text['label-template_enabled']['en-us'] = 'Enabled';
+		$text['label-template_enabled']['zh-cn'] = 'Enabled';
 		$text['label-template_enabled']['ar-eg'] = '';
 		$text['label-template_enabled']['de-at'] = '';
 		$text['label-template_enabled']['de-ch'] = '';
@@ -321,7 +321,7 @@
 		$text['label-template_enabled']['sv-se'] = '';
 		$text['label-template_enabled']['uk-ua'] = '';
 
-		$text['description-template_enabled']['en-us'] = 'Set the status of the template.';
+		$text['description-template_enabled']['zh-cn'] = 'Set the status of the template.';
 		$text['description-template_enabled']['ar-eg'] = '';
 		$text['description-template_enabled']['de-at'] = '';
 		$text['description-template_enabled']['de-ch'] = '';
@@ -341,7 +341,7 @@
 		$text['description-template_enabled']['sv-se'] = '';
 		$text['description-template_enabled']['uk-ua'] = '';
 
-		$text['label-template_description']['en-us'] = 'Description';
+		$text['label-template_description']['zh-cn'] = 'Description';
 		$text['label-template_description']['ar-eg'] = '';
 		$text['label-template_description']['de-at'] = '';
 		$text['label-template_description']['de-ch'] = '';
@@ -361,7 +361,7 @@
 		$text['label-template_description']['sv-se'] = '';
 		$text['label-template_description']['uk-ua'] = '';
 
-		$text['description-template_description']['en-us'] = 'Enter the description.';
+		$text['description-template_description']['zh-cn'] = 'Enter the description.';
 		$text['description-template_description']['ar-eg'] = '';
 		$text['description-template_description']['de-at'] = '';
 		$text['description-template_description']['de-ch'] = '';

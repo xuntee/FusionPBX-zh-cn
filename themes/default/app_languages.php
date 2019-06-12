@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['theme-label-logout']['en-us'] = "Logout";
-$text['theme-label-logout']['zh-cn'] = "注销";
+$text['theme-label-logout']['zh-cn'] = "Logout";
+$text['theme-label-logout']['en-us'] = "注销";
 $text['theme-label-logout']['ar-eg'] = "";
 $text['theme-label-logout']['de-at'] = "Abmelden"; //copied from de-de
 $text['theme-label-logout']['de-ch'] = "Abmelden"; //copied from de-de
@@ -23,8 +23,8 @@ $text['theme-label-logout']['sv-se'] = "Logga Ut";
 $text['theme-label-logout']['uk-ua'] = "вийти";
 $text['theme-label-logout']['tr-tr'] = "Oturumu Kapat";
 
-$text['theme-confirm-logout']['en-us'] = "Do you really want to logout?";
-$text['theme-confirm-logout']['zh-cn'] = "是否确实要注销？";
+$text['theme-confirm-logout']['zh-cn'] = "Do you really want to logout?";
+$text['theme-confirm-logout']['en-us'] = "是否确实要注销？";
 $text['theme-confirm-logout']['ar-eg'] = "";
 $text['theme-confirm-logout']['de-at'] = "Möchten Sie sich wirklich abmelden?"; //copied from de-de
 $text['theme-confirm-logout']['de-ch'] = "Möchten Sie sich wirklich abmelden?"; //copied from de-de
@@ -45,8 +45,8 @@ $text['theme-confirm-logout']['sv-se'] = "Vill du verkligen vill logga ut?";
 $text['theme-confirm-logout']['uk-ua'] = "Ви дійсно хочете вийти?";
 $text['theme-confirm-logout']['tr-tr'] = "Çıkmak istediğinize emin misiniz?";
 
-$text['theme-label-open_selector']['en-us'] = "Domain Selector [ESC]";
-$text['theme-label-open_selector']['zh-cn'] = "域选择器";
+$text['theme-label-open_selector']['zh-cn'] = "Domain Selector [ESC]";
+$text['theme-label-open_selector']['en-us'] = "域选择器";
 $text['theme-label-open_selector']['ar-eg'] = "";
 $text['theme-label-open_selector']['de-at'] = "Dömänen Auswählen [ESC]"; //copied from de-de
 $text['theme-label-open_selector']['de-ch'] = "Dömänen Auswählen [ESC]"; //copied from de-de
@@ -67,8 +67,8 @@ $text['theme-label-open_selector']['sv-se'] = "Välj en domän";
 $text['theme-label-open_selector']['uk-ua'] = "Виберіть домен";
 $text['theme-label-open_selector']['tr-tr'] = "Domain Seçici [ESC]";
 
-$text['theme-title-domains']['en-us'] = "Domains";
-$text['theme-title-domains']['zh-cn'] = "域";
+$text['theme-title-domains']['zh-cn'] = "Domains";
+$text['theme-title-domains']['en-us'] = "域";
 $text['theme-title-domains']['ar-eg'] = "";
 $text['theme-title-domains']['de-at'] = "Domänen"; //copied from de-de
 $text['theme-title-domains']['de-ch'] = "Domänen"; //copied from de-de
@@ -89,8 +89,8 @@ $text['theme-title-domains']['sv-se'] = "Domäner";
 $text['theme-title-domains']['uk-ua'] = "Домени";
 $text['theme-title-domains']['tr-tr'] = "Alan Adları";
 
-$text['theme-button-close']['en-us'] = "Close";
-$text['theme-button-close']['zh-cn'] = "关闭";
+$text['theme-button-close']['zh-cn'] = "Close";
+$text['theme-button-close']['en-us'] = "关闭";
 $text['theme-button-close']['ar-eg'] = "";
 $text['theme-button-close']['de-at'] = "Schließen"; //copied from de-de
 $text['theme-button-close']['de-ch'] = "Schließen"; //copied from de-de
@@ -112,8 +112,8 @@ $text['theme-button-close']['uk-ua'] = "Близько";
 $text['theme-button-close']['tr-tr'] = "Kapat";
 
 
-$text['theme-label-search']['en-us'] = "Search...";
-$text['theme-label-search']['zh-cn'] = "搜索…";
+$text['theme-label-search']['zh-cn'] = "Search...";
+$text['theme-label-search']['en-us'] = "搜索…";
 $text['theme-label-search']['ar-eg'] = "";
 $text['theme-label-search']['de-at'] = "Suchen..."; //copied from de-de
 $text['theme-label-search']['de-ch'] = "Suchen..."; //copied from de-de
@@ -134,8 +134,8 @@ $text['theme-label-search']['sv-se'] = "Sök...";
 $text['theme-label-search']['uk-ua'] = "Пошук...";
 $text['theme-label-search']['tr-tr'] = "Arama...";
 
-$text['theme-label-copyright']['en-us'] = "Copyright";
-$text['theme-label-copyright']['zh-cn'] = "版权";
+$text['theme-label-copyright']['zh-cn'] = "Copyright";
+$text['theme-label-copyright']['en-us'] = "版权";
 $text['theme-label-copyright']['ar-eg'] = "";
 $text['theme-label-copyright']['de-at'] = "Urheberrecht"; //copied from de-de
 $text['theme-label-copyright']['de-ch'] = "Urheberrecht"; //copied from de-de
@@ -156,8 +156,8 @@ $text['theme-label-copyright']['sv-se'] = "Copyright";
 $text['theme-label-copyright']['uk-ua'] = "";
 $text['theme-label-copyright']['tr-tr'] = "Copyright";
 
-$text['theme-label-all_rights_reserved']['en-us'] = "All rights reserved.";
-$text['theme-label-all_rights_reserved']['zh-cn'] = "版权所有。";
+$text['theme-label-all_rights_reserved']['zh-cn'] = "All rights reserved.";
+$text['theme-label-all_rights_reserved']['en-us'] = "版权所有。";
 $text['theme-label-all_rights_reserved']['ar-eg'] = "";
 $text['theme-label-all_rights_reserved']['de-at'] = "Alle Rechte vorbehalten"; //copied from de-de
 $text['theme-label-all_rights_reserved']['de-ch'] = "Alle Rechte vorbehalten"; //copied from de-de

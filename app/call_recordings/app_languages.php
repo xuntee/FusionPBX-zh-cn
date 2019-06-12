@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-call_recordings']['en-us'] = "Call Recordings";
-$text['title-call_recordings']['zh-cn'] = "通话记录";
+$text['title-call_recordings']['zh-cn'] = "Call Recordings";
+$text['title-call_recordings']['en-us'] = "通话记录";
 $text['title-call_recordings']['ar-eg'] = "";
 $text['title-call_recordings']['de-at'] = "";
 $text['title-call_recordings']['de-ch'] = "";
@@ -22,8 +22,8 @@ $text['title-call_recordings']['ru-ru'] = "Записи разговоров";
 $text['title-call_recordings']['sv-se'] = "";
 $text['title-call_recordings']['uk-ua'] = "";
 
-$text['title-call_recording']['en-us'] = "Call Recording";
-$text['title-call_recording']['zh-cn'] = "通话记录";
+$text['title-call_recording']['zh-cn'] = "Call Recording";
+$text['title-call_recording']['en-us'] = "通话记录";
 $text['title-call_recording']['ar-eg'] = "";
 $text['title-call_recording']['de-at'] = "";
 $text['title-call_recording']['de-ch'] = "";
@@ -43,8 +43,8 @@ $text['title-call_recording']['ru-ru'] = "Запись разговора";
 $text['title-call_recording']['sv-se'] = "";
 $text['title-call_recording']['uk-ua'] = "";
 
-$text['title_description-call_recording']['en-us'] = "Shows the call recordings with name, length, date and time, and call direction.";
-$text['title_description-call_recording']['zh-cn'] = "显示通话记录，包括姓名、长度、日期和时间以及通话方向。";
+$text['title_description-call_recording']['zh-cn'] = "Shows the call recordings with name, length, date and time, and call direction.";
+$text['title_description-call_recording']['en-us'] = "显示通话记录，包括姓名、长度、日期和时间以及通话方向。";
 $text['title_description-call_recording']['ar-eg'] = "";
 $text['title_description-call_recording']['de-at'] = "";
 $text['title_description-call_recording']['de-ch'] = "";
@@ -64,8 +64,8 @@ $text['title_description-call_recording']['ru-ru'] = "Показывает до�
 $text['title_description-call_recording']['sv-se'] = "";
 $text['title_description-call_recording']['uk-ua'] = "";
 
-$text['label-call_recording_name']['en-us'] = "Name";
-$text['label-call_recording_name']['zh-cn'] = "名字";
+$text['label-call_recording_name']['zh-cn'] = "Name";
+$text['label-call_recording_name']['en-us'] = "名字";
 $text['label-call_recording_name']['ar-eg'] = "";
 $text['label-call_recording_name']['de-at'] = "";
 $text['label-call_recording_name']['de-ch'] = "";
@@ -85,8 +85,8 @@ $text['label-call_recording_name']['ru-ru'] = "Имя";
 $text['label-call_recording_name']['sv-se'] = "";
 $text['label-call_recording_name']['uk-ua'] = "";
 
-$text['description-call_recording_name']['en-us'] = "";
 $text['description-call_recording_name']['zh-cn'] = "";
+$text['description-call_recording_name']['en-us'] = "";
 $text['description-call_recording_name']['ar-eg'] = "";
 $text['description-call_recording_name']['de-at'] = "";
 $text['description-call_recording_name']['de-ch'] = "";
@@ -106,8 +106,8 @@ $text['description-call_recording_name']['ru-ru'] = "";
 $text['description-call_recording_name']['sv-se'] = "";
 $text['description-call_recording_name']['uk-ua'] = "";
 
-$text['label-call_recording_path']['en-us'] = "Path";
-$text['label-call_recording_path']['zh-cn'] = "路径";
+$text['label-call_recording_path']['zh-cn'] = "Path";
+$text['label-call_recording_path']['en-us'] = "路径";
 $text['label-call_recording_path']['ar-eg'] = "";
 $text['label-call_recording_path']['de-at'] = "";
 $text['label-call_recording_path']['de-ch'] = "";
@@ -127,8 +127,8 @@ $text['label-call_recording_path']['ru-ru'] = "Путь";
 $text['label-call_recording_path']['sv-se'] = "";
 $text['label-call_recording_path']['uk-ua'] = "";
 
-$text['description-call_recording_path']['en-us'] = "";
 $text['description-call_recording_path']['zh-cn'] = "";
+$text['description-call_recording_path']['en-us'] = "";
 $text['description-call_recording_path']['ar-eg'] = "";
 $text['description-call_recording_path']['de-at'] = "";
 $text['description-call_recording_path']['de-ch'] = "";
@@ -148,8 +148,8 @@ $text['description-call_recording_path']['ru-ru'] = "";
 $text['description-call_recording_path']['sv-se'] = "";
 $text['description-call_recording_path']['uk-ua'] = "";
 
-$text['label-call_recording_length']['en-us'] = "Length";
-$text['label-call_recording_length']['zh-cn'] = "长度";
+$text['label-call_recording_length']['zh-cn'] = "Length";
+$text['label-call_recording_length']['en-us'] = "长度";
 $text['label-call_recording_length']['ar-eg'] = "";
 $text['label-call_recording_length']['de-at'] = "";
 $text['label-call_recording_length']['de-ch'] = "";
@@ -169,8 +169,8 @@ $text['label-call_recording_length']['ru-ru'] = "Длительность";
 $text['label-call_recording_length']['sv-se'] = "";
 $text['label-call_recording_length']['uk-ua'] = "";
 
-$text['description-call_recording_length']['en-us'] = "";
 $text['description-call_recording_length']['zh-cn'] = "";
+$text['description-call_recording_length']['en-us'] = "";
 $text['description-call_recording_length']['ar-eg'] = "";
 $text['description-call_recording_length']['de-at'] = "";
 $text['description-call_recording_length']['de-ch'] = "";
@@ -190,8 +190,8 @@ $text['description-call_recording_length']['ru-ru'] = "";
 $text['description-call_recording_length']['sv-se'] = "";
 $text['description-call_recording_length']['uk-ua'] = "";
 
-$text['label-call_recording_date']['en-us'] = "Date";
-$text['label-call_recording_date']['zh-cn'] = "日期";
+$text['label-call_recording_date']['zh-cn'] = "Date";
+$text['label-call_recording_date']['en-us'] = "日期";
 $text['label-call_recording_date']['ar-eg'] = "";
 $text['label-call_recording_date']['de-at'] = "";
 $text['label-call_recording_date']['de-ch'] = "";
@@ -211,8 +211,8 @@ $text['label-call_recording_date']['ru-ru'] = "Дата";
 $text['label-call_recording_date']['sv-se'] = "";
 $text['label-call_recording_date']['uk-ua'] = "";
 
-$text['description-call_recording_date']['en-us'] = "";
 $text['description-call_recording_date']['zh-cn'] = "";
+$text['description-call_recording_date']['en-us'] = "";
 $text['description-call_recording_date']['ar-eg'] = "";
 $text['description-call_recording_date']['de-at'] = "";
 $text['description-call_recording_date']['de-ch'] = "";
@@ -232,8 +232,8 @@ $text['description-call_recording_date']['ru-ru'] = "";
 $text['description-call_recording_date']['sv-se'] = "";
 $text['description-call_recording_date']['uk-ua'] = "";
 
-$text['label-call_direction']['en-us'] = "Direction";
-$text['label-call_direction']['zh-cn'] = "方向";
+$text['label-call_direction']['zh-cn'] = "Direction";
+$text['label-call_direction']['en-us'] = "方向";
 $text['label-call_direction']['ar-eg'] = "";
 $text['label-call_direction']['de-at'] = "";
 $text['label-call_direction']['de-ch'] = "";
@@ -253,8 +253,8 @@ $text['label-call_direction']['ru-ru'] = "Направление";
 $text['label-call_direction']['sv-se'] = "";
 $text['label-call_direction']['uk-ua'] = "";
 
-$text['description-call_direction']['en-us'] = "";
 $text['description-call_direction']['zh-cn'] = "";
+$text['description-call_direction']['en-us'] = "";
 $text['description-call_direction']['ar-eg'] = "";
 $text['description-call_direction']['de-at'] = "";
 $text['description-call_direction']['de-ch'] = "";
@@ -274,8 +274,8 @@ $text['description-call_direction']['ru-ru'] = "";
 $text['description-call_direction']['sv-se'] = "";
 $text['description-call_direction']['uk-ua'] = "";
 
-$text['label-call_recording_description']['en-us'] = "Description";
-$text['label-call_recording_description']['zh-cn'] = "说明";
+$text['label-call_recording_description']['zh-cn'] = "Description";
+$text['label-call_recording_description']['en-us'] = "说明";
 $text['label-call_recording_description']['ar-eg'] = "";
 $text['label-call_recording_description']['de-at'] = "";
 $text['label-call_recording_description']['de-ch'] = "";
@@ -295,8 +295,8 @@ $text['label-call_recording_description']['ru-ru'] = "Описание";
 $text['label-call_recording_description']['sv-se'] = "";
 $text['label-call_recording_description']['uk-ua'] = "";
 
-$text['description-call_recording_description']['en-us'] = "";
 $text['description-call_recording_description']['zh-cn'] = "";
+$text['description-call_recording_description']['en-us'] = "";
 $text['description-call_recording_description']['ar-eg'] = "";
 $text['description-call_recording_description']['de-at'] = "";
 $text['description-call_recording_description']['de-ch'] = "";
@@ -316,8 +316,8 @@ $text['description-call_recording_description']['ru-ru'] = "";
 $text['description-call_recording_description']['sv-se'] = "";
 $text['description-call_recording_description']['uk-ua'] = "";
 
-$text['label-call_recording_base64']['en-us'] = "Base64";
 $text['label-call_recording_base64']['zh-cn'] = "Base64";
+$text['label-call_recording_base64']['en-us'] = "Base64";
 $text['label-call_recording_base64']['ar-eg'] = "";
 $text['label-call_recording_base64']['de-at'] = "";
 $text['label-call_recording_base64']['de-ch'] = "";
@@ -337,8 +337,8 @@ $text['label-call_recording_base64']['ru-ru'] = "";
 $text['label-call_recording_base64']['sv-se'] = "";
 $text['label-call_recording_base64']['uk-ua'] = "";
 
-$text['description-call_recording_base64']['en-us'] = "";
 $text['description-call_recording_base64']['zh-cn'] = "";
+$text['description-call_recording_base64']['en-us'] = "";
 $text['description-call_recording_base64']['ar-eg'] = "";
 $text['description-call_recording_base64']['de-at'] = "";
 $text['description-call_recording_base64']['de-ch'] = "";

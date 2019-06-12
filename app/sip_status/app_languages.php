@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-status']['en-us'] = "Status";
-$text['title-status']['zh-cn'] = "状态";
+$text['title-status']['zh-cn'] = "Status";
+$text['title-status']['en-us'] = "状态";
 $text['title-status']['ar-eg'] = "";
 $text['title-status']['de-at'] = "Status"; //copied from de-de
 $text['title-status']['de-ch'] = "Status"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-status']['ru-ru'] = "Статус";
 $text['title-status']['sv-se'] = "Status";
 $text['title-status']['uk-ua'] = "Стан";
 
-$text['title-sofia-status-profile']['en-us'] = "sofia status profile";
-$text['title-sofia-status-profile']['zh-cn'] = "索非亚现状简介";
+$text['title-sofia-status-profile']['zh-cn'] = "sofia status profile";
+$text['title-sofia-status-profile']['en-us'] = "索非亚现状简介";
 $text['title-sofia-status-profile']['ar-eg'] = "";
 $text['title-sofia-status-profile']['de-at'] = "sofia status profile"; //copied from de-de
 $text['title-sofia-status-profile']['de-ch'] = "sofia status profile"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title-sofia-status-profile']['ru-ru'] = "Профиль статуса so
 $text['title-sofia-status-profile']['sv-se'] = "sofia status profil";
 $text['title-sofia-status-profile']['uk-ua'] = "sofia status profile ";
 
-$text['title-sofia-status']['en-us'] = "sofia status";
-$text['title-sofia-status']['zh-cn'] = "索非亚状态";
+$text['title-sofia-status']['zh-cn'] = "sofia status";
+$text['title-sofia-status']['en-us'] = "索非亚状态";
 $text['title-sofia-status']['ar-eg'] = "";
 $text['title-sofia-status']['de-at'] = "sofia status"; //copied from de-de
 $text['title-sofia-status']['de-ch'] = "sofia status"; //copied from de-de
@@ -64,8 +64,8 @@ $text['title-sofia-status']['ru-ru'] = "sofia статус";
 $text['title-sofia-status']['sv-se'] = "sofia status";
 $text['title-sofia-status']['uk-ua'] = "sofia status ";
 
-$text['title-sip-status']['en-us'] = "SIP Status";
-$text['title-sip-status']['zh-cn'] = "SIP状态";
+$text['title-sip-status']['zh-cn'] = "SIP Status";
+$text['title-sip-status']['en-us'] = "SIP状态";
 $text['title-sip-status']['ar-eg'] = "";
 $text['title-sip-status']['de-at'] = "SIP Status"; //copied from de-de
 $text['title-sip-status']['de-ch'] = "SIP Status"; //copied from de-de
@@ -85,8 +85,8 @@ $text['title-sip-status']['ru-ru'] = "SIP Статус";
 $text['title-sip-status']['sv-se'] = "SIP Status";
 $text['title-sip-status']['uk-ua'] = "Стан SIP";
 
-$text['label-action']['en-us'] = "Action";
-$text['label-action']['zh-cn'] = "行动";
+$text['label-action']['zh-cn'] = "Action";
+$text['label-action']['en-us'] = "行动";
 $text['label-action']['ar-eg'] = "";
 $text['label-action']['de-at'] = "Aktion"; //copied from de-de
 $text['label-action']['de-ch'] = "Aktion"; //copied from de-de
@@ -106,8 +106,8 @@ $text['label-action']['ru-ru'] = "Действие";
 $text['label-action']['sv-se'] = "Åtgärd";
 $text['label-action']['uk-ua'] = "Дія";
 
-$text['label-state']['en-us'] = "State";
-$text['label-state']['zh-cn'] = "状态";
+$text['label-state']['zh-cn'] = "State";
+$text['label-state']['en-us'] = "状态";
 $text['label-state']['ar-eg'] = "";
 $text['label-state']['de-at'] = "Status"; //copied from de-de
 $text['label-state']['de-ch'] = "Status"; //copied from de-de
@@ -127,8 +127,8 @@ $text['label-state']['ru-ru'] = "Состояние";
 $text['label-state']['sv-se'] = "Status";
 $text['label-state']['uk-ua'] = "Стан";
 
-$text['label-message']['en-us'] = "Message";
-$text['label-message']['zh-cn'] = "消息";
+$text['label-message']['zh-cn'] = "Message";
+$text['label-message']['en-us'] = "消息";
 $text['label-message']['ar-eg'] = "";
 $text['label-message']['de-at'] = "Nachricht"; //copied from de-de
 $text['label-message']['de-ch'] = "Nachricht"; //copied from de-de
@@ -148,8 +148,8 @@ $text['label-message']['ru-ru'] = "Сообщение";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "Повідомлення";
 
-$text['label-data']['en-us'] = "Data";
-$text['label-data']['zh-cn'] = "数据";
+$text['label-data']['zh-cn'] = "Data";
+$text['label-data']['en-us'] = "数据";
 $text['label-data']['ar-eg'] = "";
 $text['label-data']['de-at'] = "Daten"; //copied from de-de
 $text['label-data']['de-ch'] = "Daten"; //copied from de-de
@@ -169,8 +169,8 @@ $text['label-data']['ru-ru'] = "Дата";
 $text['label-data']['sv-se'] = "Data";
 $text['label-data']['uk-ua'] = "Дані";
 
-$text['header-sip-status']['en-us'] = "SIP Status";
-$text['header-sip-status']['zh-cn'] = "SIP状态";
+$text['header-sip-status']['zh-cn'] = "SIP Status";
+$text['header-sip-status']['en-us'] = "SIP状态";
 $text['header-sip-status']['ar-eg'] = "";
 $text['header-sip-status']['de-at'] = "SIP Status"; //copied from de-de
 $text['header-sip-status']['de-ch'] = "SIP Status"; //copied from de-de
@@ -190,8 +190,8 @@ $text['header-sip-status']['ru-ru'] = "Статус SIP";
 $text['header-sip-status']['sv-se'] = "SIP Status";
 $text['header-sip-status']['uk-ua'] = "Стан SIP";
 
-$text['error-event-socket']['en-us'] = "Connection to Event Socket failed.";
-$text['error-event-socket']['zh-cn'] = "连接到事件套接字失败。";
+$text['error-event-socket']['zh-cn'] = "Connection to Event Socket failed.";
+$text['error-event-socket']['en-us'] = "连接到事件套接字失败。";
 $text['error-event-socket']['ar-eg'] = "";
 $text['error-event-socket']['de-at'] = "Verbindung zum Event Socket fehlgeschlagen."; //copied from de-de
 $text['error-event-socket']['de-ch'] = "Verbindung zum Event Socket fehlgeschlagen."; //copied from de-de
@@ -211,8 +211,8 @@ $text['error-event-socket']['ru-ru'] = "Не удалось подключить
 $text['error-event-socket']['sv-se'] = "Kontakten till 'Event Socket' misslyckades.";
 $text['error-event-socket']['uk-ua'] = "Помилка підключення до сокета подій";
 
-$text['button-rescan']['en-us'] = "Rescan";
-$text['button-rescan']['zh-cn'] = "再扫描";
+$text['button-rescan']['zh-cn'] = "Rescan";
+$text['button-rescan']['en-us'] = "再扫描";
 $text['button-rescan']['ar-eg'] = "";
 $text['button-rescan']['de-at'] = "Neu scannen"; //copied from de-de
 $text['button-rescan']['de-ch'] = "Neu scannen"; //copied from de-de
@@ -232,8 +232,8 @@ $text['button-rescan']['ru-ru'] = "Пересканировать";
 $text['button-rescan']['sv-se'] = "Sök Igen";
 $text['button-rescan']['uk-ua'] = "Пересканувати";
 
-$text['button-reload_xml']['en-us'] = "Reload XML";
-$text['button-reload_xml']['zh-cn'] = "重新加载XML";
+$text['button-reload_xml']['zh-cn'] = "Reload XML";
+$text['button-reload_xml']['en-us'] = "重新加载XML";
 $text['button-reload_xml']['ar-eg'] = "";
 $text['button-reload_xml']['de-at'] = "XML neu laden"; //copied from de-de
 $text['button-reload_xml']['de-ch'] = "XML neu laden"; //copied from de-de
@@ -253,8 +253,8 @@ $text['button-reload_xml']['ru-ru'] = "перезагрузить XML";
 $text['button-reload_xml']['sv-se'] = "Ladda Om XML";
 $text['button-reload_xml']['uk-ua'] = "Перезагрузити XML";
 
-$text['button-reload_acl']['en-us'] = "Reload ACL";
-$text['button-reload_acl']['zh-cn'] = "重新加载ACL";
+$text['button-reload_acl']['zh-cn'] = "Reload ACL";
+$text['button-reload_acl']['en-us'] = "重新加载ACL";
 $text['button-reload_acl']['ar-eg'] = "";
 $text['button-reload_acl']['de-at'] = "ACL neu laden"; //copied from de-de
 $text['button-reload_acl']['de-ch'] = "ACL neu laden"; //copied from de-de
@@ -274,8 +274,8 @@ $text['button-reload_acl']['ru-ru'] = "Перезагрузить ACL ";
 $text['button-reload_acl']['sv-se'] = "Ladda Om ACL";
 $text['button-reload_acl']['uk-ua'] = "Перезагрузити ACL ";
 
-$text['button-registrations']['en-us'] = "Registrations";
-$text['button-registrations']['zh-cn'] = "注册";
+$text['button-registrations']['zh-cn'] = "Registrations";
+$text['button-registrations']['en-us'] = "注册";
 $text['button-registrations']['ar-eg'] = "";
 $text['button-registrations']['de-at'] = "Registrierungen"; //copied from de-de
 $text['button-registrations']['de-ch'] = "Registrierungen"; //copied from de-de
@@ -295,8 +295,8 @@ $text['button-registrations']['ru-ru'] = "Регистрация";
 $text['button-registrations']['sv-se'] = "Registreringar";
 $text['button-registrations']['uk-ua'] = "Реєстрації";
 
-$text['button-flush_registrations']['en-us'] = "Flush Registrations";
-$text['button-flush_registrations']['zh-cn'] = "刷新注册";
+$text['button-flush_registrations']['zh-cn'] = "Flush Registrations";
+$text['button-flush_registrations']['en-us'] = "刷新注册";
 $text['button-flush_registrations']['ar-eg'] = "";
 $text['button-flush_registrations']['de-at'] = "Registrierungen verwerfen"; //copied from de-de
 $text['button-flush_registrations']['de-ch'] = "Registrierungen verwerfen"; //copied from de-de
@@ -316,8 +316,8 @@ $text['button-flush_registrations']['ru-ru'] = "Сбросить регистр�
 $text['button-flush_registrations']['sv-se'] = "'Flush' Registreringar";
 $text['button-flush_registrations']['uk-ua'] = "Скинути реєстрації";
 
-$text['button-flush_cache']['en-us'] = "Flush Cache";
-$text['button-flush_cache']['zh-cn'] = "刷新缓存";
+$text['button-flush_cache']['zh-cn'] = "Flush Cache";
+$text['button-flush_cache']['en-us'] = "刷新缓存";
 $text['button-flush_cache']['ar-eg'] = "";
 $text['button-flush_cache']['de-at'] = "Cache leeren"; //copied from de-de
 $text['button-flush_cache']['de-ch'] = "Cache leeren"; //copied from de-de

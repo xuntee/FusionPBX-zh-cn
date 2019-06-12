@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-2']['en-us'] = "Active Extensions";
-$text['title-2']['zh-cn'] = "活动扩展";
+$text['title-2']['zh-cn'] = "Active Extensions";
+$text['title-2']['en-us'] = "活动扩展";
 $text['title-2']['ar-eg'] = "";
 $text['title-2']['de-at'] = "Aktive Nebenstellen"; //copied from de-de
 $text['title-2']['de-ch'] = "Aktive Nebenstellen"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-2']['ru-ru'] = "Активные внутренние номера"
 $text['title-2']['sv-se'] = "Aktiva anknytningar";
 $text['title-2']['uk-ua'] = "Активні розширення";
 
-$text['title']['en-us'] = "Active Calls";
-$text['title']['zh-cn'] = "活动呼叫";
+$text['title']['zh-cn'] = "Active Calls";
+$text['title']['en-us'] = "活动呼叫";
 $text['title']['ar-eg'] = "";
 $text['title']['de-at'] = "Aktive Gespräche"; //copied from de-de
 $text['title']['de-ch'] = "Aktive Gespräche"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title']['ru-ru'] = "Активные вызовы";
 $text['title']['sv-se'] = "Aktiva Samtal";
 $text['title']['uk-ua'] = "Активні дзвінки";
 
-$text['label-time']['en-us'] = "Time";
-$text['label-time']['zh-cn'] = "时间";
+$text['label-time']['zh-cn'] = "Time";
+$text['label-time']['en-us'] = "时间";
 $text['label-time']['ar-eg'] = "";
 $text['label-time']['de-at'] = "Zeit"; //copied from de-de
 $text['label-time']['de-ch'] = "Zeit"; //copied from de-de
@@ -64,8 +64,8 @@ $text['label-time']['ru-ru'] = "Время";
 $text['label-time']['sv-se'] = "Tid";
 $text['label-time']['uk-ua'] = "Час";
 
-$text['label-stop']['en-us'] = "stop record";
-$text['label-stop']['zh-cn'] = "停止记录";
+$text['label-stop']['zh-cn'] = "stop record";
+$text['label-stop']['en-us'] = "停止记录";
 $text['label-stop']['ar-eg'] = "";
 $text['label-stop']['de-at'] = "Stoppe Aufnahme"; //copied from de-de
 $text['label-stop']['de-ch'] = "Stoppe Aufnahme"; //copied from de-de
@@ -85,8 +85,8 @@ $text['label-stop']['ru-ru'] = "остановить запись";
 $text['label-stop']['sv-se'] = "Stoppa inspelning";
 $text['label-stop']['uk-ua'] = "Зупинити запис";
 
-$text['label-status']['en-us'] = "Status";
-$text['label-status']['zh-cn'] = "状态";
+$text['label-status']['zh-cn'] = "Status";
+$text['label-status']['en-us'] = "状态";
 $text['label-status']['ar-eg'] = "";
 $text['label-status']['de-at'] = "Status"; //copied from de-de
 $text['label-status']['de-ch'] = "Status"; //copied from de-de
@@ -106,8 +106,8 @@ $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
 
-$text['label-start']['en-us'] = "start record";
-$text['label-start']['zh-cn'] = "开始记录";
+$text['label-start']['zh-cn'] = "start record";
+$text['label-start']['en-us'] = "开始记录";
 $text['label-start']['ar-eg'] = "";
 $text['label-start']['de-at'] = "Starte Aufnahme"; //copied from de-de
 $text['label-start']['de-ch'] = "Starte Aufnahme"; //copied from de-de
@@ -127,8 +127,8 @@ $text['label-start']['ru-ru'] = "начать запись";
 $text['label-start']['sv-se'] = "Starta inspelning";
 $text['label-start']['uk-ua'] = "Запустити запис";
 
-$text['label-secure']['en-us'] = "Secure";
-$text['label-secure']['zh-cn'] = "安全的";
+$text['label-secure']['zh-cn'] = "Secure";
+$text['label-secure']['en-us'] = "安全的";
 $text['label-secure']['ar-eg'] = "";
 $text['label-secure']['de-at'] = "Sicher"; //copied from de-de
 $text['label-secure']['de-ch'] = "Sicher"; //copied from de-de
@@ -148,8 +148,8 @@ $text['label-secure']['ru-ru'] = "Безопасный";
 $text['label-secure']['sv-se'] = "Skydda";
 $text['label-secure']['uk-ua'] = "Захищено";
 
-$text['label-refresh_pause']['en-us'] = "Pause Refresh";
-$text['label-refresh_pause']['zh-cn'] = "暂停刷新";
+$text['label-refresh_pause']['zh-cn'] = "Pause Refresh";
+$text['label-refresh_pause']['en-us'] = "暂停刷新";
 $text['label-refresh_pause']['ar-eg'] = "";
 $text['label-refresh_pause']['de-at'] = "Seite neu laden deaktivieren"; //copied from de-de
 $text['label-refresh_pause']['de-ch'] = "Seite neu laden deaktivieren"; //copied from de-de
@@ -169,8 +169,8 @@ $text['label-refresh_pause']['ru-ru'] = "Приостановить обновл
 $text['label-refresh_pause']['sv-se'] = "Paus Uppdatera";
 $text['label-refresh_pause']['uk-ua'] = "пауза Оновити";
 
-$text['label-refresh_enable']['en-us'] = "Enable Refresh";
-$text['label-refresh_enable']['zh-cn'] = "启用刷新";
+$text['label-refresh_enable']['zh-cn'] = "Enable Refresh";
+$text['label-refresh_enable']['en-us'] = "启用刷新";
 $text['label-refresh_enable']['ar-eg'] = "";
 $text['label-refresh_enable']['de-at'] = "Seite neu laden aktivieren"; //copied from de-de
 $text['label-refresh_enable']['de-ch'] = "Seite neu laden aktivieren"; //copied from de-de
@@ -190,8 +190,8 @@ $text['label-refresh_enable']['ru-ru'] = "Включить обновление"
 $text['label-refresh_enable']['sv-se'] = "Aktivera Uppdatering";
 $text['label-refresh_enable']['uk-ua'] = "включити Оновити";
 
-$text['label-profile']['en-us'] = "Profile";
-$text['label-profile']['zh-cn'] = "简况";
+$text['label-profile']['zh-cn'] = "Profile";
+$text['label-profile']['en-us'] = "简况";
 $text['label-profile']['ar-eg'] = "";
 $text['label-profile']['de-at'] = "Profil"; //copied from de-de
 $text['label-profile']['de-ch'] = "Profil"; //copied from de-de
@@ -211,8 +211,8 @@ $text['label-profile']['ru-ru'] = "Профиль";
 $text['label-profile']['sv-se'] = "Profil";
 $text['label-profile']['uk-ua'] = "Профіль";
 
-$text['label-park-extension']['en-us'] = "Park";
-$text['label-park-extension']['zh-cn'] = "公园";
+$text['label-park-extension']['zh-cn'] = "Park";
+$text['label-park-extension']['en-us'] = "公园";
 $text['label-park-extension']['ar-eg'] = "";
 $text['label-park-extension']['de-at'] = "Parken"; //copied from de-de
 $text['label-park-extension']['de-ch'] = "Parken"; //copied from de-de
@@ -232,8 +232,8 @@ $text['label-park-extension']['ru-ru'] = "Парковка";
 $text['label-park-extension']['sv-se'] = "Parkera";
 $text['label-park-extension']['uk-ua'] = "Паркувати";
 
-$text['label-park']['en-us'] = "park";
-$text['label-公园']['zh-cn'] = "公园";
+$text['label-park']['zh-cn'] = "park";
+$text['label-公园']['en-us'] = "公园";
 $text['label-park']['ar-eg'] = "";
 $text['label-park']['de-at'] = "parken"; //copied from de-de
 $text['label-park']['de-ch'] = "parken"; //copied from de-de
@@ -253,8 +253,8 @@ $text['label-park']['ru-ru'] = "парковка";
 $text['label-park']['sv-se'] = "parkera";
 $text['label-park']['uk-ua'] = "паркувати";
 
-$text['label-opt']['en-us'] = "Options";
-$text['label-opt']['zh-cn'] = "选项";
+$text['label-opt']['zh-cn'] = "Options";
+$text['label-opt']['en-us'] = "选项";
 $text['label-opt']['ar-eg'] = "";
 $text['label-opt']['de-at'] = "Optionen"; //copied from de-de
 $text['label-opt']['de-ch'] = "Optionen"; //copied from de-de
@@ -274,8 +274,8 @@ $text['label-opt']['ru-ru'] = "Опции";
 $text['label-opt']['sv-se'] = "Alternativ";
 $text['label-opt']['uk-ua'] = "Опції";
 
-$text['label-number']['en-us'] = "Number";
-$text['label-number']['zh-cn'] = "数";
+$text['label-number']['zh-cn'] = "Number";
+$text['label-number']['en-us'] = "数";
 $text['label-number']['ar-eg'] = "";
 $text['label-number']['de-at'] = "Nummer"; //copied from de-de
 $text['label-number']['de-ch'] = "Nummer"; //copied from de-de
@@ -295,8 +295,8 @@ $text['label-number']['ru-ru'] = "Номер";
 $text['label-number']['sv-se'] = "Nummer";
 $text['label-number']['uk-ua'] = "Номер";
 
-$text['label-message']['en-us'] = "Message";
-$text['label-message']['zh-cn'] = "消息";
+$text['label-message']['zh-cn'] = "Message";
+$text['label-message']['en-us'] = "消息";
 $text['label-message']['ar-eg'] = "";
 $text['label-message']['de-at'] = "Nachricht"; //copied from de-de
 $text['label-message']['de-ch'] = "Nachricht"; //copied from de-de
@@ -316,8 +316,8 @@ $text['label-message']['ru-ru'] = "Сообщение";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "Повідомлення";
 
-$text['label-hangup']['en-us'] = "Hangup";
-$text['label-hangup']['zh-cn'] = "挂机";
+$text['label-hangup']['zh-cn'] = "Hangup";
+$text['label-hangup']['en-us'] = "挂机";
 $text['label-hangup']['ar-eg'] = "";
 $text['label-hangup']['de-at'] = "Auflegen"; //copied from de-de
 $text['label-hangup']['de-ch'] = "Auflegen"; //copied from de-de
@@ -337,8 +337,8 @@ $text['label-hangup']['ru-ru'] = "Завершить";
 $text['label-hangup']['sv-se'] = "Avsluta";
 $text['label-hangup']['uk-ua'] = "Розірвати";
 
-$text['label-ext']['en-us'] = "Ext";
-$text['label-ext']['zh-cn'] = "提取";
+$text['label-ext']['zh-cn'] = "Ext";
+$text['label-ext']['en-us'] = "提取";
 $text['label-ext']['ar-eg'] = "";
 $text['label-ext']['de-at'] = "Nst"; //copied from de-de
 $text['label-ext']['de-ch'] = "Nst"; //copied from de-de
@@ -358,8 +358,8 @@ $text['label-ext']['ru-ru'] = "Вн.";
 $text['label-ext']['sv-se'] = "Ank";
 $text['label-ext']['uk-ua'] = "Ext ";
 
-$text['label-domain']['en-us'] = "Domain";
-$text['label-domain']['zh-cn'] = "领域";
+$text['label-domain']['zh-cn'] = "Domain";
+$text['label-domain']['en-us'] = "领域";
 $text['label-domain']['ar-eg'] = "";
 $text['label-domain']['de-at'] = "Domäne"; //copied from de-de
 $text['label-domain']['de-ch'] = "Domäne"; //copied from de-de
@@ -379,8 +379,8 @@ $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
 
-$text['label-destination']['en-us'] = "Dest";
-$text['label-destination']['zh-cn'] = "最";
+$text['label-destination']['zh-cn'] = "Dest";
+$text['label-destination']['en-us'] = "最";
 $text['label-destination']['ar-eg'] = "";
 $text['label-destination']['de-at'] = "Ziel"; //copied from de-de
 $text['label-destination']['de-ch'] = "Ziel"; //copied from de-de
@@ -400,8 +400,8 @@ $text['label-destination']['ru-ru'] = "Назн.";
 $text['label-destination']['sv-se'] = "Dest";
 $text['label-destination']['uk-ua'] = "Номер";
 
-$text['label-created']['en-us'] = "Created";
-$text['label-created']['zh-cn'] = "创建";
+$text['label-created']['zh-cn'] = "Created";
+$text['label-created']['en-us'] = "创建";
 $text['label-created']['ar-eg'] = "";
 $text['label-created']['de-at'] = "Erstellt"; //copied from de-de
 $text['label-created']['de-ch'] = "Erstellt"; //copied from de-de
@@ -421,8 +421,8 @@ $text['label-created']['ru-ru'] = "Создан";
 $text['label-created']['sv-se'] = "Skapad";
 $text['label-created']['uk-ua'] = "Створено";
 
-$text['label-codec']['en-us'] = "Read / Write Codec";
-$text['label-codec']['zh-cn'] = "读/写编解码器";
+$text['label-codec']['zh-cn'] = "Read / Write Codec";
+$text['label-codec']['en-us'] = "读/写编解码器";
 $text['label-codec']['ar-eg'] = "";
 $text['label-codec']['de-at'] = "Lese / Schreib Codec"; //copied from de-de
 $text['label-codec']['de-ch'] = "Lese / Schreib Codec"; //copied from de-de
@@ -442,8 +442,8 @@ $text['label-codec']['ru-ru'] = "Кодек Чтение / Запись";
 $text['label-codec']['sv-se'] = "Läs/Skriv Codec";
 $text['label-codec']['uk-ua'] = "Кодеки читання/запису";
 
-$text['label-cid-number']['en-us'] = "CID Number";
-$text['label-cid-number']['zh-cn'] = "CID编号";
+$text['label-cid-number']['zh-cn'] = "CID Number";
+$text['label-cid-number']['en-us'] = "CID编号";
 $text['label-cid-number']['ar-eg'] = "";
 $text['label-cid-number']['de-at'] = "Anrufer Nummer"; //copied from de-de
 $text['label-cid-number']['de-ch'] = "Anrufer Nummer"; //copied from de-de
@@ -463,8 +463,8 @@ $text['label-cid-number']['ru-ru'] = "CID Номер";
 $text['label-cid-number']['sv-se'] = "CID, nummerspresentation";
 $text['label-cid-number']['uk-ua'] = "CID Номер";
 
-$text['label-cid-name']['en-us'] = "CID Name";
-$text['label-cid-name']['zh-cn'] = "CID名称";
+$text['label-cid-name']['zh-cn'] = "CID Name";
+$text['label-cid-name']['en-us'] = "CID名称";
 $text['label-cid-name']['ar-eg'] = "";
 $text['label-cid-name']['de-at'] = "Anrufer Name"; //copied from de-de
 $text['label-cid-name']['de-ch'] = "Anrufer Name"; //copied from de-de
@@ -484,8 +484,8 @@ $text['label-cid-name']['ru-ru'] = "CID Имя";
 $text['label-cid-name']['sv-se'] = "CID namnpresentation";
 $text['label-cid-name']['uk-ua'] = "CID Ім’я";
 
-$text['label-app']['en-us'] = "Application";
-$text['label-app']['zh-cn'] = "应用";
+$text['label-app']['zh-cn'] = "Application";
+$text['label-app']['en-us'] = "应用";
 $text['label-app']['ar-eg'] = "";
 $text['label-app']['de-at'] = "Anwendung"; //copied from de-de
 $text['label-app']['de-ch'] = "Anwendung"; //copied from de-de
@@ -505,8 +505,8 @@ $text['label-app']['ru-ru'] = "Приложение";
 $text['label-app']['sv-se'] = "Ansökan";
 $text['label-app']['uk-ua'] = "Додаток";
 
-$text['description-2']['en-us'] = "Use this to view all extensions and monitor and interact with active calls.";
-$text['description-2']['zh-cn'] = "使用它可以查看所有扩展，监视和与活动呼叫交互。";
+$text['description-2']['zh-cn'] = "Use this to view all extensions and monitor and interact with active calls.";
+$text['description-2']['en-us'] = "使用它可以查看所有扩展，监视和与活动呼叫交互。";
 $text['description-2']['ar-eg'] = "";
 $text['description-2']['de-at'] = "Benutzen Sie die Funktionen um alle Nebenstellen anzuzeigen, zu überwachen und aktive Gespräche zu steuern."; //copied from de-de
 $text['description-2']['de-ch'] = "Benutzen Sie die Funktionen um alle Nebenstellen anzuzeigen, zu überwachen und aktive Gespräche zu steuern."; //copied from de-de
@@ -526,8 +526,8 @@ $text['description-2']['ru-ru'] = "Используйте для просмот�
 $text['description-2']['sv-se'] = "Använd detta för att se alla anknytningar och monitorera och hantera aktiva samtal.";
 $text['description-2']['uk-ua'] = "Використовуйте це, щоб переглянути всі розширення, контролювати і взаємодіяти з активними викликами.";
 
-$text['description']['en-us'] = "Use this to monitor and interact with the active calls.";
-$text['description']['zh-cn'] = "使用此项监视和与活动呼叫交互。";
+$text['description']['zh-cn'] = "Use this to monitor and interact with the active calls.";
+$text['description']['en-us'] = "使用此项监视和与活动呼叫交互。";
 $text['description']['ar-eg'] = "";
 $text['description']['de-at'] = "Benutzen Sie die Funktionen um aktive Gespräche zu steuern."; //copied from de-de
 $text['description']['de-ch'] = "Benutzen Sie die Funktionen um aktive Gespräche zu steuern."; //copied from de-de
@@ -547,8 +547,8 @@ $text['description']['ru-ru'] = "Используйте для отслежив�
 $text['description']['sv-se'] = "Använd detta för att monitorera och hantera aktiva samtal.";
 $text['description']['uk-ua'] = "Використовуйте це, щоб контролювати і взаємодіяти з активними викликами.";
 
-$text['confirm-socket']['en-us'] = "Connection to Event Socket failed.";
-$text['confirm-socket']['zh-cn'] = "连接到事件套接字失败。";
+$text['confirm-socket']['zh-cn'] = "Connection to Event Socket failed.";
+$text['confirm-socket']['en-us'] = "连接到事件套接字失败。";
 $text['confirm-socket']['ar-eg'] = "";
 $text['confirm-socket']['de-at'] = "Verbindung zum Event-Socket fehlgeschlagen."; //copied from de-de
 $text['confirm-socket']['de-ch'] = "Verbindung zum Event-Socket fehlgeschlagen."; //copied from de-de
@@ -568,8 +568,8 @@ $text['confirm-socket']['ru-ru'] = "Не удалось подключиться
 $text['confirm-socket']['sv-se'] = "Anslutning till 'Event Socket' misslyckades";
 $text['confirm-socket']['uk-ua'] = "Помилка підключення до сокета подій";
 
-$text['confirm-hangup']['en-us'] = "Do you really want to hangup this call?";
-$text['confirm-hangup']['zh-cn'] = "你真的想挂断这个电话吗？";
+$text['confirm-hangup']['zh-cn'] = "Do you really want to hangup this call?";
+$text['confirm-hangup']['en-us'] = "你真的想挂断这个电话吗？";
 $text['confirm-hangup']['ar-eg'] = "";
 $text['confirm-hangup']['de-at'] = "Wollen Sie dieses Gespräch wirklich beenden?"; //copied from de-de
 $text['confirm-hangup']['de-ch'] = "Wollen Sie dieses Gespräch wirklich beenden?"; //copied from de-de
@@ -589,8 +589,8 @@ $text['confirm-hangup']['ru-ru'] = "Вы действительно хотите
 $text['confirm-hangup']['sv-se'] = "Vill du verkligen avsluta detta samtal";
 $text['confirm-hangup']['uk-ua'] = "Ви дійсно бажаєте розірвати дзвінок?";
 
-$text['check-onbreak-status']['en-us'] = "On Break";
-$text['check-onbreak-status']['zh-cn'] = "休息时";
+$text['check-onbreak-status']['zh-cn'] = "On Break";
+$text['check-onbreak-status']['en-us'] = "休息时";
 $text['check-onbreak-status']['ar-eg'] = "";
 $text['check-onbreak-status']['de-at'] = "Auf Pause"; //copied from de-de
 $text['check-onbreak-status']['de-ch'] = "Auf Pause"; //copied from de-de
@@ -610,8 +610,8 @@ $text['check-onbreak-status']['ru-ru'] = "Перерыв";
 $text['check-onbreak-status']['sv-se'] = "På Rast";
 $text['check-onbreak-status']['uk-ua'] = "На перерві";
 
-$text['check-loggedout-status']['en-us'] = "Logged Out";
-$text['check-loggedout-status']['zh-cn'] = "注销";
+$text['check-loggedout-status']['zh-cn'] = "Logged Out";
+$text['check-loggedout-status']['en-us'] = "注销";
 $text['check-loggedout-status']['ar-eg'] = "";
 $text['check-loggedout-status']['de-at'] = "Abgemeldet"; //copied from de-de
 $text['check-loggedout-status']['de-ch'] = "Abgemeldet"; //copied from de-de
@@ -631,8 +631,8 @@ $text['check-loggedout-status']['ru-ru'] = "Не в сети";
 $text['check-loggedout-status']['sv-se'] = "Utloggad";
 $text['check-loggedout-status']['uk-ua'] = "Вийшов";
 
-$text['check-do-not-disturb-status']['en-us'] = "Do Not Disturb";
-$text['check-do-not-disturb-status']['zh-cn'] = "请勿打扰";
+$text['check-do-not-disturb-status']['zh-cn'] = "Do Not Disturb";
+$text['check-do-not-disturb-status']['en-us'] = "请勿打扰";
 $text['check-do-not-disturb-status']['ar-eg'] = "";
 $text['check-do-not-disturb-status']['de-at'] = "Bitte nicht Stören"; //copied from de-de
 $text['check-do-not-disturb-status']['de-ch'] = "Bitte nicht Stören"; //copied from de-de
@@ -652,8 +652,8 @@ $text['check-do-not-disturb-status']['ru-ru'] = "Не беспокоить (DND)
 $text['check-do-not-disturb-status']['sv-se'] = "Stör Ej";
 $text['check-do-not-disturb-status']['uk-ua'] = "Не турбувати";
 
-$text['check-available-status']['en-us'] = "Available";
-$text['check-available-status']['zh-cn'] = "可用";
+$text['check-available-status']['zh-cn'] = "Available";
+$text['check-available-status']['en-us'] = "可用";
 $text['check-available-status']['ar-eg'] = "";
 $text['check-available-status']['de-at'] = "Erreichbar"; //copied from de-de
 $text['check-available-status']['de-ch'] = "Erreichbar"; //copied from de-de
@@ -673,8 +673,8 @@ $text['check-available-status']['ru-ru'] = "Доступен";
 $text['check-available-status']['sv-se'] = "Anträffbar";
 $text['check-available-status']['uk-ua'] = "Доступний";
 
-$text['check-available-on-demand-status']['en-us'] = "Available (On Demand)";
-$text['check-available-on-demand-status']['zh-cn'] = "可用（按需）";
+$text['check-available-on-demand-status']['zh-cn'] = "Available (On Demand)";
+$text['check-available-on-demand-status']['en-us'] = "可用（按需）";
 $text['check-available-on-demand-status']['ar-eg'] = "";
 $text['check-available-on-demand-status']['de-at'] = "Erreichbar (Auf Anfrage)"; //copied from de-de
 $text['check-available-on-demand-status']['de-ch'] = "Erreichbar (Auf Anfrage)"; //copied from de-de
@@ -694,8 +694,8 @@ $text['check-available-on-demand-status']['ru-ru'] = "Доступен (по т�
 $text['check-available-on-demand-status']['sv-se'] = "Anträffbar (På Begäran)";
 $text['check-available-on-demand-status']['uk-ua'] = "Доступний (на вимогу)";
 
-$text['button-show_all']['en-us'] = "Show All";
-$text['button-show_all']['zh-cn'] = "全部显示";
+$text['button-show_all']['zh-cn'] = "Show All";
+$text['button-show_all']['en-us'] = "全部显示";
 $text['button-show_all']['ar-eg'] = "";
 $text['button-show_all']['de-at'] = "Alle anzeigen"; //copied from de-de
 $text['button-show_all']['de-ch'] = "Alle anzeigen"; //copied from de-de

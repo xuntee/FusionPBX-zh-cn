@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-backup']['en-us'] = "Backup";
-$text['title-backup']['zh-cn'] = "备份";
+$text['title-backup']['zh-cn'] = "Backup";
+$text['title-backup']['en-us'] = "备份";
 $text['title-backup']['ar-eg'] = "";
 $text['title-backup']['de-at'] = "Datensicherung"; //copied from de-de
 $text['title-backup']['de-ch'] = "Datensicherung"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-backup']['ru-ru'] = "Резервное копирование";
 $text['title-backup']['sv-se'] = "Backup";
 $text['title-backup']['uk-ua'] = "Резервна копія";
 
-$text['option-file_download']['en-us'] = "File Download";
-$text['option-file_download']['zh-cn'] = "文件下载";
+$text['option-file_download']['zh-cn'] = "File Download";
+$text['option-file_download']['en-us'] = "文件下载";
 $text['option-file_download']['ar-eg'] = "";
 $text['option-file_download']['de-at'] = "Datei herunterladen"; //copied from de-de
 $text['option-file_download']['de-ch'] = "Datei herunterladen"; //copied from de-de
@@ -43,8 +43,8 @@ $text['option-file_download']['ru-ru'] = "Скачать архив";
 $text['option-file_download']['sv-se'] = "Ladda Ned Fil";
 $text['option-file_download']['uk-ua'] = "Скачування файлу";
 
-$text['option-command']['en-us'] = "Command";
-$text['option-command']['zh-cn'] = "命令";
+$text['option-command']['zh-cn'] = "Command";
+$text['option-command']['en-us'] = "命令";
 $text['option-command']['ar-eg'] = "";
 $text['option-command']['de-at'] = "Befehl"; //copied from de-de
 $text['option-command']['de-ch'] = "Befehl"; //copied from de-de
@@ -64,8 +64,8 @@ $text['option-command']['ru-ru'] = "Команда";
 $text['option-command']['sv-se'] = "Komando";
 $text['option-command']['uk-ua'] = "Команда";
 
-$text['message-restore_failed_upload']['en-us'] = "Restore Failed - File Upload Failed";
-$text['message-restore_failed_upload']['zh-cn'] = "还原失败-文件上载失败";
+$text['message-restore_failed_upload']['zh-cn'] = "Restore Failed - File Upload Failed";
+$text['message-restore_failed_upload']['en-us'] = "还原失败-文件上载失败";
 $text['message-restore_failed_upload']['ar-eg'] = "";
 $text['message-restore_failed_upload']['de-at'] = "Wiederherstellung fehlgeschlagen - Datei hochladen fehlgeschlagen"; //copied from de-de
 $text['message-restore_failed_upload']['de-ch'] = "Wiederherstellung fehlgeschlagen - Datei hochladen fehlgeschlagen"; //copied from de-de
@@ -85,8 +85,8 @@ $text['message-restore_failed_upload']['ru-ru'] = "Ошибка восстано
 $text['message-restore_failed_upload']['sv-se'] = "Återställning Misslyckades - Filöverföring misslyckades";
 $text['message-restore_failed_upload']['uk-ua'] = "Помилка відновлення: неможливо завантажити файл";
 
-$text['message-restore_failed_format']['en-us'] = "Restore Failed - Invalid File Format";
-$text['message-restore_failed_format']['zh-cn'] = "还原失败-文件格式无效";
+$text['message-restore_failed_format']['zh-cn'] = "Restore Failed - Invalid File Format";
+$text['message-restore_failed_format']['en-us'] = "还原失败-文件格式无效";
 $text['message-restore_failed_format']['ar-eg'] = "";
 $text['message-restore_failed_format']['de-at'] = "Wiederherstellung fehlgeschlagen - Ungültiges Dateiformat"; //copied from de-de
 $text['message-restore_failed_format']['de-ch'] = "Wiederherstellung fehlgeschlagen - Ungültiges Dateiformat"; //copied from de-de
@@ -106,8 +106,8 @@ $text['message-restore_failed_format']['ru-ru'] = "Ошибка восстано
 $text['message-restore_failed_format']['sv-se'] = "Återställning Misslyckades - Ogiltigt Filformat";
 $text['message-restore_failed_format']['uk-ua'] = "Помилка відновлення: хибний формат файлу";
 
-$text['message-restore_failed_extract']['en-us'] = "Restore Failed - Extraction Error";
-$text['message-restore_failed_extract']['zh-cn'] = "还原失败-提取错误";
+$text['message-restore_failed_extract']['zh-cn'] = "Restore Failed - Extraction Error";
+$text['message-restore_failed_extract']['en-us'] = "还原失败-提取错误";
 $text['message-restore_failed_extract']['ar-eg'] = "";
 $text['message-restore_failed_extract']['de-at'] = "Wiederherstellung fehlgeschlagen - Die Extraktion ist fehlgeschlagen"; //copied from de-de
 $text['message-restore_failed_extract']['de-ch'] = "Wiederherstellung fehlgeschlagen - Die Extraktion ist fehlgeschlagen"; //copied from de-de
@@ -127,8 +127,8 @@ $text['message-restore_failed_extract']['ru-ru'] = "Ошибка восстан�
 $text['message-restore_failed_extract']['sv-se'] = "Återställning Misslyckades - extraktion misslyckades";
 $text['message-restore_failed_extract']['uk-ua'] = "Помилка відновлення: Помилка при вилученні";
 
-$text['message-restore_completed']['en-us'] = "Restore Completed";
-$text['message-restore_completed']['zh-cn'] = "还原已完成";
+$text['message-restore_completed']['zh-cn'] = "Restore Completed";
+$text['message-restore_completed']['en-us'] = "还原已完成";
 $text['message-restore_completed']['ar-eg'] = "";
 $text['message-restore_completed']['de-at'] = "Wiederherstellung erfolgreich"; //copied from de-de
 $text['message-restore_completed']['de-ch'] = "Wiederherstellung erfolgreich"; //copied from de-de
@@ -148,8 +148,8 @@ $text['message-restore_completed']['ru-ru'] = "Восстановление за
 $text['message-restore_completed']['sv-se'] = "Återställning Genomförd";
 $text['message-restore_completed']['uk-ua'] = "Відновлено";
 
-$text['message-backup_failed_paths']['en-us'] = "Backup Failed - No Backup Paths Defined";
-$text['message-backup_failed_paths']['zh-cn'] = "备份失败-未定义备份路径";
+$text['message-backup_failed_paths']['zh-cn'] = "Backup Failed - No Backup Paths Defined";
+$text['message-backup_failed_paths']['en-us'] = "备份失败-未定义备份路径";
 $text['message-backup_failed_paths']['ar-eg'] = "";
 $text['message-backup_failed_paths']['de-at'] = "Sicherung fehlgeschlagen - Kein Sicherungspfad angegeben"; //copied from de-de
 $text['message-backup_failed_paths']['de-ch'] = "Sicherung fehlgeschlagen - Kein Sicherungspfad angegeben"; //copied from de-de
@@ -169,8 +169,8 @@ $text['message-backup_failed_paths']['ru-ru'] = "Ошибка - Не указа�
 $text['message-backup_failed_paths']['sv-se'] = "Backup misslyckades - Ingen Backup Sökväg Definierad";
 $text['message-backup_failed_paths']['uk-ua'] = "Помилка: не вказано шлях для збереження файлу резервної копії";
 
-$text['message-backup_failed_format']['en-us'] = "Backup Failed - Unable to Create Backup File";
-$text['message-backup_failed_format']['zh-cn'] = "备份失败-无法创建备份文件";
+$text['message-backup_failed_format']['zh-cn'] = "Backup Failed - Unable to Create Backup File";
+$text['message-backup_failed_format']['en-us'] = "备份失败-无法创建备份文件";
 $text['message-backup_failed_format']['ar-eg'] = "";
 $text['message-backup_failed_format']['de-at'] = "Sicherung fehlgeschlagen - Sicherungsdatei kann nicht erstellt werden"; //copied from de-de
 $text['message-backup_failed_format']['de-ch'] = "Sicherung fehlgeschlagen - Sicherungsdatei kann nicht erstellt werden"; //copied from de-de
@@ -190,8 +190,8 @@ $text['message-backup_failed_format']['ru-ru'] = "Ошибка - Невозмо�
 $text['message-backup_failed_format']['sv-se'] = "Backup misslyckades - Kunde Inte Skapa Backup Fil";
 $text['message-backup_failed_format']['uk-ua'] = "Помилка: неможливо створити файл резервної копії";
 
-$text['label-target_type']['en-us'] = "Target Type";
-$text['label-target_type']['zh-cn'] = "目标类型";
+$text['label-target_type']['zh-cn'] = "Target Type";
+$text['label-target_type']['en-us'] = "目标类型";
 $text['label-target_type']['ar-eg'] = "";
 $text['label-target_type']['de-at'] = "Ziel Typ"; //copied from de-de
 $text['label-target_type']['de-ch'] = "Ziel Typ"; //copied from de-de
@@ -211,8 +211,8 @@ $text['label-target_type']['ru-ru'] = "Тип";
 $text['label-target_type']['sv-se'] = "Mål Typ";
 $text['label-target_type']['uk-ua'] = "Призначення";
 
-$text['label-source_paths']['en-us'] = "Source Paths";
-$text['label-source_paths']['zh-cn'] = "源路径";
+$text['label-source_paths']['zh-cn'] = "Source Paths";
+$text['label-source_paths']['en-us'] = "源路径";
 $text['label-source_paths']['ar-eg'] = "";
 $text['label-source_paths']['de-at'] = "Quell Pfade"; //copied from de-de
 $text['label-source_paths']['de-ch'] = "Quell Pfade"; //copied from de-de
@@ -232,8 +232,8 @@ $text['label-source_paths']['ru-ru'] = "Объекты резервного ко
 $text['label-source_paths']['sv-se'] = "Källa Sökväg";
 $text['label-source_paths']['uk-ua'] = "Об’єкти для резервного копіювання";
 
-$text['label-select_backup']['en-us'] = "Select Backup File";
-$text['label-select_backup']['zh-cn'] = "选择备份文件";
+$text['label-select_backup']['zh-cn'] = "Select Backup File";
+$text['label-select_backup']['en-us'] = "选择备份文件";
 $text['label-select_backup']['ar-eg'] = "";
 $text['label-select_backup']['de-at'] = "Wählen Sie eine Sicherungsdatei aus"; //copied from de-de
 $text['label-select_backup']['de-ch'] = "Wählen Sie eine Sicherungsdatei aus"; //copied from de-de
@@ -253,8 +253,8 @@ $text['label-select_backup']['ru-ru'] = "Выберите файл резерв�
 $text['label-select_backup']['sv-se'] = "Välj Backup Fil";
 $text['label-select_backup']['uk-ua'] = "Виберіть файл резервної копії";
 
-$text['label-file_format']['en-us'] = "File Format";
-$text['label-file_format']['zh-cn'] = "文件格式";
+$text['label-file_format']['zh-cn'] = "File Format";
+$text['label-file_format']['en-us'] = "文件格式";
 $text['label-file_format']['ar-eg'] = "";
 $text['label-file_format']['de-at'] = "Dateiformat"; //copied from de-de
 $text['label-file_format']['de-ch'] = "Dateiformat"; //copied from de-de
@@ -274,8 +274,8 @@ $text['label-file_format']['ru-ru'] = "Формат файла";
 $text['label-file_format']['sv-se'] = "Filformat";
 $text['label-file_format']['uk-ua'] = "Формат файлу";
 
-$text['label-command']['en-us'] = "Command";
-$text['label-command']['zh-cn'] = "命令";
+$text['label-command']['zh-cn'] = "Command";
+$text['label-command']['en-us'] = "命令";
 $text['label-command']['ar-eg'] = "";
 $text['label-command']['de-at'] = "Befehl"; //copied from de-de
 $text['label-command']['de-ch'] = "Befehl"; //copied from de-de
@@ -295,8 +295,8 @@ $text['label-command']['ru-ru'] = "Команда";
 $text['label-command']['sv-se'] = "Komando";
 $text['label-command']['uk-ua'] = "Команда";
 
-$text['header-restore']['en-us'] = "Restore";
-$text['header-restore']['zh-cn'] = "还原";
+$text['header-restore']['zh-cn'] = "Restore";
+$text['header-restore']['en-us'] = "还原";
 $text['header-restore']['ar-eg'] = "";
 $text['header-restore']['de-at'] = "Wiederherstellen"; //copied from de-de
 $text['header-restore']['de-ch'] = "Wiederherstellen"; //copied from de-de
@@ -316,8 +316,8 @@ $text['header-restore']['ru-ru'] = "Восстановление";
 $text['header-restore']['sv-se'] = "Återställ";
 $text['header-restore']['uk-ua'] = "Відновлення";
 
-$text['header-backup']['en-us'] = "Backup";
-$text['header-backup']['zh-cn'] = "备份";
+$text['header-backup']['zh-cn'] = "Backup";
+$text['header-backup']['en-us'] = "备份";
 $text['header-backup']['ar-eg'] = "";
 $text['header-backup']['de-at'] = "Sichern"; //copied from de-de
 $text['header-backup']['de-ch'] = "Sichern"; //copied from de-de
@@ -337,8 +337,8 @@ $text['header-backup']['ru-ru'] = "Резервная копия";
 $text['header-backup']['sv-se'] = "Backup";
 $text['header-backup']['uk-ua'] = "Резервна копія";
 
-$text['description-restore_warning']['en-us'] = "Warning: Existing files, if any, will be overwritten.";
-$text['description-restore_warning']['zh-cn'] = "警告：现有文件（如果有）将被覆盖。";
+$text['description-restore_warning']['zh-cn'] = "Warning: Existing files, if any, will be overwritten.";
+$text['description-restore_warning']['en-us'] = "警告：现有文件（如果有）将被覆盖。";
 $text['description-restore_warning']['ar-eg'] = "";
 $text['description-restore_warning']['de-at'] = "Warnung: Existierende Dateien, falls vorhanden, werden überschrieben."; //copied from de-de
 $text['description-restore_warning']['de-ch'] = "Warnung: Existierende Dateien, falls vorhanden, werden überschrieben."; //copied from de-de
@@ -358,8 +358,8 @@ $text['description-restore_warning']['ru-ru'] = "Внимание! Сущест�
 $text['description-restore_warning']['sv-se'] = "Varning: Befintliga filer, om någon, kommer att skrivas över.";
 $text['description-restore_warning']['uk-ua'] = "Увага! Файли, які вже існують, будуть перезаписані.";
 
-$text['description-restore']['en-us'] = "To restore a backup from a file on your local system, click 'Browse' then select the desired backup file (eg. 'backup_[YYMMDD]_[HHMMSS].tgz'), then click the 'Restore' button.";
-$text['description-restore']['zh-cn'] = "要从本地系统上的文件还原备份，请单击“浏览”，然后选择所需的备份文件（例如“backup”[yymmdd]“[hhmmss].tgz”），然后单击“还原”按钮。";
+$text['description-restore']['zh-cn'] = "To restore a backup from a file on your local system, click 'Browse' then select the desired backup file (eg. 'backup_[YYMMDD]_[HHMMSS].tgz'), then click the 'Restore' button.";
+$text['description-restore']['en-us'] = "要从本地系统上的文件还原备份，请单击“浏览”，然后选择所需的备份文件（例如“backup”[yymmdd]“[hhmmss].tgz”），然后单击“还原”按钮。";
 $text['description-restore']['ar-eg'] = "";
 $text['description-restore']['de-at'] = "Um das System von einer lokalen Datei wiederherzustellen klicken Sie 'Durchsuchen' und wählen Sie die gewünschte Sicherungsdatei."; //copied from de-de
 $text['description-restore']['de-ch'] = "Um das System von einer lokalen Datei wiederherzustellen klicken Sie 'Durchsuchen' und wählen Sie die gewünschte Sicherungsdatei."; //copied from de-de
@@ -379,8 +379,8 @@ $text['description-restore']['ru-ru'] = "Для восстановления р�
 $text['description-restore']['sv-se'] = "För att återställa en säkerhetskopia från en fil på ditt lokala system,  klicka på ' Bläddra ' och välj sedan önskad säkerhetskopia (t.ex. . ' Backup_ [ ÅÅMMDD ] _ [ HHMMSS ] .tgz ' ) och klicka på ' Återställ ' -knappen.";
 $text['description-restore']['uk-ua'] = "Для відновлення резервної копії з файлу, натисніть кнопку 'Огляд' і виберіть потрібний файл резервної копії, а потім натисніть кнопку 'Відновити '.";
 
-$text['description-backup']['en-us'] = "To create a backup of the Source Paths below (defined in Default Settings), select the desired File Format and Target Type.";
-$text['description-backup']['zh-cn'] = "要创建以下源路径的备份（在默认设置中定义），请选择所需的文件格式和目标类型。";
+$text['description-backup']['zh-cn'] = "To create a backup of the Source Paths below (defined in Default Settings), select the desired File Format and Target Type.";
+$text['description-backup']['en-us'] = "要创建以下源路径的备份（在默认设置中定义），请选择所需的文件格式和目标类型。";
 $text['description-backup']['ar-eg'] = "";
 $text['description-backup']['de-at'] = "Um eine Sicherung der unten angeführten Quell-Pfade (in Standard-Einstellungen definiert) zu erstellen, wählen Sie das gewünschte Dateiformat und den Ziel Typ."; //copied from de-de
 $text['description-backup']['de-ch'] = "Um eine Sicherung der unten angeführten Quell-Pfade (in Standard-Einstellungen definiert) zu erstellen, wählen Sie das gewünschte Dateiformat und den Ziel Typ."; //copied from de-de
@@ -400,8 +400,8 @@ $text['description-backup']['ru-ru'] = "Чтобы создать резервн
 $text['description-backup']['sv-se'] = "För att skapa en säkerhetskopia av Källa Sökväg nedan (som definieras i standardinställningar), välj önskad Filformat och Mål Typ.";
 $text['description-backup']['uk-ua'] = "Щоб створити резервну копію  вказаних нижче об’єктів (вказано у налаштуваннях за замовчуванням), виберіть потрібний формат і призначення";
 
-$text['button-generate']['en-us'] = "Generate";
-$text['button-generate']['zh-cn'] = "生成";
+$text['button-generate']['zh-cn'] = "Generate";
+$text['button-generate']['en-us'] = "生成";
 $text['button-generate']['ar-eg'] = "";
 $text['button-generate']['de-at'] = "Erzeugen"; //copied from de-de
 $text['button-generate']['de-ch'] = "Erzeugen"; //copied from de-de

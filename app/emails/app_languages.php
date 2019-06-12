@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-view_email']['en-us'] = "View Email";
-$text['title-view_email']['zh-cn'] = "查看电子邮件";
+$text['title-view_email']['zh-cn'] = "View Email";
+$text['title-view_email']['en-us'] = "查看电子邮件";
 $text['title-view_email']['ar-eg'] = "";
 $text['title-view_email']['de-at'] = "Email anzeigen"; //copied from de-de
 $text['title-view_email']['de-ch'] = "Email anzeigen"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-view_email']['ru-ru'] = "Просмотр Электронной П
 $text['title-view_email']['sv-se'] = "Visa E-post";
 $text['title-view_email']['uk-ua'] = "";
 
-$text['title-emails']['en-us'] = "Emails";
-$text['title-emails']['zh-cn'] = "电子邮件";
+$text['title-emails']['zh-cn'] = "Emails";
+$text['title-emails']['en-us'] = "电子邮件";
 $text['title-emails']['ar-eg'] = "";
 $text['title-emails']['de-at'] = "Emails"; //copied from de-de
 $text['title-emails']['de-ch'] = "Emails"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title-emails']['ru-ru'] = "Электронная Почта";
 $text['title-emails']['sv-se'] = "E-post";
 $text['title-emails']['uk-ua'] = "";
 
-$text['message-resend_failed']['en-us'] = "Resend Failed";
-$text['message-resend_failed']['zh-cn'] = "重新发送失败";
+$text['message-resend_failed']['zh-cn'] = "Resend Failed";
+$text['message-resend_failed']['en-us'] = "重新发送失败";
 $text['message-resend_failed']['ar-eg'] = "";
 $text['message-resend_failed']['de-at'] = "Erneutes Senden Fehlgeschlagen"; //copied from de-de
 $text['message-resend_failed']['de-ch'] = "Erneutes Senden Fehlgeschlagen"; //copied from de-de
@@ -64,8 +64,8 @@ $text['message-resend_failed']['ru-ru'] = "Повторная отправка �
 $text['message-resend_failed']['sv-se'] = "Skicka Misslyckade Igen";
 $text['message-resend_failed']['uk-ua'] = "";
 
-$text['message-message_resent']['en-us'] = "Message Resent";
-$text['message-message_resent']['zh-cn'] = "重新发送邮件";
+$text['message-message_resent']['zh-cn'] = "Message Resent";
+$text['message-message_resent']['en-us'] = "重新发送邮件";
 $text['message-message_resent']['ar-eg'] = "";
 $text['message-message_resent']['de-at'] = "Nachricht erneut gesendet"; //copied from de-de
 $text['message-message_resent']['de-ch'] = "Nachricht erneut gesendet"; //copied from de-de
@@ -85,8 +85,8 @@ $text['message-message_resent']['ru-ru'] = "Это сообщение было �
 $text['message-message_resent']['sv-se'] = "Meddelande Skickades";
 $text['message-message_resent']['uk-ua'] = "";
 
-$text['message-invalid_email']['en-us'] = "Invalid Email";
-$text['message-invalid_email']['zh-cn'] = "无效电子邮件";
+$text['message-invalid_email']['zh-cn'] = "Invalid Email";
+$text['message-invalid_email']['en-us'] = "无效电子邮件";
 $text['message-invalid_email']['ar-eg'] = "";
 $text['message-invalid_email']['de-at'] = "Ungültige Email-Adresse"; //copied from de-de
 $text['message-invalid_email']['de-ch'] = "Ungültige Email-Adresse"; //copied from de-de
@@ -106,8 +106,8 @@ $text['message-invalid_email']['ru-ru'] = "Несуществующий адре
 $text['message-invalid_email']['sv-se'] = "Ogiltig E-postadress";
 $text['message-invalid_email']['uk-ua'] = "";
 
-$text['message-decoding_error']['en-us'] = "MIME Message Decoding Error";
-$text['message-decoding_error']['zh-cn'] = "MIME邮件解码错误";
+$text['message-decoding_error']['zh-cn'] = "MIME Message Decoding Error";
+$text['message-decoding_error']['en-us'] = "MIME邮件解码错误";
 $text['message-decoding_error']['ar-eg'] = "";
 $text['message-decoding_error']['de-at'] = "Fehler bei der Dekodierung der MIME Nachricht"; //copied from de-de
 $text['message-decoding_error']['de-ch'] = "Fehler bei der Dekodierung der MIME Nachricht"; //copied from de-de
@@ -127,8 +127,8 @@ $text['message-decoding_error']['ru-ru'] = "Ошибка декодирован�
 $text['message-decoding_error']['sv-se'] = "MIME Message Decoding Erro";
 $text['message-decoding_error']['uk-ua'] = "";
 
-$text['label-type_voicemail']['en-us'] = "Voicemail";
-$text['label-type_voicemail']['zh-cn'] = "语音信箱";
+$text['label-type_voicemail']['zh-cn'] = "Voicemail";
+$text['label-type_voicemail']['en-us'] = "语音信箱";
 $text['label-type_voicemail']['ar-eg'] = "";
 $text['label-type_voicemail']['de-at'] = "Mailbox"; //copied from de-de
 $text['label-type_voicemail']['de-ch'] = "Mailbox"; //copied from de-de
@@ -148,8 +148,8 @@ $text['label-type_voicemail']['ru-ru'] = "Голосовая Почта";
 $text['label-type_voicemail']['sv-se'] = "Röstbrevlåda";
 $text['label-type_voicemail']['uk-ua'] = "";
 
-$text['label-type_email2fax']['en-us'] = "Email to fax report";
-$text['label-type_email2fax']['zh-cn'] = "电子邮件至传真报告";
+$text['label-type_email2fax']['zh-cn'] = "Email to fax report";
+$text['label-type_email2fax']['en-us'] = "电子邮件至传真报告";
 $text['label-type_email2fax']['ar-eg'] = "";
 $text['label-type_email2fax']['de-at'] = "Email zu Fax Auswertung"; //copied from de-de
 $text['label-type_email2fax']['de-ch'] = "Email zu Fax Auswertung"; //copied from de-de
@@ -169,8 +169,8 @@ $text['label-type_email2fax']['ru-ru'] = "Отчет Электронной По
 $text['label-type_email2fax']['sv-se'] = "E-post till fax rapport";
 $text['label-type_email2fax']['uk-ua'] = "";
 
-$text['label-type']['en-us'] = "Type";
-$text['label-type']['zh-cn'] = "类型";
+$text['label-type']['zh-cn'] = "Type";
+$text['label-type']['en-us'] = "类型";
 $text['label-type']['ar-eg'] = "";
 $text['label-type']['de-at'] = "Art"; //copied from de-de
 $text['label-type']['de-ch'] = "Art"; //copied from de-de
@@ -190,8 +190,8 @@ $text['label-type']['ru-ru'] = "Тип";
 $text['label-type']['sv-se'] = "Typ";
 $text['label-type']['uk-ua'] = "";
 
-$text['label-to']['en-us'] = "To";
-$text['label-to']['zh-cn'] = "到";
+$text['label-to']['zh-cn'] = "To";
+$text['label-to']['en-us'] = "到";
 $text['label-to']['ar-eg'] = "";
 $text['label-to']['de-at'] = "An"; //copied from de-de
 $text['label-to']['de-ch'] = "An"; //copied from de-de
@@ -211,8 +211,8 @@ $text['label-to']['ru-ru'] = "To";
 $text['label-to']['sv-se'] = "Till";
 $text['label-to']['uk-ua'] = "";
 
-$text['label-subject']['en-us'] = "Subject";
-$text['label-subject']['zh-cn'] = "主题";
+$text['label-subject']['zh-cn'] = "Subject";
+$text['label-subject']['en-us'] = "主题";
 $text['label-subject']['ar-eg'] = "";
 $text['label-subject']['de-at'] = "Betreff"; //copied from de-de
 $text['label-subject']['de-ch'] = "Betreff"; //copied from de-de
@@ -232,8 +232,8 @@ $text['label-subject']['ru-ru'] = "Предмет";
 $text['label-subject']['sv-se'] = "Ämne";
 $text['label-subject']['uk-ua'] = "";
 
-$text['label-status_failed']['en-us'] = "Failed";
-$text['label-status_failed']['zh-cn'] = "失败";
+$text['label-status_failed']['zh-cn'] = "Failed";
+$text['label-status_failed']['en-us'] = "失败";
 $text['label-status_failed']['ar-eg'] = "";
 $text['label-status_failed']['de-at'] = "Fehlgeschlagen"; //copied from de-de
 $text['label-status_failed']['de-ch'] = "Fehlgeschlagen"; //copied from de-de
@@ -253,8 +253,8 @@ $text['label-status_failed']['ru-ru'] = "Не удалось";
 $text['label-status_failed']['sv-se'] = "Misslyckades";
 $text['label-status_failed']['uk-ua'] = "";
 
-$text['label-status']['en-us'] = "Status";
-$text['label-status']['zh-cn'] = "状态";
+$text['label-status']['zh-cn'] = "Status";
+$text['label-status']['en-us'] = "状态";
 $text['label-status']['ar-eg'] = "";
 $text['label-status']['de-at'] = "Status"; //copied from de-de
 $text['label-status']['de-ch'] = "Status"; //copied from de-de
@@ -274,8 +274,8 @@ $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "";
 
-$text['label-sent']['en-us'] = "Sent";
-$text['label-sent']['zh-cn'] = "发送";
+$text['label-sent']['zh-cn'] = "Sent";
+$text['label-sent']['en-us'] = "发送";
 $text['label-sent']['ar-eg'] = "";
 $text['label-sent']['de-at'] = "Gesendet"; //copied from de-de
 $text['label-sent']['de-ch'] = "Gesendet"; //copied from de-de
@@ -295,8 +295,8 @@ $text['label-sent']['ru-ru'] = "Отправленный";
 $text['label-sent']['sv-se'] = "Skickat";
 $text['label-sent']['uk-ua'] = "";
 
-$text['label-resend']['en-us'] = "Resend";
-$text['label-resend']['zh-cn'] = "重新发送";
+$text['label-resend']['zh-cn'] = "Resend";
+$text['label-resend']['en-us'] = "重新发送";
 $text['label-resend']['ar-eg'] = "";
 $text['label-resend']['de-at'] = "Erneut senden"; //copied from de-de
 $text['label-resend']['de-ch'] = "Erneut senden"; //copied from de-de
@@ -316,8 +316,8 @@ $text['label-resend']['ru-ru'] = "Отправить";
 $text['label-resend']['sv-se'] = "Skicka Igen";
 $text['label-resend']['uk-ua'] = "";
 
-$text['label-reference_cdr']['en-us'] = "CDR";
 $text['label-reference_cdr']['zh-cn'] = "CDR";
+$text['label-reference_cdr']['en-us'] = "CDR";
 $text['label-reference_cdr']['ar-eg'] = "";
 $text['label-reference_cdr']['de-at'] = "CDR"; //copied from de-de
 $text['label-reference_cdr']['de-ch'] = "CDR"; //copied from de-de
@@ -337,8 +337,8 @@ $text['label-reference_cdr']['ru-ru'] = "CDR - История Вызовов";
 $text['label-reference_cdr']['sv-se'] = "CDR";
 $text['label-reference_cdr']['uk-ua'] = "";
 
-$text['label-reference']['en-us'] = "Reference";
-$text['label-reference']['zh-cn'] = "参考";
+$text['label-reference']['zh-cn'] = "Reference";
+$text['label-reference']['en-us'] = "参考";
 $text['label-reference']['ar-eg'] = "";
 $text['label-reference']['de-at'] = "Referenz"; //copied from de-de
 $text['label-reference']['de-ch'] = "Referenz"; //copied from de-de
@@ -358,8 +358,8 @@ $text['label-reference']['ru-ru'] = "Справка";
 $text['label-reference']['sv-se'] = "Referens";
 $text['label-reference']['uk-ua'] = "";
 
-$text['label-message_view']['en-us'] = "View";
-$text['label-message_view']['zh-cn'] = "视图";
+$text['label-message_view']['zh-cn'] = "View";
+$text['label-message_view']['en-us'] = "视图";
 $text['label-message_view']['ar-eg'] = "";
 $text['label-message_view']['de-at'] = "Anzeigen"; //copied from de-de
 $text['label-message_view']['de-ch'] = "Anzeigen"; //copied from de-de
@@ -379,8 +379,8 @@ $text['label-message_view']['ru-ru'] = "Посмотреть";
 $text['label-message_view']['sv-se'] = "Visa";
 $text['label-message_view']['uk-ua'] = "";
 
-$text['label-message']['en-us'] = "Message";
-$text['label-message']['zh-cn'] = "消息";
+$text['label-message']['zh-cn'] = "Message";
+$text['label-message']['en-us'] = "消息";
 $text['label-message']['ar-eg'] = "";
 $text['label-message']['de-at'] = "Nachricht"; //copied from de-de
 $text['label-message']['de-ch'] = "Nachricht"; //copied from de-de
@@ -400,8 +400,8 @@ $text['label-message']['ru-ru'] = "Сообщение";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "";
 
-$text['label-from']['en-us'] = "From";
-$text['label-from']['zh-cn'] = "从";
+$text['label-from']['zh-cn'] = "From";
+$text['label-from']['en-us'] = "从";
 $text['label-from']['ar-eg'] = "";
 $text['label-from']['de-at'] = "Von"; //copied from de-de
 $text['label-from']['de-ch'] = "Von"; //copied from de-de
@@ -421,8 +421,8 @@ $text['label-from']['ru-ru'] = "Из";
 $text['label-from']['sv-se'] = "Från";
 $text['label-from']['uk-ua'] = "";
 
-$text['label-download']['en-us'] = "Download";
-$text['label-download']['zh-cn'] = "下载";
+$text['label-download']['zh-cn'] = "Download";
+$text['label-download']['en-us'] = "下载";
 $text['label-download']['ar-eg'] = "";
 $text['label-download']['de-at'] = "Herunterladen"; //copied from de-de
 $text['label-download']['de-ch'] = "Herunterladen"; //copied from de-de
@@ -442,8 +442,8 @@ $text['label-download']['ru-ru'] = "Загрузить";
 $text['label-download']['sv-se'] = "Ladda Ned";
 $text['label-download']['uk-ua'] = "";
 
-$text['label-attachment']['en-us'] = "Attachment";
-$text['label-attachment']['zh-cn'] = "附件";
+$text['label-attachment']['zh-cn'] = "Attachment";
+$text['label-attachment']['en-us'] = "附件";
 $text['label-attachment']['ar-eg'] = "";
 $text['label-attachment']['de-at'] = "Anhang"; //copied from de-de
 $text['label-attachment']['de-ch'] = "Anhang"; //copied from de-de
@@ -463,8 +463,8 @@ $text['label-attachment']['ru-ru'] = "Приложение";
 $text['label-attachment']['sv-se'] = "Bifogat";
 $text['label-attachment']['uk-ua'] = "";
 
-$text['header-view_email']['en-us'] = "View Email";
-$text['header-view_email']['zh-cn'] = "查看电子邮件";
+$text['header-view_email']['zh-cn'] = "View Email";
+$text['header-view_email']['en-us'] = "查看电子邮件";
 $text['header-view_email']['ar-eg'] = "";
 $text['header-view_email']['de-at'] = "Email anzeigen"; //copied from de-de
 $text['header-view_email']['de-ch'] = "Email anzeigen"; //copied from de-de
@@ -484,8 +484,8 @@ $text['header-view_email']['ru-ru'] = "Просмотр Электронной �
 $text['header-view_email']['sv-se'] = "Visa E-post";
 $text['header-view_email']['uk-ua'] = "";
 
-$text['header-emails']['en-us'] = "Emails";
-$text['header-emails']['zh-cn'] = "电子邮件";
+$text['header-emails']['zh-cn'] = "Emails";
+$text['header-emails']['en-us'] = "电子邮件";
 $text['header-emails']['ar-eg'] = "";
 $text['header-emails']['de-at'] = "Emails"; //copied from de-de
 $text['header-emails']['de-ch'] = "Emails"; //copied from de-de
@@ -505,8 +505,8 @@ $text['header-emails']['ru-ru'] = "Сообщения Электронной П�
 $text['header-emails']['sv-se'] = "E-post";
 $text['header-emails']['uk-ua'] = "";
 
-$text['description-emails']['en-us'] = "Manage failed email messages.";
-$text['description-emails']['zh-cn'] = "管理失败的电子邮件。";
+$text['description-emails']['zh-cn'] = "Manage failed email messages.";
+$text['description-emails']['en-us'] = "管理失败的电子邮件。";
 $text['description-emails']['ar-eg'] = "";
 $text['description-emails']['de-at'] = "Fehlgeschlagene Email-Nachrichten verwalten."; //copied from de-de
 $text['description-emails']['de-ch'] = "Fehlgeschlagene Email-Nachrichten verwalten."; //copied from de-de
@@ -526,8 +526,8 @@ $text['description-emails']['ru-ru'] = "Управление ошибочным�
 $text['description-emails']['sv-se'] = "Hantera misslyckade e-post meddelanden.";
 $text['description-emails']['uk-ua'] = "";
 
-$text['button-resend']['en-us'] = "Resend";
-$text['button-resend']['zh-cn'] = "重新发送";
+$text['button-resend']['zh-cn'] = "Resend";
+$text['button-resend']['en-us'] = "重新发送";
 $text['button-resend']['ar-eg'] = "";
 $text['button-resend']['de-at'] = "Erneut senden"; //copied from de-de
 $text['button-resend']['de-ch'] = "Erneut senden"; //copied from de-de

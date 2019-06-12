@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-queues']['en-us'] = "Queues";
-$text['title-queues']['zh-cn'] = "队列";
+$text['title-queues']['zh-cn'] = "Queues";
+$text['title-queues']['en-us'] = "队列";
 $text['title-queues']['ar-eg'] = "";
 $text['title-queues']['de-at'] = "Warteschlangen"; //copied from de-de
 $text['title-queues']['de-ch'] = "Warteschlangen"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-queues']['ru-ru'] = "Очереди";
 $text['title-queues']['sv-se'] = "Kö:er";
 $text['title-queues']['uk-ua'] = "";
 
-$text['title-queue_edit']['en-us'] = "Queue Edit";
-$text['title-queue_edit']['zh-cn'] = "队列编辑";
+$text['title-queue_edit']['zh-cn'] = "Queue Edit";
+$text['title-queue_edit']['en-us'] = "队列编辑";
 $text['title-queue_edit']['ar-eg'] = "";
 $text['title-queue_edit']['de-at'] = "Warteschlangen bearbeiten"; //copied from de-de
 $text['title-queue_edit']['de-ch'] = "Warteschlangen bearbeiten"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title-queue_edit']['ru-ru'] = "Редактирование очеред�
 $text['title-queue_edit']['sv-se'] = "Editera Kö";
 $text['title-queue_edit']['uk-ua'] = "";
 
-$text['title-queue_detail_edit']['en-us'] = "Queue Detail Edit";
-$text['title-queue_detail_edit']['zh-cn'] = "队列详细信息编辑";
+$text['title-queue_detail_edit']['zh-cn'] = "Queue Detail Edit";
+$text['title-queue_detail_edit']['en-us'] = "队列详细信息编辑";
 $text['title-queue_detail_edit']['ar-eg'] = "";
 $text['title-queue_detail_edit']['de-at'] = "Warteschlangen Details bearbeiten"; //copied from de-de
 $text['title-queue_detail_edit']['de-ch'] = "Warteschlangen Details bearbeiten"; //copied from de-de
@@ -64,8 +64,8 @@ $text['title-queue_detail_edit']['ru-ru'] = "Редактирование оче
 $text['title-queue_detail_edit']['sv-se'] = "Editera Kö Detaljer";
 $text['title-queue_detail_edit']['uk-ua'] = "";
 
-$text['title-queue_detail_add']['en-us'] = "Queue Detail Add";
-$text['title-queue_detail_add']['zh-cn'] = "添加队列详细信息";
+$text['title-queue_detail_add']['zh-cn'] = "Queue Detail Add";
+$text['title-queue_detail_add']['en-us'] = "添加队列详细信息";
 $text['title-queue_detail_add']['ar-eg'] = "";
 $text['title-queue_detail_add']['de-at'] = "Warteschlangen Details hinzufügen."; //copied from de-de
 $text['title-queue_detail_add']['de-ch'] = "Warteschlangen Details hinzufügen."; //copied from de-de
@@ -85,8 +85,8 @@ $text['title-queue_detail_add']['ru-ru'] = "Добавление детали в
 $text['title-queue_detail_add']['sv-se'] = "Lägg Till Kö Detaljer";
 $text['title-queue_detail_add']['uk-ua'] = "";
 
-$text['title-queue_add']['en-us'] = "Queue Add";
-$text['title-queue_add']['zh-cn'] = "队列添加";
+$text['title-queue_add']['zh-cn'] = "Queue Add";
+$text['title-queue_add']['en-us'] = "队列添加";
 $text['title-queue_add']['ar-eg'] = "";
 $text['title-queue_add']['de-at'] = "Warteschlange hinzufügen"; //copied from de-de
 $text['title-queue_add']['de-ch'] = "Warteschlange hinzufügen"; //copied from de-de
@@ -106,8 +106,8 @@ $text['title-queue_add']['ru-ru'] = "Добавить Очередь";
 $text['title-queue_add']['sv-se'] = "Lägg Till Kö";
 $text['title-queue_add']['uk-ua'] = "";
 
-$text['option-true']['en-us'] = "True";
-$text['option-true']['zh-cn'] = "真";
+$text['option-true']['zh-cn'] = "True";
+$text['option-true']['en-us'] = "真";
 $text['option-true']['ar-eg'] = "";
 $text['option-true']['de-at'] = "Ein"; //copied from de-de
 $text['option-true']['de-ch'] = "Ein"; //copied from de-de
@@ -127,8 +127,8 @@ $text['option-true']['ru-ru'] = "Да";
 $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "";
 
-$text['option-parameter']['en-us'] = "Parameter";
-$text['option-parameter']['zh-cn'] = "参数";
+$text['option-parameter']['zh-cn'] = "Parameter";
+$text['option-parameter']['en-us'] = "参数";
 $text['option-parameter']['ar-eg'] = "";
 $text['option-parameter']['de-at'] = "Parameter"; //copied from de-de
 $text['option-parameter']['de-ch'] = "Parameter"; //copied from de-de
@@ -148,8 +148,8 @@ $text['option-parameter']['ru-ru'] = "Параметр";
 $text['option-parameter']['sv-se'] = "Parameter";
 $text['option-parameter']['uk-ua'] = "";
 
-$text['option-false']['en-us'] = "False";
-$text['option-false']['zh-cn'] = "假";
+$text['option-false']['zh-cn'] = "False";
+$text['option-false']['en-us'] = "假";
 $text['option-false']['ar-eg'] = "";
 $text['option-false']['de-at'] = "Aus"; //copied from de-de
 $text['option-false']['de-ch'] = "Aus"; //copied from de-de
@@ -169,8 +169,8 @@ $text['option-false']['ru-ru'] = "Нет";
 $text['option-false']['sv-se'] = "Falsk";
 $text['option-false']['uk-ua'] = "";
 
-$text['option-condition']['en-us'] = "Condition";
-$text['option-condition']['zh-cn'] = "条件";
+$text['option-condition']['zh-cn'] = "Condition";
+$text['option-condition']['en-us'] = "条件";
 $text['option-condition']['ar-eg'] = "";
 $text['option-condition']['de-at'] = "Bedingung"; //copied from de-de
 $text['option-condition']['de-ch'] = "Bedingung"; //copied from de-de
@@ -190,8 +190,8 @@ $text['option-condition']['ru-ru'] = "Состояние";
 $text['option-condition']['sv-se'] = "Skick";
 $text['option-condition']['uk-ua'] = "";
 
-$text['option-anti-action']['en-us'] = "Anti-Action";
-$text['option-anti-action']['zh-cn'] = "反作用";
+$text['option-anti-action']['zh-cn'] = "Anti-Action";
+$text['option-anti-action']['en-us'] = "反作用";
 $text['option-anti-action']['ar-eg'] = "";
 $text['option-anti-action']['de-at'] = "Anti-Aktion"; //copied from de-de
 $text['option-anti-action']['de-ch'] = "Anti-Aktion"; //copied from de-de
@@ -211,8 +211,8 @@ $text['option-anti-action']['ru-ru'] = "Anti-Action";
 $text['option-anti-action']['sv-se'] = "Anti-Action";
 $text['option-anti-action']['uk-ua'] = "";
 
-$text['option-action']['en-us'] = "Action";
-$text['option-action']['zh-cn'] = "行动";
+$text['option-action']['zh-cn'] = "Action";
+$text['option-action']['en-us'] = "行动";
 $text['option-action']['ar-eg'] = "";
 $text['option-action']['de-at'] = "Aktion"; //copied from de-de
 $text['option-action']['de-ch'] = "Aktion"; //copied from de-de
@@ -232,8 +232,8 @@ $text['option-action']['ru-ru'] = "Действие";
 $text['option-action']['sv-se'] = "Action";
 $text['option-action']['uk-ua'] = "";
 
-$text['label-tag']['en-us'] = "Tag";
-$text['label-tag']['zh-cn'] = "标签";
+$text['label-tag']['zh-cn'] = "Tag";
+$text['label-tag']['en-us'] = "标签";
 $text['label-tag']['ar-eg'] = "";
 $text['label-tag']['de-at'] = "Kennzeichnen"; //copied from de-de
 $text['label-tag']['de-ch'] = "Kennzeichnen"; //copied from de-de
@@ -253,8 +253,8 @@ $text['label-tag']['ru-ru'] = "Тег";
 $text['label-tag']['sv-se'] = "Tag";
 $text['label-tag']['uk-ua'] = "";
 
-$text['label-field']['en-us'] = "Field";
-$text['label-field']['zh-cn'] = "场";
+$text['label-field']['zh-cn'] = "Field";
+$text['label-field']['en-us'] = "场";
 $text['label-field']['ar-eg'] = "";
 $text['label-field']['de-at'] = "Feld"; //copied from de-de
 $text['label-field']['de-ch'] = "Feld"; //copied from de-de
@@ -274,8 +274,8 @@ $text['label-field']['ru-ru'] = "Поле";
 $text['label-field']['sv-se'] = "Fält";
 $text['label-field']['uk-ua'] = "";
 
-$text['label-extension']['en-us'] = "Extension";
-$text['label-extension']['zh-cn'] = "扩展";
+$text['label-extension']['zh-cn'] = "Extension";
+$text['label-extension']['en-us'] = "扩展";
 $text['label-extension']['ar-eg'] = "";
 $text['label-extension']['de-at'] = "Nebenstelle"; //copied from de-de
 $text['label-extension']['de-ch'] = "Nebenstelle"; //copied from de-de
@@ -295,8 +295,8 @@ $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "";
 
-$text['label-expression']['en-us'] = "Expression";
-$text['label-expression']['zh-cn'] = "表达式";
+$text['label-expression']['zh-cn'] = "Expression";
+$text['label-expression']['en-us'] = "表达式";
 $text['label-expression']['ar-eg'] = "";
 $text['label-expression']['de-at'] = "Ausdruck"; //copied from de-de
 $text['label-expression']['de-ch'] = "Ausdruck"; //copied from de-de
@@ -316,8 +316,8 @@ $text['label-expression']['ru-ru'] = "Выражение";
 $text['label-expression']['sv-se'] = "Uttryck";
 $text['label-expression']['uk-ua'] = "";
 
-$text['label-data']['en-us'] = "Data";
-$text['label-data']['zh-cn'] = "数据";
+$text['label-data']['zh-cn'] = "Data";
+$text['label-data']['en-us'] = "数据";
 $text['label-data']['ar-eg'] = "";
 $text['label-data']['de-at'] = "Daten"; //copied from de-de
 $text['label-data']['de-ch'] = "Daten"; //copied from de-de
@@ -337,8 +337,8 @@ $text['label-data']['ru-ru'] = "Дата";
 $text['label-data']['sv-se'] = "Data";
 $text['label-data']['uk-ua'] = "";
 
-$text['label-continue']['en-us'] = "Continue";
-$text['label-continue']['zh-cn'] = "继续";
+$text['label-continue']['zh-cn'] = "Continue";
+$text['label-continue']['en-us'] = "继续";
 $text['label-continue']['ar-eg'] = "";
 $text['label-continue']['de-at'] = "Fortsetzen"; //copied from de-de
 $text['label-continue']['de-ch'] = "Fortsetzen"; //copied from de-de
@@ -358,8 +358,8 @@ $text['label-continue']['ru-ru'] = "Продолжить";
 $text['label-continue']['sv-se'] = "Fortsätt";
 $text['label-continue']['uk-ua'] = "";
 
-$text['label-application']['en-us'] = "Application";
-$text['label-application']['zh-cn'] = "应用";
+$text['label-application']['zh-cn'] = "Application";
+$text['label-application']['en-us'] = "应用";
 $text['label-application']['ar-eg'] = "";
 $text['label-application']['de-at'] = "Anwendung"; //copied from de-de
 $text['label-application']['de-ch'] = "Anwendung"; //copied from de-de
@@ -379,8 +379,8 @@ $text['label-application']['ru-ru'] = "Заявка";
 $text['label-application']['sv-se'] = "Applikation";
 $text['label-application']['uk-ua'] = "";
 
-$text['label-agent_queue_extension']['en-us'] = "Queue Extension Number";
-$text['label-agent_queue_extension']['zh-cn'] = "队列扩展号";
+$text['label-agent_queue_extension']['zh-cn'] = "Queue Extension Number";
+$text['label-agent_queue_extension']['en-us'] = "队列扩展号";
 $text['label-agent_queue_extension']['ar-eg'] = "";
 $text['label-agent_queue_extension']['de-at'] = "Nebenstelle der Warteschlange"; //copied from de-de
 $text['label-agent_queue_extension']['de-ch'] = "Nebenstelle der Warteschlange"; //copied from de-de
@@ -400,8 +400,8 @@ $text['label-agent_queue_extension']['ru-ru'] = "Очередь Внутренн
 $text['label-agent_queue_extension']['sv-se'] = "Kö Anknytningsnummer";
 $text['label-agent_queue_extension']['uk-ua'] = "";
 
-$text['label-agent_loginout_extension']['en-us'] = "Login/Logout Extension Number";
-$text['label-agent_loginout_extension']['zh-cn'] = "登录/注销扩展号";
+$text['label-agent_loginout_extension']['zh-cn'] = "Login/Logout Extension Number";
+$text['label-agent_loginout_extension']['en-us'] = "登录/注销扩展号";
 $text['label-agent_loginout_extension']['ar-eg'] = "";
 $text['label-agent_loginout_extension']['de-at'] = "Nebenstelle für Anmeldung/Abmeldung"; //copied from de-de
 $text['label-agent_loginout_extension']['de-ch'] = "Nebenstelle für Anmeldung/Abmeldung"; //copied from de-de
@@ -421,8 +421,8 @@ $text['label-agent_loginout_extension']['ru-ru'] = "Внутренний ном�
 $text['label-agent_loginout_extension']['sv-se'] = "Logga In/Logga Ut Anknytningsnummer";
 $text['label-agent_loginout_extension']['uk-ua'] = "";
 
-$text['header-queues']['en-us'] = "Queues";
-$text['header-queues']['zh-cn'] = "队列";
+$text['header-queues']['zh-cn'] = "Queues";
+$text['header-queues']['en-us'] = "队列";
 $text['header-queues']['ar-eg'] = "";
 $text['header-queues']['de-at'] = "Warteschlangen"; //copied from de-de
 $text['header-queues']['de-ch'] = "Warteschlangen"; //copied from de-de
@@ -442,8 +442,8 @@ $text['header-queues']['ru-ru'] = "Очереди";
 $text['header-queues']['sv-se'] = "Kö:er";
 $text['header-queues']['uk-ua'] = "";
 
-$text['header-queue_edit']['en-us'] = "Queue Edit";
-$text['header-queue_edit']['zh-cn'] = "队列编辑";
+$text['header-queue_edit']['zh-cn'] = "Queue Edit";
+$text['header-queue_edit']['en-us'] = "队列编辑";
 $text['header-queue_edit']['ar-eg'] = "";
 $text['header-queue_edit']['de-at'] = "Warteschlange bearbeiten"; //copied from de-de
 $text['header-queue_edit']['de-ch'] = "Warteschlange bearbeiten"; //copied from de-de
@@ -463,8 +463,8 @@ $text['header-queue_edit']['ru-ru'] = "редиктирование Очеред
 $text['header-queue_edit']['sv-se'] = "Editera Kö";
 $text['header-queue_edit']['uk-ua'] = "";
 
-$text['header-queue_detail_edit']['en-us'] = "Queue Detail Edit";
-$text['header-queue_detail_edit']['zh-cn'] = "队列详细信息编辑";
+$text['header-queue_detail_edit']['zh-cn'] = "Queue Detail Edit";
+$text['header-queue_detail_edit']['en-us'] = "队列详细信息编辑";
 $text['header-queue_detail_edit']['ar-eg'] = "";
 $text['header-queue_detail_edit']['de-at'] = "Warteschlange Details bearbeiten"; //copied from de-de
 $text['header-queue_detail_edit']['de-ch'] = "Warteschlange Details bearbeiten"; //copied from de-de
@@ -484,8 +484,8 @@ $text['header-queue_detail_edit']['ru-ru'] = "Редактирование де�
 $text['header-queue_detail_edit']['sv-se'] = "Editera Kö Detaljer";
 $text['header-queue_detail_edit']['uk-ua'] = "";
 
-$text['header-queue_detail_add']['en-us'] = "Queue Detail Add";
-$text['header-queue_detail_add']['zh-cn'] = "添加队列详细信息";
+$text['header-queue_detail_add']['zh-cn'] = "Queue Detail Add";
+$text['header-queue_detail_add']['en-us'] = "添加队列详细信息";
 $text['header-queue_detail_add']['ar-eg'] = "";
 $text['header-queue_detail_add']['de-at'] = "Warteschlange Details hinzufügen"; //copied from de-de
 $text['header-queue_detail_add']['de-ch'] = "Warteschlange Details hinzufügen"; //copied from de-de
@@ -505,8 +505,8 @@ $text['header-queue_detail_add']['ru-ru'] = "Добавление деталей
 $text['header-queue_detail_add']['sv-se'] = "Lägg Till Kö Detalj";
 $text['header-queue_detail_add']['uk-ua'] = "";
 
-$text['header-queue_add']['en-us'] = "Queue Add";
-$text['header-queue_add']['zh-cn'] = "队列添加";
+$text['header-queue_add']['zh-cn'] = "Queue Add";
+$text['header-queue_add']['en-us'] = "队列添加";
 $text['header-queue_add']['ar-eg'] = "";
 $text['header-queue_add']['de-at'] = "Warteschlange hinzufügen"; //copied from de-de
 $text['header-queue_add']['de-ch'] = "Warteschlange hinzufügen"; //copied from de-de
@@ -526,8 +526,8 @@ $text['header-queue_add']['ru-ru'] = "Добавить Очередь";
 $text['header-queue_add']['sv-se'] = "Lägg Till Kö";
 $text['header-queue_add']['uk-ua'] = "";
 
-$text['header-conditions_and_actions']['en-us'] = "Conditions and Actions";
-$text['header-conditions_and_actions']['zh-cn'] = "条件和行动";
+$text['header-conditions_and_actions']['zh-cn'] = "Conditions and Actions";
+$text['header-conditions_and_actions']['en-us'] = "条件和行动";
 $text['header-conditions_and_actions']['ar-eg'] = "";
 $text['header-conditions_and_actions']['de-at'] = "Bedingungen und Aktionen"; //copied from de-de
 $text['header-conditions_and_actions']['de-ch'] = "Bedingungen und Aktionen"; //copied from de-de
@@ -547,8 +547,8 @@ $text['header-conditions_and_actions']['ru-ru'] = "Условия и дейст�
 $text['header-conditions_and_actions']['sv-se'] = "Tillstånd och Actions";
 $text['header-conditions_and_actions']['uk-ua'] = "";
 
-$text['header-agent_details']['en-us'] = "Agent Details";
-$text['header-agent_details']['zh-cn'] = "代理详细信息";
+$text['header-agent_details']['zh-cn'] = "Agent Details";
+$text['header-agent_details']['en-us'] = "代理详细信息";
 $text['header-agent_details']['ar-eg'] = "";
 $text['header-agent_details']['de-at'] = "Agenten Details"; //copied from de-de
 $text['header-agent_details']['de-ch'] = "Agenten Details"; //copied from de-de
@@ -568,8 +568,8 @@ $text['header-agent_details']['ru-ru'] = "Сведения об агенте";
 $text['header-agent_details']['sv-se'] = "Agent Detaljer";
 $text['header-agent_details']['uk-ua'] = "";
 
-$text['header-additional_information']['en-us'] = "Additional Information";
-$text['header-additional_information']['zh-cn'] = "附加信息";
+$text['header-additional_information']['zh-cn'] = "Additional Information";
+$text['header-additional_information']['en-us'] = "附加信息";
 $text['header-additional_information']['ar-eg'] = "";
 $text['header-additional_information']['de-at'] = "Weiterführende Informationen"; //copied from de-de
 $text['header-additional_information']['de-ch'] = "Weiterführende Informationen"; //copied from de-de
@@ -589,8 +589,8 @@ $text['header-additional_information']['ru-ru'] = "Дополнительная 
 $text['header-additional_information']['sv-se'] = "Ytterligare Information";
 $text['header-additional_information']['uk-ua'] = "";
 
-$text['description-queues']['en-us'] = "Queues are used to setup waiting lines for callers. Also known as FIFO Queues.";
-$text['description-queues']['zh-cn'] = "队列用于为呼叫者设置等待线路。也称为FIFO队列。";
+$text['description-queues']['zh-cn'] = "Queues are used to setup waiting lines for callers. Also known as FIFO Queues.";
+$text['description-queues']['en-us'] = "队列用于为呼叫者设置等待线路。也称为FIFO队列。";
 $text['description-queues']['ar-eg'] = "";
 $text['description-queues']['de-at'] = "Warteschlangen werden verwendt um Warteschleifen für Anrufer zu erstellen. Diese sind auch als FIFO-Warteschlangen bekannt."; //copied from de-de
 $text['description-queues']['de-ch'] = "Warteschlangen werden verwendt um Warteschleifen für Anrufer zu erstellen. Diese sind auch als FIFO-Warteschlangen bekannt."; //copied from de-de
@@ -610,8 +610,8 @@ $text['description-queues']['ru-ru'] = "Очереди используются 
 $text['description-queues']['sv-se'] = "Köer används för att konfigurera väntelinjer för uppringare. Även känd som FIFO Kö:er.";
 $text['description-queues']['uk-ua'] = "";
 
-$text['description-queue_edit']['en-us'] = "Queues are used to setup waiting lines for callers. Also known as FIFO Queues.";
-$text['description-queue_edit']['zh-cn'] = "队列用于为呼叫者设置等待线路。也称为FIFO队列。";
+$text['description-queue_edit']['zh-cn'] = "Queues are used to setup waiting lines for callers. Also known as FIFO Queues.";
+$text['description-queue_edit']['en-us'] = "队列用于为呼叫者设置等待线路。也称为FIFO队列。";
 $text['description-queue_edit']['ar-eg'] = "";
 $text['description-queue_edit']['de-at'] = "Warteschlangen werden verwendt um Warteschleifen für Anrufer zu erstellen. Diese sind auch als FIFO-Warteschlangen bekannt."; //copied from de-de
 $text['description-queue_edit']['de-ch'] = "Warteschlangen werden verwendt um Warteschleifen für Anrufer zu erstellen. Diese sind auch als FIFO-Warteschlangen bekannt."; //copied from de-de
@@ -631,8 +631,8 @@ $text['description-queue_edit']['ru-ru'] = "Очереди используют�
 $text['description-queue_edit']['sv-se'] = "Köer används för att konfigurera väntelinjer för uppringare. Även känd som FIFO Kö:er.";
 $text['description-queue_edit']['uk-ua'] = "";
 
-$text['description-queue_add']['en-us'] = "In simple terms queues are holding patterns for callers to wait until someone is available to take the call. Also known as FIFO Queues.";
-$text['description-queue_add']['zh-cn'] = "简单地说，队列中的模式是等待呼叫者等待有人接听电话。也称为FIFO队列。";
+$text['description-queue_add']['zh-cn'] = "In simple terms queues are holding patterns for callers to wait until someone is available to take the call. Also known as FIFO Queues.";
+$text['description-queue_add']['en-us'] = "简单地说，队列中的模式是等待呼叫者等待有人接听电话。也称为FIFO队列。";
 $text['description-queue_add']['ar-eg'] = "";
 $text['description-queue_add']['de-at'] = "Einfach ausgedrückt sind WarteschlangenWarteschlangen in denen die Anruf gehalten werden, bit jemand verfügbar ist, der den Anruf annehmen kann. Diese sind als FIFO-Warteschlangen bekannt."; //copied from de-de
 $text['description-queue_add']['de-ch'] = "Einfach ausgedrückt sind WarteschlangenWarteschlangen in denen die Anruf gehalten werden, bit jemand verfügbar ist, der den Anruf annehmen kann. Diese sind als FIFO-Warteschlangen bekannt."; //copied from de-de
@@ -652,8 +652,8 @@ $text['description-queue_add']['ru-ru'] = "Говоря простыми сло�
 $text['description-queue_add']['sv-se'] = "Enkelt förklarat så är kö:er en vänt plats för inkommande samtal fram tills någon kan ta samtalet. Även känt som FIFO Kö:er.";
 $text['description-queue_add']['uk-ua'] = "";
 
-$text['description-name']['en-us'] = "The name the queue will be assigned.";
-$text['description-name']['zh-cn'] = "将分配队列的名称。";
+$text['description-name']['zh-cn'] = "The name the queue will be assigned.";
+$text['description-name']['en-us'] = "将分配队列的名称。";
 $text['description-name']['ar-eg'] = "";
 $text['description-name']['de-at'] = "Der Name, welcher der Warteschlange zugeordnet werden soll."; //copied from de-de
 $text['description-name']['de-ch'] = "Der Name, welcher der Warteschlange zugeordnet werden soll."; //copied from de-de
@@ -673,8 +673,8 @@ $text['description-name']['ru-ru'] = "Имя очереди будет прис�
 $text['description-name']['sv-se'] = "Namnet som kommer att kopplas till kö:n.";
 $text['description-name']['uk-ua'] = "";
 
-$text['description-extension']['en-us'] = "The number that will be assigned to the queue.";
-$text['description-extension']['zh-cn'] = "将分配给队列的编号。";
+$text['description-extension']['zh-cn'] = "The number that will be assigned to the queue.";
+$text['description-extension']['en-us'] = "将分配给队列的编号。";
 $text['description-extension']['ar-eg'] = "";
 $text['description-extension']['de-at'] = "Die Rufnummer, die der Warteschlange zugeordnet werden soll."; //copied from de-de
 $text['description-extension']['de-ch'] = "Die Rufnummer, die der Warteschlange zugeordnet werden soll."; //copied from de-de
@@ -694,8 +694,8 @@ $text['description-extension']['ru-ru'] = "Номер, который будет
 $text['description-extension']['sv-se'] = "Numret som kommer att kopplas till kö:n.";
 $text['description-extension']['uk-ua'] = "";
 
-$text['description-continue']['en-us'] = "Continue in most cases should be set to false.";
-$text['description-continue']['zh-cn'] = "在大多数情况下，continue应设置为false。";
+$text['description-continue']['zh-cn'] = "Continue in most cases should be set to false.";
+$text['description-continue']['en-us'] = "在大多数情况下，continue应设置为false。";
 $text['description-continue']['ar-eg'] = "";
 $text['description-continue']['de-at'] = "Die Option Weiterführen sollte in der Regel auf Aus stehen."; //copied from de-de
 $text['description-continue']['de-ch'] = "Die Option Weiterführen sollte in der Regel auf Aus stehen."; //copied from de-de
@@ -715,8 +715,8 @@ $text['description-continue']['ru-ru'] = "Для продолжения в бо�
 $text['description-continue']['sv-se'] = "Fortsätt i de flesta fall bör detta vara inställd på falsk.";
 $text['description-continue']['uk-ua'] = "";
 
-$text['description-conditions_and_actions']['en-us'] = "The following conditions, actions and anti-actions are used in the dialplan to direct call flow. Each is processed in order until you reach the action dialplan_detail_tag which tells what action to perform. You are not limited to only one condition or action dialplan_detail_tag for a given extension.";
-$text['description-conditions_and_actions']['zh-cn'] = "拨号计划中使用以下条件、操作和反操作来引导呼叫流。每一个都按顺序处理，直到您到达“动作拨号计划”的“细节”标签，该标签告诉您要执行什么动作。对于给定的扩展，您不仅限于一个条件或操作拨号计划详细信息标记。";
+$text['description-conditions_and_actions']['zh-cn'] = "The following conditions, actions and anti-actions are used in the dialplan to direct call flow. Each is processed in order until you reach the action dialplan_detail_tag which tells what action to perform. You are not limited to only one condition or action dialplan_detail_tag for a given extension.";
+$text['description-conditions_and_actions']['en-us'] = "拨号计划中使用以下条件、操作和反操作来引导呼叫流。每一个都按顺序处理，直到您到达“动作拨号计划”的“细节”标签，该标签告诉您要执行什么动作。对于给定的扩展，您不仅限于一个条件或操作拨号计划详细信息标记。";
 $text['description-conditions_and_actions']['ar-eg'] = "";
 $text['description-conditions_and_actions']['de-at'] = "Die nachfolgenden Bedingungen, Aktionen und Anti-Aktionen werden im Wählplan verwendet, um den Anruf-Fluss zu steuern. Jeder Anruf wird sequentiell abgearbeitet, bis die Aktion dialplan_detail_tag erreicht wird, welche die auszuführende Aktion bestimmt. Es können mehrere Bedingungen und Aktionen vom Typ dialplan_detail_tag pro Nebenstelle angegeben werden."; //copied from de-de
 $text['description-conditions_and_actions']['de-ch'] = "Die nachfolgenden Bedingungen, Aktionen und Anti-Aktionen werden im Wählplan verwendet, um den Anruf-Fluss zu steuern. Jeder Anruf wird sequentiell abgearbeitet, bis die Aktion dialplan_detail_tag erreicht wird, welche die auszuführende Aktion bestimmt. Es können mehrere Bedingungen und Aktionen vom Typ dialplan_detail_tag pro Nebenstelle angegeben werden."; //copied from de-de
@@ -736,8 +736,8 @@ $text['description-conditions_and_actions']['ru-ru'] = "Следующие ус�
 $text['description-conditions_and_actions']['sv-se'] = "Följande villkor, åtgärder och anti-handlingar används i nummerplanen för att styra ett samtals flöde. Varje steg bearbetas i ordning tills du når steget dialplan_detail_tag som berättar vilken åtgärd som ska utföras. Du är inte begränsad till endast ett villkor eller åtgärd dialplan_detail_tag för en viss anknytning.";
 $text['description-conditions_and_actions']['uk-ua'] = "";
 
-$text['description-agent_queue_extension']['en-us'] = "The extension number for the Agent FIFO Queue. This is the holding pattern for agents waiting to service calls in the caller FIFO queue.";
-$text['description-agent_queue_extension']['zh-cn'] = "代理FIFO队列的扩展号。这是等待调用方FIFO队列中服务调用的代理的保持模式。";
+$text['description-agent_queue_extension']['zh-cn'] = "The extension number for the Agent FIFO Queue. This is the holding pattern for agents waiting to service calls in the caller FIFO queue.";
+$text['description-agent_queue_extension']['en-us'] = "代理FIFO队列的扩展号。这是等待调用方FIFO队列中服务调用的代理的保持模式。";
 $text['description-agent_queue_extension']['ar-eg'] = "";
 $text['description-agent_queue_extension']['de-at'] = "Die Nebenstelle für die Agent FIFO Warteschlange."; //copied from de-de
 $text['description-agent_queue_extension']['de-ch'] = "Die Nebenstelle für die Agent FIFO Warteschlange."; //copied from de-de
@@ -757,8 +757,8 @@ $text['description-agent_queue_extension']['ru-ru'] = "Внутренний но
 $text['description-agent_queue_extension']['sv-se'] = "Anknytningsnumret för Agent FIFO Queue. Detta är väntplatsen för agenter som väntar på att betjäna samtal i den uppringande FIFO-köen.";
 $text['description-agent_queue_extension']['uk-ua'] = "";
 
-$text['description-agent_loginout_extension']['en-us'] = "Agents use this extension number to login or logout of the Queue. After logging into the agent will be ready to receive calls from the Queue.";
-$text['description-agent_loginout_extension']['zh-cn'] = "代理使用此扩展号登录或注销队列。登录到代理之后，将准备好接收来自队列的呼叫。";
+$text['description-agent_loginout_extension']['zh-cn'] = "Agents use this extension number to login or logout of the Queue. After logging into the agent will be ready to receive calls from the Queue.";
+$text['description-agent_loginout_extension']['en-us'] = "代理使用此扩展号登录或注销队列。登录到代理之后，将准备好接收来自队列的呼叫。";
 $text['description-agent_loginout_extension']['ar-eg'] = "";
 $text['description-agent_loginout_extension']['de-at'] = "Der Agent verwendet diese Nebenstelle um sich bei der Warteschlange an oder ab zu melden. Nach der Anmeldung kann der Agent Anrufe aus der Warteschlange entgegennehmen."; //copied from de-de
 $text['description-agent_loginout_extension']['de-ch'] = "Der Agent verwendet diese Nebenstelle um sich bei der Warteschlange an oder ab zu melden. Nach der Anmeldung kann der Agent Anrufe aus der Warteschlange entgegennehmen."; //copied from de-de

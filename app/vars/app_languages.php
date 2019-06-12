@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-variables_advanced']['en-us'] = "Switch Variables: Advanced";
-$text['title-variables_advanced']['zh-cn'] = "切换变量：高级";
+$text['title-variables_advanced']['zh-cn'] = "Switch Variables: Advanced";
+$text['title-variables_advanced']['en-us'] = "切换变量：高级";
 $text['title-variables_advanced']['ar-eg'] = "";
 $text['title-variables_advanced']['de-at'] = "Switch Variablen: Erweitert"; //copied from de-de
 $text['title-variables_advanced']['de-ch'] = "Switch Variablen: Erweitert"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-variables_advanced']['ru-ru'] = "Параметры FreeSwitch: Р�
 $text['title-variables_advanced']['sv-se'] = "Switch Variabler: Avancerat";
 $text['title-variables_advanced']['uk-ua'] = "Задання змінних: Додатково";
 
-$text['title-variables']['en-us'] = "Switch Variables";
-$text['title-variables']['zh-cn'] = "切换变量";
+$text['title-variables']['zh-cn'] = "Switch Variables";
+$text['title-variables']['en-us'] = "切换变量";
 $text['title-variables']['ar-eg'] = "";
 $text['title-variables']['de-at'] = "Switch Variablen"; //copied from de-de
 $text['title-variables']['de-ch'] = "Switch Variablen"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title-variables']['ru-ru'] = "Параметры FreeSwitch";
 $text['title-variables']['sv-se'] = "Switch Variabler";
 $text['title-variables']['uk-ua'] = "Задання змінних ";
 
-$text['title-variable_edit']['en-us'] = "Variable";
-$text['title-variable_edit']['zh-cn'] = "变量";
+$text['title-variable_edit']['zh-cn'] = "Variable";
+$text['title-variable_edit']['en-us'] = "变量";
 $text['title-variable_edit']['ar-eg'] = "";
 $text['title-variable_edit']['de-at'] = "Variable"; //copied from de-de
 $text['title-variable_edit']['de-ch'] = "Variable"; //copied from de-de
@@ -64,8 +64,8 @@ $text['title-variable_edit']['ru-ru'] = "Переменная";
 $text['title-variable_edit']['sv-se'] = "Variabel";
 $text['title-variable_edit']['uk-ua'] = "Змінна";
 
-$text['title-variable_add']['en-us'] = "Variable";
-$text['title-variable_add']['zh-cn'] = "变量";
+$text['title-variable_add']['zh-cn'] = "Variable";
+$text['title-variable_add']['en-us'] = "变量";
 $text['title-variable_add']['ar-eg'] = "";
 $text['title-variable_add']['de-at'] = "Variable"; //copied from de-de
 $text['title-variable_add']['de-ch'] = "Variable"; //copied from de-de
@@ -85,8 +85,8 @@ $text['title-variable_add']['ru-ru'] = "Переменная";
 $text['title-variable_add']['sv-se'] = "Variabel";
 $text['title-variable_add']['uk-ua'] = "Змінна";
 
-$text['label-command']['en-us'] = "Command";
-$text['label-command']['zh-cn'] = "命令";
+$text['label-command']['zh-cn'] = "Command";
+$text['label-command']['en-us'] = "命令";
 $text['label-command']['ar-eg'] = "";
 $text['label-command']['de-at'] = "";
 $text['label-command']['de-ch'] = "";
@@ -106,8 +106,8 @@ $text['label-command']['ru-ru'] = "";
 $text['label-command']['sv-se'] = "";
 $text['label-command']['uk-ua'] = "";
 
-$text['option-set']['en-us'] = "set";
-$text['option-设置']['zh-cn'] = "设置";
+$text['option-set']['zh-cn'] = "set";
+$text['option-设置']['en-us'] = "设置";
 $text['option-set']['ar-eg'] = "";
 $text['option-set']['de-at'] = "";
 $text['option-set']['de-ch'] = "";
@@ -127,8 +127,8 @@ $text['option-set']['ru-ru'] = "";
 $text['option-set']['sv-se'] = "";
 $text['option-set']['uk-ua'] = "";
 
-$text['option-exec-set']['en-us'] = "exec-set";
-$text['option-执行集']['zh-cn'] = "执行集";
+$text['option-exec-set']['zh-cn'] = "exec-set";
+$text['option-执行集']['en-us'] = "执行集";
 $text['option-exec-set']['ar-eg'] = "";
 $text['option-exec-set']['de-at'] = "";
 $text['option-exec-set']['de-ch'] = "";
@@ -148,8 +148,8 @@ $text['option-exec-set']['ru-ru'] = "";
 $text['option-exec-set']['sv-se'] = "";
 $text['option-exec-set']['uk-ua'] = "";
 
-$text['label-hostname']['en-us'] = "Hostname";
-$text['label-hostname']['zh-cn'] = "主机名";
+$text['label-hostname']['zh-cn'] = "Hostname";
+$text['label-hostname']['en-us'] = "主机名";
 $text['label-hostname']['ar-eg'] = "";
 $text['label-hostname']['de-at'] = "Hostname"; //copied from de-de
 $text['label-hostname']['de-ch'] = "Hostname"; //copied from de-de
@@ -169,8 +169,8 @@ $text['label-hostname']['ru-ru'] = "Имя хоста";
 $text['label-hostname']['sv-se'] = "Hostname";
 $text['label-hostname']['uk-ua'] = "Назва хоста";
 
-$text['label-codec_information']['en-us'] = "Codec Information";
-$text['label-codec_information']['zh-cn'] = "编解码器信息";
+$text['label-codec_information']['zh-cn'] = "Codec Information";
+$text['label-codec_information']['en-us'] = "编解码器信息";
 $text['label-codec_information']['ar-eg'] = "";
 $text['label-codec_information']['de-at'] = "Codec Information"; //copied from de-de
 $text['label-codec_information']['de-ch'] = "Codec Information"; //copied from de-de
@@ -190,8 +190,8 @@ $text['label-codec_information']['ru-ru'] = "Информация о кодек�
 $text['label-codec_information']['sv-se'] = "Codec Information";
 $text['label-codec_information']['uk-ua'] = "Інформація про кодек";
 
-$text['header-variables_advanced']['en-us'] = "Switch Variables: Advanced";
-$text['header-variables_advanced']['zh-cn'] = "切换变量：高级";
+$text['header-variables_advanced']['zh-cn'] = "Switch Variables: Advanced";
+$text['header-variables_advanced']['en-us'] = "切换变量：高级";
 $text['header-variables_advanced']['ar-eg'] = "";
 $text['header-variables_advanced']['de-at'] = "Switch Variablen: Erweitert"; //copied from de-de
 $text['header-variables_advanced']['de-ch'] = "Switch Variablen: Erweitert"; //copied from de-de
@@ -211,8 +211,8 @@ $text['header-variables_advanced']['ru-ru'] = "Параметры FreeSwitch: Р
 $text['header-variables_advanced']['sv-se'] = "Switch Variabler: Avancerat";
 $text['header-variables_advanced']['uk-ua'] = "Задання змінних: Додатково";
 
-$text['header-variables']['en-us'] = "Switch Variables";
-$text['header-variables']['zh-cn'] = "切换变量";
+$text['header-variables']['zh-cn'] = "Switch Variables";
+$text['header-variables']['en-us'] = "切换变量";
 $text['header-variables']['ar-eg'] = "";
 $text['header-variables']['de-at'] = "Switch Variablen"; //copied from de-de
 $text['header-variables']['de-ch'] = "Switch Variablen"; //copied from de-de
@@ -232,8 +232,8 @@ $text['header-variables']['ru-ru'] = "Параметры FreeSwitch";
 $text['header-variables']['sv-se'] = "Switch Variabler";
 $text['header-variables']['uk-ua'] = "Задання змінних";
 
-$text['header-variable_edit']['en-us'] = "Variable";
-$text['header-variable_edit']['zh-cn'] = "变量";
+$text['header-variable_edit']['zh-cn'] = "Variable";
+$text['header-variable_edit']['en-us'] = "变量";
 $text['header-variable_edit']['ar-eg'] = "";
 $text['header-variable_edit']['de-at'] = "Variable"; //copied from de-de
 $text['header-variable_edit']['de-ch'] = "Variable"; //copied from de-de
@@ -253,8 +253,8 @@ $text['header-variable_edit']['ru-ru'] = "Переменная";
 $text['header-variable_edit']['sv-se'] = "Variabel";
 $text['header-variable_edit']['uk-ua'] = "Змінна";
 
-$text['header-hostname']['en-us'] = "Hostname";
-$text['header-hostname']['zh-cn'] = "主机名";
+$text['header-hostname']['zh-cn'] = "Hostname";
+$text['header-hostname']['en-us'] = "主机名";
 $text['header-hostname']['ar-eg'] = "";
 $text['header-hostname']['de-at'] = "Hostname"; //copied from de-de
 $text['header-hostname']['de-ch'] = "Hostname"; //copied from de-de
@@ -274,8 +274,8 @@ $text['header-hostname']['ru-ru'] = "Имя хоста";
 $text['header-hostname']['sv-se'] = "Hostname";
 $text['header-hostname']['uk-ua'] = "Назва хоста";
 
-$text['description-variables_advanced']['en-us'] = "Define preprocessor variables here. Can be accessed in the xml configuration with $.";
-$text['description-variables_advanced']['zh-cn'] = "在此定义预处理器变量。可以在XML配置中使用$访问。";
+$text['description-variables_advanced']['zh-cn'] = "Define preprocessor variables here. Can be accessed in the xml configuration with $.";
+$text['description-variables_advanced']['en-us'] = "在此定义预处理器变量。可以在XML配置中使用$访问。";
 $text['description-variables_advanced']['ar-eg'] = "";
 $text['description-variables_advanced']['de-at'] = "Definieren Sie Preprozessor Variablen. Auf diese kann in der XML Konfiguration mittels $ zugegriffen werden."; //copied from de-de
 $text['description-variables_advanced']['de-ch'] = "Definieren Sie Preprozessor Variablen. Auf diese kann in der XML Konfiguration mittels $ zugegriffen werden."; //copied from de-de
@@ -295,8 +295,8 @@ $text['description-variables_advanced']['ru-ru'] = "Определите зде�
 $text['description-variables_advanced']['sv-se'] = "Definiera preprocessor variabler här. Kan nås i xml konfigurationen med $.";
 $text['description-variables_advanced']['uk-ua'] = "Задайте змінні препроцесора тут. Вони будуть доступними в конфігурації XML з символом $.";
 
-$text['description-variables']['en-us'] = "Define preprocessor variables here.";
-$text['description-variables']['zh-cn'] = "在此定义预处理器变量。";
+$text['description-variables']['zh-cn'] = "Define preprocessor variables here.";
+$text['description-variables']['en-us'] = "在此定义预处理器变量。";
 $text['description-variables']['ar-eg'] = "";
 $text['description-variables']['de-at'] = "Definieren Sie Preprozessor Variablen."; //copied from de-de
 $text['description-variables']['de-ch'] = "Definieren Sie Preprozessor Variablen."; //copied from de-de
@@ -316,8 +316,8 @@ $text['description-variables']['ru-ru'] = "Определите здесь па�
 $text['description-variables']['sv-se'] = "Definiera preprocessor variabler här.";
 $text['description-variables']['uk-ua'] = "Задайте змінні препроцесора тут.";
 
-$text['description-command']['en-us'] = "Set the command.";
-$text['description-command']['zh-cn'] = "设置命令。";
+$text['description-command']['zh-cn'] = "Set the command.";
+$text['description-command']['en-us'] = "设置命令。";
 $text['description-command']['ar-eg'] = "";
 $text['description-command']['de-at'] = "";
 $text['description-command']['de-ch'] = "";
@@ -337,8 +337,8 @@ $text['description-command']['ru-ru'] = "";
 $text['description-command']['sv-se'] = "";
 $text['description-command']['uk-ua'] = "";
 
-$text['description-name']['en-us'] = "Enter the variable name.";
-$text['description-name']['zh-cn'] = "输入变量名。";
+$text['description-name']['zh-cn'] = "Enter the variable name.";
+$text['description-name']['en-us'] = "输入变量名。";
 $text['description-name']['ar-eg'] = "";
 $text['description-name']['de-at'] = "Geben Sie den Namen der Variable an."; //copied from de-de
 $text['description-name']['de-ch'] = "Geben Sie den Namen der Variable an."; //copied from de-de
@@ -358,8 +358,8 @@ $text['description-name']['ru-ru'] = "Введите имя переменной
 $text['description-name']['sv-se'] = "Skriv in namnet på menyn.";
 $text['description-name']['uk-ua'] = "Введіть назву змінної";
 
-$text['description-hostname']['en-us'] = "Enter the hostname / switchname.";
-$text['description-hostname']['zh-cn'] = "输入主机名/开关名称。";
+$text['description-hostname']['zh-cn'] = "Enter the hostname / switchname.";
+$text['description-hostname']['en-us'] = "输入主机名/开关名称。";
 $text['description-hostname']['ar-eg'] = "";
 $text['description-hostname']['de-at'] = "Geben Sie den Hostnamen / Switchnamen an."; //copied from de-de
 $text['description-hostname']['de-ch'] = "Geben Sie den Hostnamen / Switchnamen an."; //copied from de-de
@@ -379,8 +379,8 @@ $text['description-hostname']['ru-ru'] = "Введите имя хоста / и�
 $text['description-hostname']['sv-se'] = "Fyll i hostname / switchname.";
 $text['description-hostname']['uk-ua'] = "Введіть назву хоста / switchname.";
 
-$text['description-enabled']['en-us'] = "Enable or disable this variable.";
-$text['description-enabled']['zh-cn'] = "启用或禁用此变量。";
+$text['description-enabled']['zh-cn'] = "Enable or disable this variable.";
+$text['description-enabled']['en-us'] = "启用或禁用此变量。";
 $text['description-enabled']['ar-eg'] = "";
 $text['description-enabled']['de-at'] = "";
 $text['description-enabled']['de-ch'] = "";
@@ -400,8 +400,8 @@ $text['description-enabled']['ru-ru'] = "";
 $text['description-enabled']['sv-se'] = "";
 $text['description-enabled']['uk-ua'] = "";
 
-$text['description-order']['en-us'] = "Select the order.";
-$text['description-order']['zh-cn'] = "选择订单。";
+$text['description-order']['zh-cn'] = "Select the order.";
+$text['description-order']['en-us'] = "选择订单。";
 $text['description-order']['ar-eg'] = "";
 $text['description-order']['de-at'] = "";
 $text['description-order']['de-ch'] = "";
@@ -421,8 +421,8 @@ $text['description-order']['ru-ru'] = "";
 $text['description-order']['sv-se'] = "";
 $text['description-order']['uk-ua'] = "";
 
-$text['description-description']['en-us'] = "Enter the description.";
-$text['description-description']['zh-cn'] = "输入说明。";
+$text['description-description']['zh-cn'] = "Enter the description.";
+$text['description-description']['en-us'] = "输入说明。";
 $text['description-description']['ar-eg'] = "";
 $text['description-description']['de-at'] = "";
 $text['description-description']['de-ch'] = "";

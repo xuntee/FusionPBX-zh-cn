@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-services']['en-us'] = "Services";
-$text['title-services']['zh-cn'] = "服务";
+$text['title-services']['zh-cn'] = "Services";
+$text['title-services']['en-us'] = "服务";
 $text['title-services']['ar-eg'] = "";
 $text['title-services']['de-at'] = "Dienste"; //copied from de-de
 $text['title-services']['de-ch'] = "Dienste"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-services']['ru-ru'] = "Службы";
 $text['title-services']['sv-se'] = "Tjänster";
 $text['title-services']['uk-ua'] = "Служби";
 
-$text['title']['en-us'] = "Service Add";
-$text['title']['zh-cn'] = "服务添加";
+$text['title']['zh-cn'] = "Service Add";
+$text['title']['en-us'] = "服务添加";
 $text['title']['ar-eg'] = "";
 $text['title']['de-at'] = "Dienst hinzufügen"; //copied from de-de
 $text['title']['de-ch'] = "Dienst hinzufügen"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title']['ru-ru'] = "Служба добавлена";
 $text['title']['sv-se'] = "Lägg Till Tjänst";
 $text['title']['uk-ua'] = "Параметри облікового запису";
 
-$text['message-stopping']['en-us'] = "Stopping Service";
-$text['message-stopping']['zh-cn'] = "停止服务";
+$text['message-stopping']['zh-cn'] = "Stopping Service";
+$text['message-stopping']['en-us'] = "停止服务";
 $text['message-stopping']['ar-eg'] = "";
 $text['message-stopping']['de-at'] = "Dienst beenden"; //copied from de-de
 $text['message-stopping']['de-ch'] = "Dienst beenden"; //copied from de-de
@@ -64,8 +64,8 @@ $text['message-stopping']['ru-ru'] = "Остановка Сервиса";
 $text['message-stopping']['sv-se'] = "Stoppar Tjänst";
 $text['message-stopping']['uk-ua'] = "Зупинка служби";
 
-$text['message-starting']['en-us'] = "Starting Service";
-$text['message-starting']['zh-cn'] = "正在启动服务";
+$text['message-starting']['zh-cn'] = "Starting Service";
+$text['message-starting']['en-us'] = "正在启动服务";
 $text['message-starting']['ar-eg'] = "";
 $text['message-starting']['de-at'] = "Starte Dienst"; //copied from de-de
 $text['message-starting']['de-ch'] = "Starte Dienst"; //copied from de-de
@@ -85,8 +85,8 @@ $text['message-starting']['ru-ru'] = "Старт Сервиса";
 $text['message-starting']['sv-se'] = "Startar Tjänst";
 $text['message-starting']['uk-ua'] = "Запуск служби";
 
-$text['label-stopped']['en-us'] = "Stopped";
-$text['label-stopped']['zh-cn'] = "停止";
+$text['label-stopped']['zh-cn'] = "Stopped";
+$text['label-stopped']['en-us'] = "停止";
 $text['label-stopped']['ar-eg'] = "";
 $text['label-stopped']['de-at'] = "Beendet"; //copied from de-de
 $text['label-stopped']['de-ch'] = "Beendet"; //copied from de-de
@@ -106,8 +106,8 @@ $text['label-stopped']['ru-ru'] = "Остановлено";
 $text['label-stopped']['sv-se'] = "Stoppad";
 $text['label-stopped']['uk-ua'] = "Зупинено";
 
-$text['label-stop_command']['en-us'] = "Stop Command";
-$text['label-stop_command']['zh-cn'] = "停止命令";
+$text['label-stop_command']['zh-cn'] = "Stop Command";
+$text['label-stop_command']['en-us'] = "停止命令";
 $text['label-stop_command']['ar-eg'] = "";
 $text['label-stop_command']['de-at'] = "Stopp Befehl"; //copied from de-de
 $text['label-stop_command']['de-ch'] = "Stopp Befehl"; //copied from de-de
@@ -127,8 +127,8 @@ $text['label-stop_command']['ru-ru'] = "Команда остановить";
 $text['label-stop_command']['sv-se'] = "Stopp Komando";
 $text['label-stop_command']['uk-ua'] = "Команда для зупинки ";
 
-$text['label-stop']['en-us'] = "Stop";
-$text['label-stop']['zh-cn'] = "停止";
+$text['label-stop']['zh-cn'] = "Stop";
+$text['label-stop']['en-us'] = "停止";
 $text['label-stop']['ar-eg'] = "";
 $text['label-stop']['de-at'] = "Stopp"; //copied from de-de
 $text['label-stop']['de-ch'] = "Stopp"; //copied from de-de
@@ -148,8 +148,8 @@ $text['label-stop']['ru-ru'] = "Остановить";
 $text['label-stop']['sv-se'] = "Stoppa";
 $text['label-stop']['uk-ua'] = "Зупинити";
 
-$text['label-status']['en-us'] = "Status";
-$text['label-status']['zh-cn'] = "状态";
+$text['label-status']['zh-cn'] = "Status";
+$text['label-status']['en-us'] = "状态";
 $text['label-status']['ar-eg'] = "";
 $text['label-status']['de-at'] = "Status"; //copied from de-de
 $text['label-status']['de-ch'] = "Status"; //copied from de-de
@@ -169,8 +169,8 @@ $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Стан";
 
-$text['label-start_command']['en-us'] = "Start Command";
-$text['label-start_command']['zh-cn'] = "启动命令";
+$text['label-start_command']['zh-cn'] = "Start Command";
+$text['label-start_command']['en-us'] = "启动命令";
 $text['label-start_command']['ar-eg'] = "";
 $text['label-start_command']['de-at'] = "Start Befehl"; //copied from de-de
 $text['label-start_command']['de-ch'] = "Start Befehl"; //copied from de-de
@@ -190,8 +190,8 @@ $text['label-start_command']['ru-ru'] = "Команда стартовать";
 $text['label-start_command']['sv-se'] = "Start Komando";
 $text['label-start_command']['uk-ua'] = "Команда для запуску ";
 
-$text['label-start']['en-us'] = "Start";
-$text['label-start']['zh-cn'] = "起点";
+$text['label-start']['zh-cn'] = "Start";
+$text['label-start']['en-us'] = "起点";
 $text['label-start']['ar-eg'] = "";
 $text['label-start']['de-at'] = "Start"; //copied from de-de
 $text['label-start']['de-ch'] = "Start"; //copied from de-de
@@ -211,8 +211,8 @@ $text['label-start']['ru-ru'] = "Старт";
 $text['label-start']['sv-se'] = "Starta";
 $text['label-start']['uk-ua'] = "Запустити";
 
-$text['label-running']['en-us'] = "Running";
-$text['label-running']['zh-cn'] = "正在运行";
+$text['label-running']['zh-cn'] = "Running";
+$text['label-running']['en-us'] = "正在运行";
 $text['label-running']['ar-eg'] = "";
 $text['label-running']['de-at'] = "Läuft"; //copied from de-de
 $text['label-running']['de-ch'] = "Läuft"; //copied from de-de
@@ -232,8 +232,8 @@ $text['label-running']['ru-ru'] = "Запущено";
 $text['label-running']['sv-se'] = "I Drift";
 $text['label-running']['uk-ua'] = "Запущено";
 
-$text['label-data']['en-us'] = "Data";
-$text['label-data']['zh-cn'] = "数据";
+$text['label-data']['zh-cn'] = "Data";
+$text['label-data']['en-us'] = "数据";
 $text['label-data']['ar-eg'] = "";
 $text['label-data']['de-at'] = "Daten"; //copied from de-de
 $text['label-data']['de-ch'] = "Daten"; //copied from de-de
@@ -253,8 +253,8 @@ $text['label-data']['ru-ru'] = "Данные";
 $text['label-data']['sv-se'] = "Data";
 $text['label-data']['uk-ua'] = "Дані";
 
-$text['label-action']['en-us'] = "Action";
-$text['label-action']['zh-cn'] = "行动";
+$text['label-action']['zh-cn'] = "Action";
+$text['label-action']['en-us'] = "行动";
 $text['label-action']['ar-eg'] = "";
 $text['label-action']['de-at'] = "Aktion"; //copied from de-de
 $text['label-action']['de-ch'] = "Aktion"; //copied from de-de
@@ -274,8 +274,8 @@ $text['label-action']['ru-ru'] = "Действие";
 $text['label-action']['sv-se'] = "Åtgärd";
 $text['label-action']['uk-ua'] = "Дія";
 
-$text['header-services']['en-us'] = "Services";
-$text['header-services']['zh-cn'] = "服务";
+$text['header-services']['zh-cn'] = "Services";
+$text['header-services']['en-us'] = "服务";
 $text['header-services']['ar-eg'] = "";
 $text['header-services']['de-at'] = "Dienste"; //copied from de-de
 $text['header-services']['de-ch'] = "Dienste"; //copied from de-de
@@ -295,8 +295,8 @@ $text['header-services']['ru-ru'] = "Сервисы";
 $text['header-services']['sv-se'] = "Tjänster";
 $text['header-services']['uk-ua'] = "Служби";
 
-$text['description-type']['en-us'] = "Select the service type.";
-$text['description-type']['zh-cn'] = "选择服务类型。";
+$text['description-type']['zh-cn'] = "Select the service type.";
+$text['description-type']['en-us'] = "选择服务类型。";
 $text['description-type']['ar-eg'] = "";
 $text['description-type']['de-at'] = "Wählen Sie die Art des Dienstes."; //copied from de-de
 $text['description-type']['de-ch'] = "Wählen Sie die Art des Dienstes."; //copied from de-de
@@ -316,8 +316,8 @@ $text['description-type']['ru-ru'] = "Выберите тип сервиса.";
 $text['description-type']['sv-se'] = "Ange Tjänst-typen.";
 $text['description-type']['uk-ua'] = "Вкажіть тип служби";
 
-$text['description-stop_command']['en-us'] = "Enter the command to stop the service.";
-$text['description-stop_command']['zh-cn'] = "输入停止服务的命令。";
+$text['description-stop_command']['zh-cn'] = "Enter the command to stop the service.";
+$text['description-stop_command']['en-us'] = "输入停止服务的命令。";
 $text['description-stop_command']['ar-eg'] = "";
 $text['description-stop_command']['de-at'] = "Geben Sie einen Befehl zum Beenden des Dienstes an."; //copied from de-de
 $text['description-stop_command']['de-ch'] = "Geben Sie einen Befehl zum Beenden des Dienstes an."; //copied from de-de
@@ -337,8 +337,8 @@ $text['description-stop_command']['ru-ru'] = "Введите команду дл
 $text['description-stop_command']['sv-se'] = "Ange kommandot för att stoppa tjänsten.";
 $text['description-stop_command']['uk-ua'] = "Введіть команду, щоб зупинити службу";
 
-$text['description-start_command']['en-us'] = "Enter the command to start the service.";
-$text['description-start_command']['zh-cn'] = "输入启动服务的命令。";
+$text['description-start_command']['zh-cn'] = "Enter the command to start the service.";
+$text['description-start_command']['en-us'] = "输入启动服务的命令。";
 $text['description-start_command']['ar-eg'] = "";
 $text['description-start_command']['de-at'] = "Geben Sie einen Befehl zum Starten des Dienstes an."; //copied from de-de
 $text['description-start_command']['de-ch'] = "Geben Sie einen Befehl zum Starten des Dienstes an."; //copied from de-de
@@ -358,8 +358,8 @@ $text['description-start_command']['ru-ru'] = "Введите команду д�
 $text['description-start_command']['sv-se'] = "Ange kommandot för att starta tjänsten.";
 $text['description-start_command']['uk-ua'] = "Введіть команду, щоб запустити службу";
 
-$text['description-services']['en-us'] = "Shows a list of processes, the status of the process and provides control to start and stop the process.";
-$text['description-services']['zh-cn'] = "显示进程列表、进程状态，并提供启动和停止进程的控制。";
+$text['description-services']['zh-cn'] = "Shows a list of processes, the status of the process and provides control to start and stop the process.";
+$text['description-services']['en-us'] = "显示进程列表、进程状态，并提供启动和停止进程的控制。";
 $text['description-services']['ar-eg'] = "";
 $text['description-services']['de-at'] = "Zeigt eine Liste von Prozessen, deren Status und bietet die Möglichkeit, diese Prozesse zu starten und zu stoppen."; //copied from de-de
 $text['description-services']['de-ch'] = "Zeigt eine Liste von Prozessen, deren Status und bietet die Möglichkeit, diese Prozesse zu starten und zu stoppen."; //copied from de-de
@@ -379,8 +379,8 @@ $text['description-services']['ru-ru'] = "Показывает список пр
 $text['description-services']['sv-se'] = "Visar en lista med tjänster, statusen på tjänsterna samt ger möjlighet att starta och stoppa tjänsterna.";
 $text['description-services']['uk-ua'] = "Показує список процесів, стан процесу і забезпечує контроль запуску і зупинки процесу.";
 
-$text['description-name']['en-us'] = "Enter the service name.";
-$text['description-name']['zh-cn'] = "输入服务名称。";
+$text['description-name']['zh-cn'] = "Enter the service name.";
+$text['description-name']['en-us'] = "输入服务名称。";
 $text['description-name']['ar-eg'] = "";
 $text['description-name']['de-at'] = "Geben Sie den Namen des Dienstes an"; //copied from de-de
 $text['description-name']['de-ch'] = "Geben Sie den Namen des Dienstes an"; //copied from de-de
@@ -400,8 +400,8 @@ $text['description-name']['ru-ru'] = "Введите имя сервиса.";
 $text['description-name']['sv-se'] = "Ange namn på tjänsten.";
 $text['description-name']['uk-ua'] = "Введіть назву служби";
 
-$text['description-data']['en-us'] = "Enter the service data.";
-$text['description-data']['zh-cn'] = "输入服务数据。";
+$text['description-data']['zh-cn'] = "Enter the service data.";
+$text['description-data']['en-us'] = "输入服务数据。";
 $text['description-data']['ar-eg'] = "";
 $text['description-data']['de-at'] = "Geben Sie die Daten für den Dienst ein."; //copied from de-de
 $text['description-data']['de-ch'] = "Geben Sie die Daten für den Dienst ein."; //copied from de-de
@@ -421,8 +421,8 @@ $text['description-data']['ru-ru'] = "Введите данные службы."
 $text['description-data']['sv-se'] = "Ange data för tjänsten.";
 $text['description-data']['uk-ua'] = "Введіть дані про службу";
 
-$text['description']['en-us'] = "Shows a list of processes and provides ability to start and stop them.";
-$text['description']['zh-cn'] = "显示进程列表，并提供启动和停止进程的能力。";
+$text['description']['zh-cn'] = "Shows a list of processes and provides ability to start and stop them.";
+$text['description']['en-us'] = "显示进程列表，并提供启动和停止进程的能力。";
 $text['description']['ar-eg'] = "";
 $text['description']['de-at'] = "Zeigt eine Liste der Prozesse und bietet die Möglichkeit diese zu Starten und zu Stoppen."; //copied from de-de
 $text['description']['de-ch'] = "Zeigt eine Liste der Prozesse und bietet die Möglichkeit diese zu Starten und zu Stoppen."; //copied from de-de

@@ -1,7 +1,7 @@
 <?php
 
 	//Bridges
-		$text['title-bridges']['en-us'] = 'Bridges';
+		$text['title-bridges']['zh-cn'] = 'Bridges';
 		$text['title-bridges']['ar-eg'] = '';
 		$text['title-bridges']['de-at'] = '';
 		$text['title-bridges']['de-ch'] = '';
@@ -21,7 +21,7 @@
 		$text['title-bridges']['sv-se'] = '';
 		$text['title-bridges']['uk-ua'] = '';
 
-		$text['title-bridge']['en-us'] = 'Bridge';
+		$text['title-bridge']['zh-cn'] = 'Bridge';
 		$text['title-bridge']['ar-eg'] = '';
 		$text['title-bridge']['de-at'] = '';
 		$text['title-bridge']['de-ch'] = '';
@@ -41,7 +41,7 @@
 		$text['title-bridge']['sv-se'] = '';
 		$text['title-bridge']['uk-ua'] = '';
 
-		$text['title_description-bridge']['en-us'] = 'Add bridge statements to destination select list.';
+		$text['title_description-bridge']['zh-cn'] = 'Add bridge statements to destination select list.';
 		$text['title_description-bridge']['ar-eg'] = '';
 		$text['title_description-bridge']['de-at'] = '';
 		$text['title_description-bridge']['de-ch'] = '';
@@ -61,7 +61,7 @@
 		$text['title_description-bridge']['sv-se'] = '';
 		$text['title_description-bridge']['uk-ua'] = '';
 
-		$text['label-bridge_name']['en-us'] = 'Name';
+		$text['label-bridge_name']['zh-cn'] = 'Name';
 		$text['label-bridge_name']['ar-eg'] = '';
 		$text['label-bridge_name']['de-at'] = '';
 		$text['label-bridge_name']['de-ch'] = '';
@@ -81,7 +81,7 @@
 		$text['label-bridge_name']['sv-se'] = '';
 		$text['label-bridge_name']['uk-ua'] = '';
 
-		$text['description-bridge_name']['en-us'] = 'Enter the name.';
+		$text['description-bridge_name']['zh-cn'] = 'Enter the name.';
 		$text['description-bridge_name']['ar-eg'] = '';
 		$text['description-bridge_name']['de-at'] = '';
 		$text['description-bridge_name']['de-ch'] = '';
@@ -101,7 +101,7 @@
 		$text['description-bridge_name']['sv-se'] = '';
 		$text['description-bridge_name']['uk-ua'] = '';
 
-		$text['label-bridge_destination']['en-us'] = 'Destination';
+		$text['label-bridge_destination']['zh-cn'] = 'Destination';
 		$text['label-bridge_destination']['ar-eg'] = '';
 		$text['label-bridge_destination']['de-at'] = '';
 		$text['label-bridge_destination']['de-ch'] = '';
@@ -121,7 +121,7 @@
 		$text['label-bridge_destination']['sv-se'] = '';
 		$text['label-bridge_destination']['uk-ua'] = '';
 
-		$text['description-bridge_destination']['en-us'] = 'Enter the destination.';
+		$text['description-bridge_destination']['zh-cn'] = 'Enter the destination.';
 		$text['description-bridge_destination']['ar-eg'] = '';
 		$text['description-bridge_destination']['de-at'] = '';
 		$text['description-bridge_destination']['de-ch'] = '';
@@ -141,7 +141,7 @@
 		$text['description-bridge_destination']['sv-se'] = '';
 		$text['description-bridge_destination']['uk-ua'] = '';
 
-		$text['label-bridge_enabled']['en-us'] = 'Enabled';
+		$text['label-bridge_enabled']['zh-cn'] = 'Enabled';
 		$text['label-bridge_enabled']['ar-eg'] = '';
 		$text['label-bridge_enabled']['de-at'] = '';
 		$text['label-bridge_enabled']['de-ch'] = '';
@@ -161,7 +161,7 @@
 		$text['label-bridge_enabled']['sv-se'] = '';
 		$text['label-bridge_enabled']['uk-ua'] = '';
 
-		$text['description-bridge_enabled']['en-us'] = 'Select to enable or disable.';
+		$text['description-bridge_enabled']['zh-cn'] = 'Select to enable or disable.';
 		$text['description-bridge_enabled']['ar-eg'] = '';
 		$text['description-bridge_enabled']['de-at'] = '';
 		$text['description-bridge_enabled']['de-ch'] = '';
@@ -181,7 +181,7 @@
 		$text['description-bridge_enabled']['sv-se'] = '';
 		$text['description-bridge_enabled']['uk-ua'] = '';
 
-		$text['label-bridge_description']['en-us'] = 'Description';
+		$text['label-bridge_description']['zh-cn'] = 'Description';
 		$text['label-bridge_description']['ar-eg'] = '';
 		$text['label-bridge_description']['de-at'] = '';
 		$text['label-bridge_description']['de-ch'] = '';
@@ -201,7 +201,7 @@
 		$text['label-bridge_description']['sv-se'] = '';
 		$text['label-bridge_description']['uk-ua'] = '';
 
-		$text['description-bridge_description']['en-us'] = 'Enter the description. ';
+		$text['description-bridge_description']['zh-cn'] = 'Enter the description. ';
 		$text['description-bridge_description']['ar-eg'] = '';
 		$text['description-bridge_description']['de-at'] = '';
 		$text['description-bridge_description']['de-ch'] = '';

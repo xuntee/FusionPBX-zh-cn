@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-manage-files']['en-us'] = "Manage Files";
-$text['title-manage-files']['zh-cn'] = "管理文件";
+$text['title-manage-files']['zh-cn'] = "Manage Files";
+$text['title-manage-files']['en-us'] = "管理文件";
 $text['title-manage-files']['ar-eg'] = "";
 $text['title-manage-files']['de-at'] = "Dateien verwalten"; //copied from de-de
 $text['title-manage-files']['de-ch'] = "Dateien verwalten"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-manage-files']['ru-ru'] = "Управление файлами";
 $text['title-manage-files']['sv-se'] = "Hantera Filer";
 $text['title-manage-files']['uk-ua'] = "";
 
-$text['title-manage-clips']['en-us'] = "Manage Clips";
-$text['title-manage-clips']['zh-cn'] = "管理剪辑";
+$text['title-manage-clips']['zh-cn'] = "Manage Clips";
+$text['title-manage-clips']['en-us'] = "管理剪辑";
 $text['title-manage-clips']['ar-eg'] = "";
 $text['title-manage-clips']['de-at'] = "Clips verwalten"; //copied from de-de
 $text['title-manage-clips']['de-ch'] = "Clips verwalten"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title-manage-clips']['ru-ru'] = "Управление клипами";
 $text['title-manage-clips']['sv-se'] = "Hantera Klipp";
 $text['title-manage-clips']['uk-ua'] = "";
 
-$text['label-folder']['en-us'] = "Folder:";
-$text['label-folder']['zh-cn'] = "文件夹：";
+$text['label-folder']['zh-cn'] = "Folder:";
+$text['label-folder']['en-us'] = "文件夹：";
 $text['label-folder']['ar-eg'] = "";
 $text['label-folder']['de-at'] = "Ordner:"; //copied from de-de
 $text['label-folder']['de-ch'] = "Ordner:"; //copied from de-de
@@ -64,8 +64,8 @@ $text['label-folder']['ru-ru'] = "Папка:";
 $text['label-folder']['sv-se'] = "Mapp:";
 $text['label-folder']['uk-ua'] = "";
 
-$text['label-before-selection']['en-us'] = "Before Selection:";
-$text['label-before-selection']['zh-cn'] = "选择之前：";
+$text['label-before-selection']['zh-cn'] = "Before Selection:";
+$text['label-before-selection']['en-us'] = "选择之前：";
 $text['label-before-selection']['ar-eg'] = "";
 $text['label-before-selection']['de-at'] = "Vor der Auswahl:"; //copied from de-de
 $text['label-before-selection']['de-ch'] = "Vor der Auswahl:"; //copied from de-de
@@ -85,8 +85,8 @@ $text['label-before-selection']['ru-ru'] = "Перед выбором:";
 $text['label-before-selection']['sv-se'] = "Före Val:";
 $text['label-before-selection']['uk-ua'] = "";
 
-$text['label-after-selection']['en-us'] = "After Selection:";
-$text['label-after-selection']['zh-cn'] = "选择后：";
+$text['label-after-selection']['zh-cn'] = "After Selection:";
+$text['label-after-selection']['en-us'] = "选择后：";
 $text['label-after-selection']['ar-eg'] = "";
 $text['label-after-selection']['de-at'] = "Nach der Auswahl:"; //copied from de-de
 $text['label-after-selection']['de-ch'] = "Nach der Auswahl:"; //copied from de-de
@@ -106,8 +106,8 @@ $text['label-after-selection']['ru-ru'] = "После выбора:";
 $text['label-after-selection']['sv-se'] = "Efter Val:";
 $text['label-after-selection']['uk-ua'] = "";
 
-$text['label-notes']['en-us'] = "Notes:";
-$text['label-notes']['zh-cn'] = "笔记：";
+$text['label-notes']['zh-cn'] = "Notes:";
+$text['label-notes']['en-us'] = "笔记：";
 $text['label-notes']['ar-eg'] = "";
 $text['label-notes']['de-at'] = "Notiz:"; //copied from de-de
 $text['label-notes']['de-ch'] = "Notiz:"; //copied from de-de
@@ -127,8 +127,8 @@ $text['label-notes']['ru-ru'] = "Заметки:";
 $text['label-notes']['sv-se'] = "Noteringar:";
 $text['label-notes']['uk-ua'] = "";
 
-$text['message-give-up']['en-us'] = "Giving up :( Cannot create an XMLHTTP instance";
-$text['message-give-up']['zh-cn'] = "放弃：（无法创建xmlhttp实例";
+$text['message-give-up']['zh-cn'] = "Giving up :( Cannot create an XMLHTTP instance";
+$text['message-give-up']['en-us'] = "放弃：（无法创建xmlhttp实例";
 $text['message-give-up']['ar-eg'] = "";
 $text['message-give-up']['de-at'] = "Vorgang abgebrochen :( Konnte XMLHTTP Instanz nich erzeugen"; //copied from de-de
 $text['message-give-up']['de-ch'] = "Vorgang abgebrochen :( Konnte XMLHTTP Instanz nich erzeugen"; //copied from de-de
@@ -148,8 +148,8 @@ $text['message-give-up']['ru-ru'] = "Операция отменена :( Нев
 $text['message-give-up']['sv-se'] = "Ger upp :( Kan inte skapa en XMLHTTP instans";
 $text['message-give-up']['uk-ua'] = "";
 
-$text['message-problem']['en-us'] = "There was a problem with the request.";
-$text['message-problem']['zh-cn'] = "请求有问题。";
+$text['message-problem']['zh-cn'] = "There was a problem with the request.";
+$text['message-problem']['en-us'] = "请求有问题。";
 $text['message-problem']['ar-eg'] = "";
 $text['message-problem']['de-at'] = "Es gab ein Problem mit der Anfrage."; //copied from de-de
 $text['message-problem']['de-ch'] = "Es gab ein Problem mit der Anfrage."; //copied from de-de
@@ -169,8 +169,8 @@ $text['message-problem']['ru-ru'] = "Возникла проблема с зап
 $text['message-problem']['sv-se'] = "Det uppstod ett problem med begäran.";
 $text['message-problem']['uk-ua'] = "";
 
-$text['label-clip-library']['en-us'] = "Clip Library";
-$text['label-clip-library']['zh-cn'] = "剪辑库";
+$text['label-clip-library']['zh-cn'] = "Clip Library";
+$text['label-clip-library']['en-us'] = "剪辑库";
 $text['label-clip-library']['ar-eg'] = "";
 $text['label-clip-library']['de-at'] = "Clip Bibliothek"; //copied from de-de
 $text['label-clip-library']['de-ch'] = "Clip Bibliothek"; //copied from de-de
@@ -190,8 +190,8 @@ $text['label-clip-library']['ru-ru'] = "Библиотека клипов";
 $text['label-clip-library']['sv-se'] = "Klipp Bibliotek";
 $text['label-clip-library']['uk-ua'] = "";
 
-$text['label-selected-clip']['en-us'] = "Selected Clip";
-$text['label-selected-clip']['zh-cn'] = "选定的剪辑";
+$text['label-selected-clip']['zh-cn'] = "Selected Clip";
+$text['label-selected-clip']['en-us'] = "选定的剪辑";
 $text['label-selected-clip']['ar-eg'] = "";
 $text['label-selected-clip']['de-at'] = "Ausgewählter Clip"; //copied from de-de
 $text['label-selected-clip']['de-ch'] = "Ausgewählter Clip"; //copied from de-de
@@ -211,8 +211,8 @@ $text['label-selected-clip']['ru-ru'] = "Выбранный клип";
 $text['label-selected-clip']['sv-se'] = "";
 $text['label-selected-clip']['uk-ua'] = "";
 
-$text['button-edit-clip']['en-us'] = "Edit Clip";
-$text['button-edit-clip']['zh-cn'] = "编辑剪辑";
+$text['button-edit-clip']['zh-cn'] = "Edit Clip";
+$text['button-edit-clip']['en-us'] = "编辑剪辑";
 $text['button-edit-clip']['ar-eg'] = "";
 $text['button-edit-clip']['de-at'] = "Clip bearbeiten"; //copied from de-de
 $text['button-edit-clip']['de-ch'] = "Clip bearbeiten"; //copied from de-de
@@ -232,8 +232,8 @@ $text['button-edit-clip']['ru-ru'] = "Редактировать клип";
 $text['button-edit-clip']['sv-se'] = "Ändra Klipp";
 $text['button-edit-clip']['uk-ua'] = "";
 
-$text['button-add-clip']['en-us'] = "Add Clip";
-$text['button-add-clip']['zh-cn'] = "添加剪辑";
+$text['button-add-clip']['zh-cn'] = "Add Clip";
+$text['button-add-clip']['en-us'] = "添加剪辑";
 $text['button-add-clip']['ar-eg'] = "";
 $text['button-add-clip']['de-at'] = "Clip hinzufügen"; //copied from de-de
 $text['button-add-clip']['de-ch'] = "Clip hinzufügen"; //copied from de-de
@@ -253,8 +253,8 @@ $text['button-add-clip']['ru-ru'] = "Добавить клип";
 $text['button-add-clip']['sv-se'] = "Lägg Till Klipp";
 $text['button-add-clip']['uk-ua'] = "";
 
-$text['message-delete-clip']['en-us'] = "Are you sure you want to delete the selected clip?";
-$text['message-delete-clip']['zh-cn'] = "是否确实要删除所选剪辑？";
+$text['message-delete-clip']['zh-cn'] = "Are you sure you want to delete the selected clip?";
+$text['message-delete-clip']['en-us'] = "是否确实要删除所选剪辑？";
 $text['message-delete-clip']['ar-eg'] = "";
 $text['message-delete-clip']['de-at'] = "Sind Sie sicher, dass Sie den ausgewählten Clip löschen möchten?"; //copied from de-de
 $text['message-delete-clip']['de-ch'] = "Sind Sie sicher, dass Sie den ausgewählten Clip löschen möchten?"; //copied from de-de
@@ -274,8 +274,8 @@ $text['message-delete-clip']['ru-ru'] = "Вы действительно хот�
 $text['message-delete-clip']['sv-se'] = "Är du säker på att du vill radera det valda klippet?";
 $text['message-delete-clip']['uk-ua'] = "";
 
-$text['button-close']['en-us'] = "Close";
-$text['button-close']['zh-cn'] = "关闭";
+$text['button-close']['zh-cn'] = "Close";
+$text['button-close']['en-us'] = "关闭";
 $text['button-close']['ar-eg'] = "";
 $text['button-close']['de-at'] = "Schließen"; //copied from de-de
 $text['button-close']['de-ch'] = "Schließen"; //copied from de-de
@@ -295,8 +295,8 @@ $text['button-close']['ru-ru'] = "Закрыть";
 $text['button-close']['sv-se'] = "Stäng";
 $text['button-close']['uk-ua'] = "";
 
-$text['label-path']['en-us'] = "Path:";
-$text['label-path']['zh-cn'] = "路径:";
+$text['label-path']['zh-cn'] = "Path:";
+$text['label-path']['en-us'] = "路径:";
 $text['label-path']['ar-eg'] = "";
 $text['label-path']['de-at'] = "Pfad:"; //copied from de-de
 $text['label-path']['de-ch'] = "Pfad:"; //copied from de-de
@@ -316,8 +316,8 @@ $text['label-path']['ru-ru'] = "Путь:";
 $text['label-path']['sv-se'] = "Sökväg:";
 $text['label-path']['uk-ua'] = "";
 
-$text['label-file-name']['en-us'] = "File Name:";
-$text['label-file-name']['zh-cn'] = "文件名：";
+$text['label-file-name']['zh-cn'] = "File Name:";
+$text['label-file-name']['en-us'] = "文件名：";
 $text['label-file-name']['ar-eg'] = "";
 $text['label-file-name']['de-at'] = "Dateiname:"; //copied from de-de
 $text['label-file-name']['de-ch'] = "Dateiname:"; //copied from de-de
@@ -337,8 +337,8 @@ $text['label-file-name']['ru-ru'] = "Имя Файла:";
 $text['label-file-name']['sv-se'] = "Filnamn:";
 $text['label-file-name']['uk-ua'] = "";
 
-$text['button-new-file']['en-us'] = "New File";
-$text['button-new-file']['zh-cn'] = "新建文件";
+$text['button-new-file']['zh-cn'] = "New File";
+$text['button-new-file']['en-us'] = "新建文件";
 $text['button-new-file']['ar-eg'] = "";
 $text['button-new-file']['de-at'] = "Neue Datei"; //copied from de-de
 $text['button-new-file']['de-ch'] = "Neue Datei"; //copied from de-de
@@ -358,8 +358,8 @@ $text['button-new-file']['ru-ru'] = "Новый Файл";
 $text['button-new-file']['sv-se'] = "Ny Fil";
 $text['button-new-file']['uk-ua'] = "";
 
-$text['label-file-name-orig']['en-us'] = "Original File Name:";
-$text['label-file-name-orig']['zh-cn'] = "原始文件名：";
+$text['label-file-name-orig']['zh-cn'] = "Original File Name:";
+$text['label-file-name-orig']['en-us'] = "原始文件名：";
 $text['label-file-name-orig']['ar-eg'] = "";
 $text['label-file-name-orig']['de-at'] = "Ursprünglicher Dateiname:"; //copied from de-de
 $text['label-file-name-orig']['de-ch'] = "Ursprünglicher Dateiname:"; //copied from de-de
@@ -379,8 +379,8 @@ $text['label-file-name-orig']['ru-ru'] = "Оригинальное Имя Фай
 $text['label-file-name-orig']['sv-se'] = "Original Filnamn:";
 $text['label-file-name-orig']['uk-ua'] = "";
 
-$text['label-rename-file-to']['en-us'] = "Rename File To:";
-$text['label-rename-file-to']['zh-cn'] = "将文件重命名为：";
+$text['label-rename-file-to']['zh-cn'] = "Rename File To:";
+$text['label-rename-file-to']['en-us'] = "将文件重命名为：";
 $text['label-rename-file-to']['ar-eg'] = "";
 $text['label-rename-file-to']['de-at'] = "Datei umbenennen in:"; //copied from de-de
 $text['label-rename-file-to']['de-ch'] = "Datei umbenennen in:"; //copied from de-de
@@ -400,8 +400,8 @@ $text['label-rename-file-to']['ru-ru'] = "Переименовать Файл:";
 $text['label-rename-file-to']['sv-se'] = "Ändra Filnamn Till:";
 $text['label-rename-file-to']['uk-ua'] = "";
 
-$text['label-files']['en-us'] = "Files";
-$text['label-files']['zh-cn'] = "文件夹";
+$text['label-files']['zh-cn'] = "Files";
+$text['label-files']['en-us'] = "文件夹";
 $text['label-files']['ar-eg'] = "";
 $text['label-files']['de-at'] = "Dateien"; //copied from de-de
 $text['label-files']['de-ch'] = "Dateien"; //copied from de-de
@@ -421,8 +421,8 @@ $text['label-files']['ru-ru'] = "Файлы";
 $text['label-files']['sv-se'] = "Filer";
 $text['label-files']['uk-ua'] = "";
 
-$text['button-add-file']['en-us'] = "Add File";
-$text['button-add-file']['zh-cn'] = "添加文件";
+$text['button-add-file']['zh-cn'] = "Add File";
+$text['button-add-file']['en-us'] = "添加文件";
 $text['button-add-file']['ar-eg'] = "";
 $text['button-add-file']['de-at'] = "Datei hinzufügen"; //copied from de-de
 $text['button-add-file']['de-ch'] = "Datei hinzufügen"; //copied from de-de
@@ -442,8 +442,8 @@ $text['button-add-file']['ru-ru'] = "Добавить Файл";
 $text['button-add-file']['sv-se'] = "Lägg Till Fil";
 $text['button-add-file']['uk-ua'] = "";
 
-$text['button-add-dir']['en-us'] = "Add Dir";
-$text['button-add-dir']['zh-cn'] = "添加目录";
+$text['button-add-dir']['zh-cn'] = "Add Dir";
+$text['button-add-dir']['en-us'] = "添加目录";
 $text['button-add-dir']['ar-eg'] = "";
 $text['button-add-dir']['de-at'] = "Verzeichnis erstellen"; //copied from de-de
 $text['button-add-dir']['de-ch'] = "Verzeichnis erstellen"; //copied from de-de
@@ -463,8 +463,8 @@ $text['button-add-dir']['ru-ru'] = "Добавить Каталог";
 $text['button-add-dir']['sv-se'] = "Lägg Till Katalog";
 $text['button-add-dir']['uk-ua'] = "";
 
-$text['button-rename-file']['en-us'] = "Rename File";
-$text['button-rename-file']['zh-cn'] = "重命名文件";
+$text['button-rename-file']['zh-cn'] = "Rename File";
+$text['button-rename-file']['en-us'] = "重命名文件";
 $text['button-rename-file']['ar-eg'] = "";
 $text['button-rename-file']['de-at'] = "Datei umbenennen"; //copied from de-de
 $text['button-rename-file']['de-ch'] = "Datei umbenennen"; //copied from de-de
@@ -484,8 +484,8 @@ $text['button-rename-file']['ru-ru'] = "Переименовать Файл";
 $text['button-rename-file']['sv-se'] = "Namnändra Fil";
 $text['button-rename-file']['uk-ua'] = "";
 
-$text['message-delete-file']['en-us'] = "Are you sure you want to delete the selected file?";
-$text['message-delete-file']['zh-cn'] = "确实要删除所选文件吗？";
+$text['message-delete-file']['zh-cn'] = "Are you sure you want to delete the selected file?";
+$text['message-delete-file']['en-us'] = "确实要删除所选文件吗？";
 $text['message-delete-file']['ar-eg'] = "";
 $text['message-delete-file']['de-at'] = "Sind Sie sicher, dass Sie die markierte Datei löschen möchten?"; //copied from de-de
 $text['message-delete-file']['de-ch'] = "Sind Sie sicher, dass Sie die markierte Datei löschen möchten?"; //copied from de-de
@@ -505,8 +505,8 @@ $text['message-delete-file']['ru-ru'] = "Вы уверены, что хотит�
 $text['message-delete-file']['sv-se'] = "Är du säker på att du vill radera den valda filen?";
 $text['message-delete-file']['uk-ua'] = "";
 
-$text['button-del-file']['en-us'] = "Delete File";
-$text['button-del-file']['zh-cn'] = "删除文件";
+$text['button-del-file']['zh-cn'] = "Delete File";
+$text['button-del-file']['en-us'] = "删除文件";
 $text['button-del-file']['ar-eg'] = "";
 $text['button-del-file']['de-at'] = "Datei löschen"; //copied from de-de
 $text['button-del-file']['de-ch'] = "Datei löschen"; //copied from de-de
@@ -526,8 +526,8 @@ $text['button-del-file']['ru-ru'] = "Удалить Файл";
 $text['button-del-file']['sv-se'] = "Ta Bort Fil";
 $text['button-del-file']['uk-ua'] = "";
 
-$text['message-delete-folder']['en-us'] = "Are you sure you want to delete the selected folder?";
-$text['message-delete-folder']['zh-cn'] = "确实要删除所选文件夹吗？";
+$text['message-delete-folder']['zh-cn'] = "Are you sure you want to delete the selected folder?";
+$text['message-delete-folder']['en-us'] = "确实要删除所选文件夹吗？";
 $text['message-delete-folder']['ar-eg'] = "";
 $text['message-delete-folder']['de-at'] = "SSind Sie sicher, dass Sie den markierten Ordner löschen möchten?"; //copied from de-de
 $text['message-delete-folder']['de-ch'] = "SSind Sie sicher, dass Sie den markierten Ordner löschen möchten?"; //copied from de-de
@@ -547,8 +547,8 @@ $text['message-delete-folder']['ru-ru'] = "Вы действительно хо�
 $text['message-delete-folder']['sv-se'] = "Är du säker på att du vill radera den valda mappen?";
 $text['message-delete-folder']['uk-ua'] = "";
 
-$text['button-del-dir']['en-us'] = "Delete Dir";
-$text['button-del-dir']['zh-cn'] = "删除目录";
+$text['button-del-dir']['zh-cn'] = "Delete Dir";
+$text['button-del-dir']['en-us'] = "删除目录";
 $text['button-del-dir']['ar-eg'] = "";
 $text['button-del-dir']['de-at'] = "Verzeichnis löschen"; //copied from de-de
 $text['button-del-dir']['de-ch'] = "Verzeichnis löschen"; //copied from de-de
@@ -568,8 +568,8 @@ $text['button-del-dir']['ru-ru'] = "Удалить Каталог";
 $text['button-del-dir']['sv-se'] = "Ta Bort Mapp";
 $text['button-del-dir']['uk-ua'] = "";
 
-$text['message-error']['en-us'] = "Error!!";
-$text['message-error']['zh-cn'] = "错误！！";
+$text['message-error']['zh-cn'] = "Error!!";
+$text['message-error']['en-us'] = "错误！！";
 $text['message-error']['ar-eg'] = "";
 $text['message-error']['de-at'] = "Fehler!!"; //copied from de-de
 $text['message-error']['de-ch'] = "Fehler!!"; //copied from de-de
@@ -589,8 +589,8 @@ $text['message-error']['ru-ru'] = "Ошибка!!";
 $text['message-error']['sv-se'] = "Fel!!";
 $text['message-error']['uk-ua'] = "";
 
-$text['label-folder-name']['en-us'] = "Folder Name:";
-$text['label-folder-name']['zh-cn'] = "文件夹名称：";
+$text['label-folder-name']['zh-cn'] = "Folder Name:";
+$text['label-folder-name']['en-us'] = "文件夹名称：";
 $text['label-folder-name']['ar-eg'] = "";
 $text['label-folder-name']['de-at'] = "Verzeichnis Name:"; //copied from de-de
 $text['label-folder-name']['de-ch'] = "Verzeichnis Name:"; //copied from de-de
@@ -610,8 +610,8 @@ $text['label-folder-name']['ru-ru'] = "Имя Каталога";
 $text['label-folder-name']['sv-se'] = "Katalog Namn:";
 $text['label-folder-name']['uk-ua'] = "";
 
-$text['button-new-folder']['en-us'] = "New Folder";
-$text['button-new-folder']['zh-cn'] = "新建文件夹";
+$text['button-new-folder']['zh-cn'] = "New Folder";
+$text['button-new-folder']['en-us'] = "新建文件夹";
 $text['button-new-folder']['ar-eg'] = "";
 $text['button-new-folder']['de-at'] = "Neues Verzeichnis"; //copied from de-de
 $text['button-new-folder']['de-ch'] = "Neues Verzeichnis"; //copied from de-de
@@ -631,8 +631,8 @@ $text['button-new-folder']['ru-ru'] = "Новый Каталогr";
 $text['button-new-folder']['sv-se'] = "Ny Mapp";
 $text['button-new-folder']['uk-ua'] = "";
 
-$text['button-delete-this']['en-us'] = "Are you sure want to delete this?";
-$text['button-delete-this']['zh-cn'] = "是否确实要删除此？";
+$text['button-delete-this']['zh-cn'] = "Are you sure want to delete this?";
+$text['button-delete-this']['en-us'] = "是否确实要删除此？";
 $text['button-delete-this']['ar-eg'] = "";
 $text['button-delete-this']['de-at'] = "Sind Sie sicher, dass Sie dieses löschen möchten?"; //copied from de-de
 $text['button-delete-this']['de-ch'] = "Sind Sie sicher, dass Sie dieses löschen möchten?"; //copied from de-de
@@ -652,8 +652,8 @@ $text['button-delete-this']['ru-ru'] = "Вы действительно хоти
 $text['button-delete-this']['sv-se'] = "Vill du verkligen ta bort det här?";
 $text['button-delete-this']['uk-ua'] = "";
 
-$text['label-file']['en-us'] = "File:";
-$text['label-file']['zh-cn'] = "文件：";
+$text['label-file']['zh-cn'] = "File:";
+$text['label-file']['en-us'] = "文件：";
 $text['label-file']['ar-eg'] = "";
 $text['label-file']['de-at'] = "Datei:"; //copied from de-de
 $text['label-file']['de-ch'] = "Datei:"; //copied from de-de

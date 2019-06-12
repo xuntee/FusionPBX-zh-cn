@@ -1,8 +1,8 @@
 <?php
 #This file was last reorganized on 19th of September 2017 08:54:24 AM UTC
 
-$text['title-settings-update']['en-us'] = "Setting Update";
-$text['title-settings-update']['zh-cn'] = "设置更新";
+$text['title-settings-update']['zh-cn'] = "Setting Update";
+$text['title-settings-update']['en-us'] = "设置更新";
 $text['title-settings-update']['ar-eg'] = "";
 $text['title-settings-update']['de-at'] = "Einstellungen aktualisieren"; //copied from de-de
 $text['title-settings-update']['de-ch'] = "Einstellungen aktualisieren"; //copied from de-de
@@ -22,8 +22,8 @@ $text['title-settings-update']['ru-ru'] = "Обновление Параметр
 $text['title-settings-update']['sv-se'] = "Ändra Inställningar";
 $text['title-settings-update']['uk-ua'] = "Оновлення налаштувань";
 
-$text['title-settings-add']['en-us'] = "Setting Add";
-$text['title-settings-add']['zh-cn'] = "设置添加";
+$text['title-settings-add']['zh-cn'] = "Setting Add";
+$text['title-settings-add']['en-us'] = "设置添加";
 $text['title-settings-add']['ar-eg'] = "";
 $text['title-settings-add']['de-at'] = "Einstellung hinzufügen"; //copied from de-de
 $text['title-settings-add']['de-ch'] = "Einstellung hinzufügen"; //copied from de-de
@@ -43,8 +43,8 @@ $text['title-settings-add']['ru-ru'] = "Параметры добавлены";
 $text['title-settings-add']['sv-se'] = "Lägg Till Inställning";
 $text['title-settings-add']['uk-ua'] = "Додавання налаштувань";
 
-$text['label-xml-rpc-user']['en-us'] = "XML RPC Auth User";
-$text['label-xml-rpc-user']['zh-cn'] = "XML RPC身份验证用户";
+$text['label-xml-rpc-user']['zh-cn'] = "XML RPC Auth User";
+$text['label-xml-rpc-user']['en-us'] = "XML RPC身份验证用户";
 $text['label-xml-rpc-user']['ar-eg'] = "";
 $text['label-xml-rpc-user']['de-at'] = "XML RPC Auth Benutzer"; //copied from de-de
 $text['label-xml-rpc-user']['de-ch'] = "XML RPC Auth Benutzer"; //copied from de-de
@@ -64,8 +64,8 @@ $text['label-xml-rpc-user']['ru-ru'] = "Использовать XML RPC для 
 $text['label-xml-rpc-user']['sv-se'] = "XML RPC Auth User";
 $text['label-xml-rpc-user']['uk-ua'] = "XML RPC Auth User ";
 
-$text['label-xml-rpc-realm']['en-us'] = "XML RPC Auth Realm";
-$text['label-xml-rpc-realm']['zh-cn'] = "XML RPC认证领域";
+$text['label-xml-rpc-realm']['zh-cn'] = "XML RPC Auth Realm";
+$text['label-xml-rpc-realm']['en-us'] = "XML RPC认证领域";
 $text['label-xml-rpc-realm']['ar-eg'] = "";
 $text['label-xml-rpc-realm']['de-at'] = "XML RPC Auth Realm"; //copied from de-de
 $text['label-xml-rpc-realm']['de-ch'] = "XML RPC Auth Realm"; //copied from de-de
@@ -85,8 +85,8 @@ $text['label-xml-rpc-realm']['ru-ru'] = "Область проверки под�
 $text['label-xml-rpc-realm']['sv-se'] = "XML RPC Auth Realm";
 $text['label-xml-rpc-realm']['uk-ua'] = "XML RPC Auth Realm ";
 
-$text['label-xml-rpc-pw']['en-us'] = "XML RPC Auth Password";
-$text['label-xml-rpc-pw']['zh-cn'] = "XML RPC身份验证密码";
+$text['label-xml-rpc-pw']['zh-cn'] = "XML RPC Auth Password";
+$text['label-xml-rpc-pw']['en-us'] = "XML RPC身份验证密码";
 $text['label-xml-rpc-pw']['ar-eg'] = "";
 $text['label-xml-rpc-pw']['de-at'] = "XML RPC Auth Passwort"; //copied from de-de
 $text['label-xml-rpc-pw']['de-ch'] = "XML RPC Auth Passwort"; //copied from de-de
@@ -106,8 +106,8 @@ $text['label-xml-rpc-pw']['ru-ru'] = "XML RPC Пароль проверки по
 $text['label-xml-rpc-pw']['sv-se'] = "XML RPC Auth Password";
 $text['label-xml-rpc-pw']['uk-ua'] = "XML RPC Auth Password ";
 
-$text['label-xml-rpc-port']['en-us'] = "XML RPC HTTP Port";
-$text['label-xml-rpc-port']['zh-cn'] = "XML RPC HTTP端口";
+$text['label-xml-rpc-port']['zh-cn'] = "XML RPC HTTP Port";
+$text['label-xml-rpc-port']['en-us'] = "XML RPC HTTP端口";
 $text['label-xml-rpc-port']['ar-eg'] = "";
 $text['label-xml-rpc-port']['de-at'] = "XML RPC HTTP Port "; //copied from de-de
 $text['label-xml-rpc-port']['de-ch'] = "XML RPC HTTP Port "; //copied from de-de
@@ -127,8 +127,8 @@ $text['label-xml-rpc-port']['ru-ru'] = "XML RPC HTTP Порт";
 $text['label-xml-rpc-port']['sv-se'] = "XML RPC HTTP Port";
 $text['label-xml-rpc-port']['uk-ua'] = "XML RPC HTTP Port ";
 
-$text['label-shout-volume']['en-us'] = "Mod Shout Volume";
-$text['label-shout-volume']['zh-cn'] = "模呼音量";
+$text['label-shout-volume']['zh-cn'] = "Mod Shout Volume";
+$text['label-shout-volume']['en-us'] = "模呼音量";
 $text['label-shout-volume']['ar-eg'] = "";
 $text['label-shout-volume']['de-at'] = "Mod Shout Lautstärke"; //copied from de-de
 $text['label-shout-volume']['de-ch'] = "Mod Shout Lautstärke"; //copied from de-de
@@ -148,8 +148,8 @@ $text['label-shout-volume']['ru-ru'] = "Mod Shout Volume";
 $text['label-shout-volume']['sv-se'] = "Mod Shout Volume";
 $text['label-shout-volume']['uk-ua'] = "Mod Shout Volume ";
 
-$text['label-shout-decoder']['en-us'] = "Mod Shout Decoder";
-$text['label-shout-decoder']['zh-cn'] = "mod呼叫解码器";
+$text['label-shout-decoder']['zh-cn'] = "Mod Shout Decoder";
+$text['label-shout-decoder']['en-us'] = "mod呼叫解码器";
 $text['label-shout-decoder']['ar-eg'] = "";
 $text['label-shout-decoder']['de-at'] = "Mod Shout Decoder"; //copied from de-de
 $text['label-shout-decoder']['de-ch'] = "Mod Shout Decoder"; //copied from de-de
@@ -169,8 +169,8 @@ $text['label-shout-decoder']['ru-ru'] = "Mod Shout Decoder";
 $text['label-shout-decoder']['sv-se'] = "Mod Shout Decoder";
 $text['label-shout-decoder']['uk-ua'] = "Mod Shout Decoder ";
 
-$text['label-event-socket-pw']['en-us'] = "Event Socket Password";
-$text['label-event-socket-pw']['zh-cn'] = "事件套接字密码";
+$text['label-event-socket-pw']['zh-cn'] = "Event Socket Password";
+$text['label-event-socket-pw']['en-us'] = "事件套接字密码";
 $text['label-event-socket-pw']['ar-eg'] = "";
 $text['label-event-socket-pw']['de-at'] = "Event Socket Passwort"; //copied from de-de
 $text['label-event-socket-pw']['de-ch'] = "Event Socket Passwort"; //copied from de-de
@@ -190,8 +190,8 @@ $text['label-event-socket-pw']['ru-ru'] = "Пароль сокета событ�
 $text['label-event-socket-pw']['sv-se'] = "Event Socket Password";
 $text['label-event-socket-pw']['uk-ua'] = "Event Socket Password ";
 
-$text['label-event-socket-port']['en-us'] = "Event Socket Port";
-$text['label-event-socket-port']['zh-cn'] = "事件套接字端口";
+$text['label-event-socket-port']['zh-cn'] = "Event Socket Port";
+$text['label-event-socket-port']['en-us'] = "事件套接字端口";
 $text['label-event-socket-port']['ar-eg'] = "";
 $text['label-event-socket-port']['de-at'] = "Event Socket Port"; //copied from de-de
 $text['label-event-socket-port']['de-ch'] = "Event Socket Port"; //copied from de-de
@@ -211,8 +211,8 @@ $text['label-event-socket-port']['ru-ru'] = "Порт сокета событи�
 $text['label-event-socket-port']['sv-se'] = "Event Socket Port ";
 $text['label-event-socket-port']['uk-ua'] = "Event Socket Port ";
 
-$text['label-event-socket-ip']['en-us'] = "Event Socket IP Address";
-$text['label-event-socket-ip']['zh-cn'] = "事件套接字IP地址";
+$text['label-event-socket-ip']['zh-cn'] = "Event Socket IP Address";
+$text['label-event-socket-ip']['en-us'] = "事件套接字IP地址";
 $text['label-event-socket-ip']['ar-eg'] = "";
 $text['label-event-socket-ip']['de-at'] = "Event Socket IP Adresse"; //copied from de-de
 $text['label-event-socket-ip']['de-ch'] = "Event Socket IP Adresse"; //copied from de-de
@@ -232,8 +232,8 @@ $text['label-event-socket-ip']['ru-ru'] = "IP Address сокета событи�
 $text['label-event-socket-ip']['sv-se'] = "Event Socket IP Address";
 $text['label-event-socket-ip']['uk-ua'] = "Event Socket IP Address";
 
-$text['description-xml-rpc-user']['en-us'] = "Enter the XML RPC Auth User. default: xmlrpc";
-$text['description-xml-rpc-user']['zh-cn'] = "输入xml rpc auth用户。默认值：xmlrpc";
+$text['description-xml-rpc-user']['zh-cn'] = "Enter the XML RPC Auth User. default: xmlrpc";
+$text['description-xml-rpc-user']['en-us'] = "输入xml rpc auth用户。默认值：xmlrpc";
 $text['description-xml-rpc-user']['ar-eg'] = "";
 $text['description-xml-rpc-user']['de-at'] = "Geben Sie den XML RPC Auth Benutzer an. Standard: xmlrpc"; //copied from de-de
 $text['description-xml-rpc-user']['de-ch'] = "Geben Sie den XML RPC Auth Benutzer an. Standard: xmlrpc"; //copied from de-de
@@ -253,8 +253,8 @@ $text['description-xml-rpc-user']['ru-ru'] = "Введите XML RPC для ав
 $text['description-xml-rpc-user']['sv-se'] = "Fyll i XML RPC Auth User. default: xmlrpc";
 $text['description-xml-rpc-user']['uk-ua'] = "Enter the XML RPC Auth User. default: xmlrpc ";
 
-$text['description-xml-rpc-realm']['en-us'] = "Enter the XML RPC Auth Realm. default: freeswitch";
-$text['description-xml-rpc-realm']['zh-cn'] = "输入XML RPC认证领域。默认值：FreeSwitch";
+$text['description-xml-rpc-realm']['zh-cn'] = "Enter the XML RPC Auth Realm. default: freeswitch";
+$text['description-xml-rpc-realm']['en-us'] = "输入XML RPC认证领域。默认值：FreeSwitch";
 $text['description-xml-rpc-realm']['ar-eg'] = "";
 $text['description-xml-rpc-realm']['de-at'] = "Geben Sie den XML RPC Auth Realm an. Standard: freeswitch"; //copied from de-de
 $text['description-xml-rpc-realm']['de-ch'] = "Geben Sie den XML RPC Auth Realm an. Standard: freeswitch"; //copied from de-de
@@ -274,8 +274,8 @@ $text['description-xml-rpc-realm']['ru-ru'] = "Введите XML RPC облас
 $text['description-xml-rpc-realm']['sv-se'] = "Fyll i XML RPC Auth Realm. default: freeswitch ";
 $text['description-xml-rpc-realm']['uk-ua'] = "Enter the XML RPC Auth Realm. default: freeswitch ";
 
-$text['description-xml-rpc-pw']['en-us'] = "Enter the XML RPC Auth Password.";
-$text['description-xml-rpc-pw']['zh-cn'] = "输入XML RPC身份验证密码。";
+$text['description-xml-rpc-pw']['zh-cn'] = "Enter the XML RPC Auth Password.";
+$text['description-xml-rpc-pw']['en-us'] = "输入XML RPC身份验证密码。";
 $text['description-xml-rpc-pw']['ar-eg'] = "";
 $text['description-xml-rpc-pw']['de-at'] = "Geben Sie das XML RPC Auth Passwort an."; //copied from de-de
 $text['description-xml-rpc-pw']['de-ch'] = "Geben Sie das XML RPC Auth Passwort an."; //copied from de-de
@@ -295,8 +295,8 @@ $text['description-xml-rpc-pw']['ru-ru'] = "Введите XML RPC Пароль 
 $text['description-xml-rpc-pw']['sv-se'] = "Fyll i XML RPC Auth Password.";
 $text['description-xml-rpc-pw']['uk-ua'] = "Enter the XML RPC Auth Password. ";
 
-$text['description-xml-rpc-port']['en-us'] = "Enter the XML RPC HTTP Port. default: 8080";
-$text['description-xml-rpc-port']['zh-cn'] = "输入XML RPC HTTP端口。默认值：8080";
+$text['description-xml-rpc-port']['zh-cn'] = "Enter the XML RPC HTTP Port. default: 8080";
+$text['description-xml-rpc-port']['en-us'] = "输入XML RPC HTTP端口。默认值：8080";
 $text['description-xml-rpc-port']['ar-eg'] = "";
 $text['description-xml-rpc-port']['de-at'] = "Geben Sie den XML RPC HTTP Port an. Standard: 8080"; //copied from de-de
 $text['description-xml-rpc-port']['de-ch'] = "Geben Sie den XML RPC HTTP Port an. Standard: 8080"; //copied from de-de
@@ -316,8 +316,8 @@ $text['description-xml-rpc-port']['ru-ru'] = "Введите XML RPC HTTP Пор
 $text['description-xml-rpc-port']['sv-se'] = "Fyll i XML RPC HTTP Port. default: 8080";
 $text['description-xml-rpc-port']['uk-ua'] = "Enter the XML RPC HTTP Port. default: 8080 ";
 
-$text['description-shout-volume']['en-us'] = "Enter Mod Shout Volume.";
-$text['description-shout-volume']['zh-cn'] = "输入mod呼喊音量。";
+$text['description-shout-volume']['zh-cn'] = "Enter Mod Shout Volume.";
+$text['description-shout-volume']['en-us'] = "输入mod呼喊音量。";
 $text['description-shout-volume']['ar-eg'] = "";
 $text['description-shout-volume']['de-at'] = "Geben Sie Mod Shout Lautstärke an."; //copied from de-de
 $text['description-shout-volume']['de-ch'] = "Geben Sie Mod Shout Lautstärke an."; //copied from de-de
@@ -337,8 +337,8 @@ $text['description-shout-volume']['ru-ru'] = "Введите Mod Shout Volume.";
 $text['description-shout-volume']['sv-se'] = "Fyll i Mod Shout Volume.";
 $text['description-shout-volume']['uk-ua'] = "Enter Mod Shout Volume. ";
 
-$text['description-shout-decoder']['en-us'] = "Enter the Decoder. default: i386";
-$text['description-shout-decoder']['zh-cn'] = "输入解码器。默认值：i386";
+$text['description-shout-decoder']['zh-cn'] = "Enter the Decoder. default: i386";
+$text['description-shout-decoder']['en-us'] = "输入解码器。默认值：i386";
 $text['description-shout-decoder']['ar-eg'] = "";
 $text['description-shout-decoder']['de-at'] = "Wählen Sie den Decoder. Standard: i386"; //copied from de-de
 $text['description-shout-decoder']['de-ch'] = "Wählen Sie den Decoder. Standard: i386"; //copied from de-de
@@ -358,8 +358,8 @@ $text['description-shout-decoder']['ru-ru'] = "Введите Decoder. По ум
 $text['description-shout-decoder']['sv-se'] = "Fyll i Decoder. default: i386";
 $text['description-shout-decoder']['uk-ua'] = "Enter the Decoder. default: i386 ";
 
-$text['description-event-socket-pw']['en-us'] = "Enter the event socket password.";
-$text['description-event-socket-pw']['zh-cn'] = "输入事件套接字密码。";
+$text['description-event-socket-pw']['zh-cn'] = "Enter the event socket password.";
+$text['description-event-socket-pw']['en-us'] = "输入事件套接字密码。";
 $text['description-event-socket-pw']['ar-eg'] = "";
 $text['description-event-socket-pw']['de-at'] = "Geben Sie das Event Socket Passwort an."; //copied from de-de
 $text['description-event-socket-pw']['de-ch'] = "Geben Sie das Event Socket Passwort an."; //copied from de-de
@@ -379,8 +379,8 @@ $text['description-event-socket-pw']['ru-ru'] = "Введите пароль с�
 $text['description-event-socket-pw']['sv-se'] = "Fyll i event socket password.";
 $text['description-event-socket-pw']['uk-ua'] = "Enter the event socket password. ";
 
-$text['description-event-socket-port']['en-us'] = "Enter the event socket port. default: 8021";
-$text['description-event-socket-port']['zh-cn'] = "输入事件套接字端口。默认值：8021";
+$text['description-event-socket-port']['zh-cn'] = "Enter the event socket port. default: 8021";
+$text['description-event-socket-port']['en-us'] = "输入事件套接字端口。默认值：8021";
 $text['description-event-socket-port']['ar-eg'] = "";
 $text['description-event-socket-port']['de-at'] = "Geben Sie den Event Socket Port an. Standard: 8021"; //copied from de-de
 $text['description-event-socket-port']['de-ch'] = "Geben Sie den Event Socket Port an. Standard: 8021"; //copied from de-de
@@ -400,8 +400,8 @@ $text['description-event-socket-port']['ru-ru'] = "Введите порт со�
 $text['description-event-socket-port']['sv-se'] = "Fyll i event socket port. default: 8021";
 $text['description-event-socket-port']['uk-ua'] = "Enter the event socket port. default: 8021 ";
 
-$text['description-event-socket-ip']['en-us'] = "Enter the event socket IP address. default: 127.0.0.1";
-$text['description-event-socket-ip']['zh-cn'] = "输入事件套接字IP地址。默认值：127.0.0.1";
+$text['description-event-socket-ip']['zh-cn'] = "Enter the event socket IP address. default: 127.0.0.1";
+$text['description-event-socket-ip']['en-us'] = "输入事件套接字IP地址。默认值：127.0.0.1";
 $text['description-event-socket-ip']['ar-eg'] = "";
 $text['description-event-socket-ip']['de-at'] = "Geben Sie die Event Socket IP Addresse an. Standard: 127.0.0.1"; //copied from de-de
 $text['description-event-socket-ip']['de-ch'] = "Geben Sie die Event Socket IP Addresse an. Standard: 127.0.0.1"; //copied from de-de

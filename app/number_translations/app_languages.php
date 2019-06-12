@@ -1,7 +1,7 @@
 <?php
 
 //Number Translations
-$text['title-number_translations']['en-us'] = 'Number Translations';
+$text['title-number_translations']['zh-cn'] = 'Number Translations';
 $text['title-number_translations']['ar-eg'] = '';
 $text['title-number_translations']['de-at'] = '';
 $text['title-number_translations']['de-ch'] = '';
@@ -21,7 +21,7 @@ $text['title-number_translations']['ru-ru'] = 'Преобразование но
 $text['title-number_translations']['sv-se'] = '';
 $text['title-number_translations']['uk-ua'] = '';
 
-$text['title-number_translation']['en-us'] = 'Number Translation';
+$text['title-number_translation']['zh-cn'] = 'Number Translation';
 $text['title-number_translation']['ar-eg'] = '';
 $text['title-number_translation']['de-at'] = '';
 $text['title-number_translation']['de-ch'] = '';
@@ -41,7 +41,7 @@ $text['title-number_translation']['ru-ru'] = 'Преобразование но�
 $text['title-number_translation']['sv-se'] = '';
 $text['title-number_translation']['uk-ua'] = '';
 
-$text['title_description-number_translation']['en-us'] = 'Use this to translate numbers from the original number to a new number using regular expressions.';
+$text['title_description-number_translation']['zh-cn'] = 'Use this to translate numbers from the original number to a new number using regular expressions.';
 $text['title_description-number_translation']['ar-eg'] = '';
 $text['title_description-number_translation']['de-at'] = '';
 $text['title_description-number_translation']['de-ch'] = '';
@@ -61,7 +61,7 @@ $text['title_description-number_translation']['ru-ru'] = 'Используйте
 $text['title_description-number_translation']['sv-se'] = '';
 $text['title_description-number_translation']['uk-ua'] = '';
 
-$text['label-number_translation_detail_regex']['en-us'] = 'Regular Expression';
+$text['label-number_translation_detail_regex']['zh-cn'] = 'Regular Expression';
 $text['label-number_translation_detail_regex']['ar-eg'] = "تعبير عادي";
 $text['label-number_translation_detail_regex']['de-at'] = "Regulärer Ausdruck"; //copied from de-de
 $text['label-number_translation_detail_regex']['de-ch'] = "Regulärer Ausdruck"; //copied from de-de
@@ -81,7 +81,7 @@ $text['label-number_translation_detail_regex']['ru-ru'] = "Регулярное 
 $text['label-number_translation_detail_regex']['sv-se'] = "Vanligt uttryck";
 $text['label-number_translation_detail_regex']['uk-ua'] = "Регулярний вираз";
 
-$text['description-number_translation_detail_regex']['en-us'] = 'Enter the regular expression that identifies the number to replace.';
+$text['description-number_translation_detail_regex']['zh-cn'] = 'Enter the regular expression that identifies the number to replace.';
 $text['description-number_translation_detail_regex']['ar-eg'] = '';
 $text['description-number_translation_detail_regex']['de-at'] = '';
 $text['description-number_translation_detail_regex']['de-ch'] = '';
@@ -101,8 +101,8 @@ $text['description-number_translation_detail_regex']['ru-ru'] = 'Задайте 
 $text['description-number_translation_detail_regex']['sv-se'] = '';
 $text['description-number_translation_detail_regex']['uk-ua'] = '';
 
-$text['label-number_translation_detail_replace']['en-us'] = "Replace";
-$text['label-number_translation_detail_replace']['zh-cn'] = "更换";
+$text['label-number_translation_detail_replace']['zh-cn'] = "Replace";
+$text['label-number_translation_detail_replace']['en-us'] = "更换";
 $text['label-number_translation_detail_replace']['ar-eg'] = "يحل محل";
 $text['label-number_translation_detail_replace']['de-at'] = "Ersetzen"; //copied from de-de
 $text['label-number_translation_detail_replace']['de-ch'] = "Ersetzen"; //copied from de-de
@@ -122,7 +122,7 @@ $text['label-number_translation_detail_replace']['ru-ru'] = "Замена";
 $text['label-number_translation_detail_replace']['sv-se'] = "Byta ut";
 $text['label-number_translation_detail_replace']['uk-ua'] = "заміщати";
 
-$text['description-number_translation_detail_replace']['en-us'] = 'Enter the number translation detail replace.';
+$text['description-number_translation_detail_replace']['zh-cn'] = 'Enter the number translation detail replace.';
 $text['description-number_translation_detail_replace']['ar-eg'] = '';
 $text['description-number_translation_detail_replace']['de-at'] = '';
 $text['description-number_translation_detail_replace']['de-ch'] = '';
@@ -142,7 +142,7 @@ $text['description-number_translation_detail_replace']['ru-ru'] = '';
 $text['description-number_translation_detail_replace']['sv-se'] = '';
 $text['description-number_translation_detail_replace']['uk-ua'] = '';
 
-$text['label-number_translation_detail_order']['en-us'] = 'Order';
+$text['label-number_translation_detail_order']['zh-cn'] = 'Order';
 $text['label-number_translation_detail_order']['ar-eg'] = '';
 $text['label-number_translation_detail_order']['de-at'] = '';
 $text['label-number_translation_detail_order']['de-ch'] = '';
@@ -162,7 +162,7 @@ $text['label-number_translation_detail_order']['ru-ru'] = 'Приоритет';
 $text['label-number_translation_detail_order']['sv-se'] = '';
 $text['label-number_translation_detail_order']['uk-ua'] = '';
 
-$text['description-number_translation_detail_order']['en-us'] = 'Select the rule order.';
+$text['description-number_translation_detail_order']['zh-cn'] = 'Select the rule order.';
 $text['description-number_translation_detail_order']['ar-eg'] = '';
 $text['description-number_translation_detail_order']['de-at'] = '';
 $text['description-number_translation_detail_order']['de-ch'] = '';
@@ -182,7 +182,7 @@ $text['description-number_translation_detail_order']['ru-ru'] = 'Задайте 
 $text['description-number_translation_detail_order']['sv-se'] = '';
 $text['description-number_translation_detail_order']['uk-ua'] = '';
 
-$text['label-number_translation_name']['en-us'] = 'Name';
+$text['label-number_translation_name']['zh-cn'] = 'Name';
 $text['label-number_translation_name']['ar-eg'] = '';
 $text['label-number_translation_name']['de-at'] = '';
 $text['label-number_translation_name']['de-ch'] = '';
@@ -202,7 +202,7 @@ $text['label-number_translation_name']['ru-ru'] = 'Имя';
 $text['label-number_translation_name']['sv-se'] = '';
 $text['label-number_translation_name']['uk-ua'] = '';
 
-$text['description-number_translation_name']['en-us'] = 'Enter the number translation name.';
+$text['description-number_translation_name']['zh-cn'] = 'Enter the number translation name.';
 $text['description-number_translation_name']['ar-eg'] = '';
 $text['description-number_translation_name']['de-at'] = '';
 $text['description-number_translation_name']['de-ch'] = '';
@@ -222,7 +222,7 @@ $text['description-number_translation_name']['ru-ru'] = 'Задайте имя �
 $text['description-number_translation_name']['sv-se'] = '';
 $text['description-number_translation_name']['uk-ua'] = '';
 
-$text['label-number_translation_details']['en-us'] = 'Details';
+$text['label-number_translation_details']['zh-cn'] = 'Details';
 $text['label-number_translation_details']['ar-eg'] = '';
 $text['label-number_translation_details']['de-at'] = '';
 $text['label-number_translation_details']['de-ch'] = '';
@@ -242,7 +242,7 @@ $text['label-number_translation_details']['ru-ru'] = 'Действия по пр
 $text['label-number_translation_details']['sv-se'] = '';
 $text['label-number_translation_details']['uk-ua'] = '';
 
-$text['description-number_translation_details']['en-us'] = '';
+$text['description-number_translation_details']['zh-cn'] = '';
 $text['description-number_translation_details']['ar-eg'] = '';
 $text['description-number_translation_details']['de-at'] = '';
 $text['description-number_translation_details']['de-ch'] = '';
@@ -262,7 +262,7 @@ $text['description-number_translation_details']['ru-ru'] = '';
 $text['description-number_translation_details']['sv-se'] = '';
 $text['description-number_translation_details']['uk-ua'] = '';
 
-$text['label-number_translation_enabled']['en-us'] = 'Enabled';
+$text['label-number_translation_enabled']['zh-cn'] = 'Enabled';
 $text['label-number_translation_enabled']['ar-eg'] = '';
 $text['label-number_translation_enabled']['de-at'] = '';
 $text['label-number_translation_enabled']['de-ch'] = '';
@@ -282,7 +282,7 @@ $text['label-number_translation_enabled']['ru-ru'] = 'Включено';
 $text['label-number_translation_enabled']['sv-se'] = '';
 $text['label-number_translation_enabled']['uk-ua'] = '';
 
-$text['description-number_translation_enabled']['en-us'] = 'Enter the number translation enabled.';
+$text['description-number_translation_enabled']['zh-cn'] = 'Enter the number translation enabled.';
 $text['description-number_translation_enabled']['ar-eg'] = '';
 $text['description-number_translation_enabled']['de-at'] = '';
 $text['description-number_translation_enabled']['de-ch'] = '';
@@ -302,7 +302,7 @@ $text['description-number_translation_enabled']['ru-ru'] = 'Включить/в�
 $text['description-number_translation_enabled']['sv-se'] = '';
 $text['description-number_translation_enabled']['uk-ua'] = '';
 
-$text['label-number_translation_description']['en-us'] = 'Description';
+$text['label-number_translation_description']['zh-cn'] = 'Description';
 $text['label-number_translation_description']['ar-eg'] = '';
 $text['label-number_translation_description']['de-at'] = '';
 $text['label-number_translation_description']['de-ch'] = '';
@@ -322,7 +322,7 @@ $text['label-number_translation_description']['ru-ru'] = 'Описание';
 $text['label-number_translation_description']['sv-se'] = '';
 $text['label-number_translation_description']['uk-ua'] = '';
 
-$text['description-number_translation_description']['en-us'] = 'Enter the number translation description.';
+$text['description-number_translation_description']['zh-cn'] = 'Enter the number translation description.';
 $text['description-number_translation_description']['ar-eg'] = '';
 $text['description-number_translation_description']['de-at'] = '';
 $text['description-number_translation_description']['de-ch'] = '';
